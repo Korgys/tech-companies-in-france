@@ -1,1 +1,51 @@
-name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified,sources
+name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
+ABICOM,software,AUBIERE,,https://www.abicom.fr/recrutement/,https://www.linkedin.com/company/abicom/,,51-1000,Hébergement et traitement de données,2026-09-21
+ADOBE SYSTEMS FRANCE SAS,software,CLERMONT-FERRAND,,https://careers.adobe.com/us/en,https://www.linkedin.com/company/adobe/,,51-1000,Éditeur de logiciels,2026-09-21
+ALMERYS SOFTWARE,software,CLERMONT-FERRAND,,,,,11-50,Développement logiciel,2026-09-21
+ATTIC +,software,CLERMONT-FERRAND,,,https://www.linkedin.com/company/atticplus/,,,Éditeur de logiciels,2026-09-21
+BE YS CLOUD FRANCE,software,CLERMONT-FERRAND,,,,,11-50,ESN,2026-09-21
+BE YS HEALTH SOLUTIONS FRANCE,software,CLERMONT-FERRAND,,,,,,Développement logiciel,2026-09-21
+BE YS TRUSTED SOLUTIONS FRANCE,software,CLERMONT-FERRAND,,,,,,Développement logiciel,2026-09-21
+BPAP,software,CLERMONT-FERRAND,,,https://www.linkedin.com/company/bpap-sas/,,11-50,ESN,2026-09-21
+BRAINCUBE,software,ISSOIRE,,https://careers.braincube.com/,https://www.linkedin.com/company/braincubefr/,,51-1000,Développement logiciel,2026-09-21
+CEGEDIM SANTE,software,CLERMONT-FERRAND,,https://careers.cegedim.com/fr,https://www.linkedin.com/company/cegedim-sante/,,51-1000,Développement logiciel,2026-09-21
+CEGI ALFA,software,CLERMONT-FERRAND,,,,,51-1000,Éditeur de logiciels,2026-09-21
+CELAD,software,CLERMONT-FERRAND,,,https://www.linkedin.com/company/celad/,,51-1000,ESN,2026-09-21
+CIRCET,telecom,CLERMONT-FERRAND,,https://www.circet.fr/offres-demploi,https://www.linkedin.com/company/circet/,,1000+,Télécoms,2026-09-21
+COFIDOC,software,COURNON-D'AUVERGNE,,https://cofidoc.fr/rejoignez-nous/,https://www.linkedin.com/company/cofidoc/,,,Hébergement et traitement de données,2026-09-21
+CONFLUENCE CONSEIL,software,CLERMONT-FERRAND,,https://confluenceconseil.fr/nous-rejoindre,https://www.linkedin.com/company/confluence-conseil/,,11-50,ESN,2026-09-21
+EVIDEN FRANCE,software,CLERMONT-FERRAND,,https://eviden.com/careers/,https://www.linkedin.com/company/eviden/,,1000+,ESN,2026-09-21
+FORTERRO FRANCE ABAS S.A.S.,software,CLERMONT-FERRAND,,,,,,ESN,2026-09-21
+GENERIX GROUP,software,CLERMONT-FERRAND,,https://www.generixgroup.com/fr/carrieres,https://www.linkedin.com/company/generix/,,51-1000,Éditeur de logiciels,2026-09-21
+HM RESEAUX,software,THIERS,,,,,1-10,Maintenance informatique,2026-09-21
+HR-ITCONSULTING,software,PERIGNAT-LES-SARLIEVE,,,https://www.linkedin.com/company/hr-it-consulting/,,1-10,ESN,2026-09-21
+INETUM,software,CLERMONT-FERRAND,,https://www.inetum.com/fr/fr/careers.html,https://www.linkedin.com/company/inetum/,,1000+,ESN,2026-09-21
+INFASS SYSTEMES,software,CLERMONT-FERRAND,,https://www.infass.com/recrutement/,https://www.linkedin.com/company/infass-syst-mes/,,11-50,ESN,2026-09-21
+INTER TRADE NETWORK,software,CLERMONT-FERRAND,,,,,,ESN,2026-09-21
+JILITI,software,CLERMONT-FERRAND,,,,,51-1000,Services informatiques,2026-09-21
+JP INFORMATIQUE,software,COURNON-D'AUVERGNE,,,https://www.linkedin.com/company/jp-informatique/,,,ESN,2026-09-21
+KIPMI SOFTWARE FRANCE,software,CLERMONT-FERRAND,,,,,1-10,Développement logiciel,2026-09-21
+KYNDRYL FRANCE,software,AUBIERE,,https://www.kyndryl.com/fr/fr/careers,https://www.linkedin.com/company/kyndryl/,,,Infogérance,2026-09-21
+LEE CONSEIL,software,COURNON-D'AUVERGNE,,https://www.lee-conseil.fr/nous-rejoindre/,https://www.linkedin.com/company/lee-sormea/,,11-50,ESN,2026-09-21
+LOCAL.FR,software,CLERMONT-FERRAND,,https://recrutement.local.fr/,https://www.linkedin.com/company/local.fr/,,51-1000,Développement logiciel,2026-09-21
+LOJELIS,software,CLERMONT-FERRAND,,https://recrutement.lojelis.com/fr/,https://www.linkedin.com/company/lojelis/,,51-1000,ESN,2026-09-21
+M-INNOV,software,ROMAGNAT,,,,,1-10,Développement logiciel,2026-09-21
+MISTRAL INFORMATIQUE,software,CLERMONT-FERRAND,,,https://www.linkedin.com/company/mistral-informatique/,,,Maintenance informatique,2026-09-21
+NEO-LOGIX,software,CLERMONT-FERRAND,,,,,11-50,ESN,2026-09-21
+NEXEREN,software,CEBAZAT,,,https://www.linkedin.com/company/nexeren-datacenter/,,,Hébergement et traitement de données,2026-09-21
+OMYDOO,software,CHAPDES-BEAUFORT,,,https://www.linkedin.com/company/omydoo/,Python|Odoo,,Développement logiciel,2026-09-21
+OPENDEV,software,AUBIERE,,,,,,Développement logiciel,2026-09-21
+OPENSTUDIO,software,CLERMONT-FERRAND,,https://www.openstudio.fr/recrutement/,https://www.linkedin.com/company/openstudio/,PHP|Symfony,51-1000,ESN,2026-09-21
+ORANGE,telecom,CLERMONT-FERRAND,,https://orange.jobs/fr/fr/europe/france,https://www.linkedin.com/company/orange/,,1000+,Télécoms,2026-09-21
+ORANGE CONCESSIONS,telecom,CLERMONT-FERRAND,,,https://www.linkedin.com/company/orangeconcessions/,,51-1000,Télécoms,2026-09-21
+OSS FACTORY,software,CLERMONT-FERRAND,,https://www.ossfactory.com/jobs,https://www.linkedin.com/company/oss-factory/,Odoo,1-10,Maintenance informatique,2026-09-21
+OV CORPORATION,software,THIERS,,,,,1-10,Hébergement et traitement de données,2026-09-21
+PRO'KATEL,telecom,RIOM,,,,,11-50,Télécoms,2026-09-21
+REFLEX TRAINING,software,CLERMONT-FERRAND,,,,,,Éditeur de logiciels,2026-09-21
+REGGAO,software,CLERMONT-FERRAND,,,https://www.linkedin.com/company/reggao/,,1-10,Développement logiciel,2026-09-21
+SARL SB TRADUCTION,software,CLERMONT-FERRAND,,,,,1-10,Développement logiciel,2026-09-21
+SOCIETE FRANCAISE DU RADIOTELEPHONE - S.F.R,telecom,AUBIERE,,https://recrutement.sfr.com/,https://www.linkedin.com/company/sfr/,,1000+,Télécoms,2026-09-21
+SOPRA STERIA GROUP,software,AUBIERE,,https://careers.soprasteria.fr/,https://www.linkedin.com/company/soprasteria/,,1000+,ESN,2026-09-21
+SURGAR,software,CLERMONT-FERRAND,,,https://www.linkedin.com/company/surgar/,,11-50,Développement logiciel,2026-09-21
+TIBCO,software,COURNON-D'AUVERGNE,,,https://www.linkedin.com/company/tibco-bienvivrelenumerique/,,51-1000,ESN,2026-09-21
+WALDEN DIGITAL FRANCE,software,COURNON-D'AUVERGNE,,,,,,Développement logiciel,2026-09-21

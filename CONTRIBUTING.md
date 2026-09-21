@@ -7,8 +7,8 @@
 2. Modifier le CSV `data/<region>/<numero-departement>-<nom-departement>.csv`,
    directement sur GitHub ou localement. Éviter les doublons pour une même
    implantation.
-3. Ajouter une ligne respectant les colonnes ci-dessous, au moins une source
-   et la date de vérification `last_verified`.
+3. Ajouter une ligne respectant les colonnes ci-dessous et renseigner la date
+   de vérification `last_verified`.
 4. Ouvrir une pull request et vérifier que la validation automatique réussit.
 
 Une entreprise peut apparaître dans plusieurs départements si elle dispose
@@ -30,7 +30,7 @@ Tous les fichiers utilisent UTF-8, la virgule comme séparateur et exactement
 cet en-tête, dans cet ordre :
 
 ```csv
-name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified,sources
+name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
 ```
 
 Entourer de guillemets les champs contenant une virgule, un guillemet ou un
@@ -40,18 +40,17 @@ Séparer les valeurs multiples par `|`, sans espaces autour du séparateur.
 ## Renseigner les champs
 
 | Colonne         | Convention                                                                                                                                                  |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `name`          | Nom public de l'entreprise.                                                                                                                                 |
-| `domain`        | Un ou plusieurs domaines normalisés, séparés par `                                                                                                          | `.  |
+| `domain`        | Un ou plusieurs domaines normalisés, séparés par `\|`. |
 | `city`          | Ville de l'implantation tech dans le département.                                                                                                           |
 | `website`       | URL du site officiel.                                                                                                                                       |
 | `careers_url`   | URL de la page carrière officielle si elle existe.                                                                                                          |
 | `linkedin_url`  | URL de la page LinkedIn officielle.                                                                                                                         |
 | `known_stack`   | Technologies publiquement identifiées, séparées par `\|`.                                                                                                   |
-| `company_size`  | `1-10`, `11-50`, `51-1000`, `1000+`, ou vide si inconnu. Effectif global de l'entreprise ou du groupe ; préciser le périmètre dans les notes si nécessaire. |
-| `notes`         | Informations utiles aux candidats ou à l'étude de l'écosystème local.                                                                                       |
+| `company_size`  | `1-10`, `11-50`, `51-1000`, `1000+`, ou vide si inconnu. Effectif de l’unité légale française par défaut ; préciser si l’effectif concerne le groupe. |
+| `notes`         | Notes très courtes et pertinentes : `ESN`, `Éditeur de logiciels`, spécialité ou particularité utile. Pas de SIRET, code APE ni détails de vérification.                                                                                       |
 | `last_verified` | Obligatoire pour chaque contribution : date de vérification réelle au format `YYYY-MM-DD`.                                                                  |
-| `sources`       | Au moins une URL publique permettant de vérifier les informations ; séparer les URL par `\|`.                                                               |
 
 Pour `domain`, réutiliser les catégories courtes et cohérentes : `ai`,
 `banking`, `cybersecurity`, `ecommerce`, `energy`, `fintech`, `gaming`,
@@ -64,5 +63,13 @@ Pour `known_stack`, conserver les noms normalisés : `C#`, `.NET`, `Java`,
 Exemple : `C#|.NET|SQL Server`, uniquement si les sources le confirment.
 
 Ne jamais deviner une technologie, une taille ou une autre information : laisser
-le champ vide si elle est incertaine. Citer les sources qui étayent les champs
-renseignés et actualiser la date après vérification.
+le champ vide si elle est incertaine. Vérifier les informations auprès de
+l’entreprise et actualiser la date après vérification.
+
+Pour `careers_url`, privilégier le portail officiel de recrutement ou la
+plateforme vers laquelle l’entreprise renvoie. Pour `linkedin_url`, utiliser la
+page de l’entreprise, pas un profil personnel. Renseigner `known_stack` seulement
+si les technologies sont explicitement mentionnées dans une publication
+technique ou une offre de l’entreprise ; ne pas les déduire de son activité.
+Une stack publiée pour une implantation ne doit pas être étendue aux autres
+implantations sans confirmation.

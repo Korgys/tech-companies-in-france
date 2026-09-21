@@ -1,1 +1,51 @@
-name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified,sources
+name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
+ADLIN SCIENCE,software,GRENOBLE,,,https://www.linkedin.com/company/adlin-science/,,11-50,Développement logiciel,2026-09-21
+ALTECA,software,GRENOBLE,,,https://www.linkedin.com/company/alteca/,,51-1000,ESN,2026-09-21
+ARC INFORMATIQUE,software,SAINT-ISMIER,,,,,51-1000,Éditeur de logiciels,2026-09-21
+BASSETTI,software,GRENOBLE,,,https://www.linkedin.com/company/bassetti-france/,,51-1000,ESN,2026-09-21
+BK SYSTEMES,software,VAULX-MILIEU,,https://www.bksystemes.fr/recrutement-11,https://www.linkedin.com/company/bk-syst-mes/,,,Développement logiciel,2026-09-21
+BLITZ BUSINESS SERVICES PAR ABREVIATION BLITZ BS,software,VILLEFONTAINE,,,,,1-10,ESN,2026-09-21
+CAPGEMINI TECHNOLOGY SERVICES,software,MONTBONNOT-SAINT-MARTIN,,https://www.capgemini.com/fr-fr/jobs/,https://www.linkedin.com/company/capgemini/,,1000+,ESN,2026-09-21
+CIRCET,telecom,SAINT-EGREVE,,https://www.circet.fr/offres-demploi,https://www.linkedin.com/company/circet/,,1000+,Télécoms,2026-09-21
+CIRIL GROUP,software,MEYLAN,,https://cirilgroup.com/recrutement/,https://www.linkedin.com/company/ciril-group/,,51-1000,ESN,2026-09-21
+CS GROUP - FRANCE,software,FONTAINE,,https://careers.smartrecruiters.com/SopraSteria1/csgroup,,,,Développement logiciel,2026-09-21
+DASSAULT SYSTEMES,software,MEYLAN,,https://www.3ds.com/fr/careers/jobs,https://www.linkedin.com/company/dassaultsystemes/,,1000+,Éditeur de logiciels,2026-09-21
+DERNIER CRI,software,LA MURE,,,,,,Développement logiciel,2026-09-21
+DOCAPOSTE SANTE,software,MONTBONNOT-SAINT-MARTIN,,https://www.docaposte-sante.com/nous-rejoindre/nos-offres-demploi/,https://www.linkedin.com/company/docaposte-sante/,,51-1000,ESN,2026-09-21
+DOXALLIA,software,SAINT-MARTIN-D'HERES,,https://www.doxallia.com/nous-rejoindre/,https://www.linkedin.com/company/doxallia-gca/,,51-1000,Hébergement et traitement de données,2026-09-21
+ECEDI,software,GRENOBLE,,https://ecedi.welcomekit.co/,https://www.linkedin.com/company/ecedi/,Symfony|WordPress|Drupal|Docker,,ESN,2026-09-21
+ENTERPRISE SERVICES FRANCE SAS,software,EYBENS,,,,,51-1000,ESN,2026-09-21
+EVERWIN,software,GIERES,,,https://www.linkedin.com/company/everwin/,,51-1000,Éditeur de logiciels,2026-09-21
+EVIDEN FRANCE,software,ECHIROLLES,,https://eviden.com/careers/,https://www.linkedin.com/company/eviden/,,1000+,Maintenance informatique,2026-09-21
+EVIDIAN,software,ECHIROLLES,,https://www.evidian.com/fr/societe/recrutement/,,,51-1000,Éditeur de logiciels,2026-09-21
+EXAKIS NELITE,software,MEYLAN,,,https://www.linkedin.com/company/exakis-nelite/,,51-1000,ESN,2026-09-21
+EXPERIS FRANCE,software,GRENOBLE,,https://experisfrance.fr/emplois/,https://www.linkedin.com/company/experisfrance/,,1000+,ESN,2026-09-21
+FICHA,software,GRENOBLE,,,,,,Éditeur de logiciels,2026-09-21
+G WEB CREATION,software,GRENOBLE,,,,,,Développement logiciel,2026-09-21
+HARDIS GROUPE,software,GRENOBLE,,https://www.hardis-group.com/en/job-offers/,https://www.linkedin.com/company/hardisgroup/,Java|Spring Boot|.NET|Node.js|AWS|Azure|Docker|Kubernetes,,Développement logiciel,2026-09-21
+HORIZONTAL SOFTWARE,software,GIERES,,,https://www.linkedin.com/company/qoia-rh/,,,Éditeur de logiciels,2026-09-21
+INETUM,software,MEYLAN,,https://www.inetum.com/fr/fr/careers.html,https://www.linkedin.com/company/inetum/,,1000+,ESN,2026-09-21
+INFORMATIQUE GRAPHISME ENERGETIQUE - I.G.E.,software,MEYLAN,,,,,51-1000,Éditeur de logiciels,2026-09-21
+INTEL CORPORATION SAS,software,MOIRANS,,https://www.intel.com/content/www/us/en/jobs/locations.html,,,51-1000,Développement logiciel,2026-09-21
+KAIZEN SOLUTIONS,software,MONTBONNOT-SAINT-MARTIN,,,https://www.linkedin.com/company/kzs/,,51-1000,ESN,2026-09-21
+MDSL GROUPE,telecom,BOURGOIN-JALLIEU,,,,,,Télécoms,2026-09-21
+NEVERHACK FRANCE,software,MEYLAN,,,https://www.linkedin.com/company/neverhack-france/,,51-1000,ESN,2026-09-21
+NORSYS SAS,software,GRENOBLE,,https://recrutement.norsys.fr/,https://www.linkedin.com/company/norsys/,,51-1000,ESN,2026-09-21
+OPEN,software,MONTBONNOT-SAINT-MARTIN,,,,,1000+,ESN,2026-09-21
+ORACLE GLOBAL SERVICES FRANCE SARL,software,MONTBONNOT-SAINT-MARTIN,,https://www.oracle.com/fr/careers/,https://www.linkedin.com/company/oracle/,,51-1000,Développement logiciel,2026-09-21
+ORANGE,telecom,GRENOBLE,,https://orange.jobs/fr/fr/europe/france,https://www.linkedin.com/company/orange/,,1000+,Télécoms,2026-09-21
+ORANGE BUSINESS SERVICES,software,MONTBONNOT-SAINT-MARTIN,,https://orange.jobs/fr/fr/orange-business/france,https://www.linkedin.com/company/orangebusinessservices/,,1000+,ESN,2026-09-21
+RELAVE ET FANNIERE,software,MIRIBEL-LANCHATRE,,,,,11-50,ESN,2026-09-21
+SEIITRA RESEAU,software,MONTBONNOT-SAINT-MARTIN,,https://www.seiitra.com/recrutement-seiitra/,,,51-1000,Éditeur de logiciels,2026-09-21
+SOCIETE FRANCAISE DU RADIOTELEPHONE - S.F.R,telecom,MONTBONNOT-SAINT-MARTIN,,https://recrutement.sfr.com/,https://www.linkedin.com/company/sfr/,,1000+,Télécoms,2026-09-21
+SPIE ICS,software,MONTBONNOT-SAINT-MARTIN,,,https://www.linkedin.com/company/spie-ics/,,1000+,ESN,2026-09-21
+SYNELYANS,telecom,CHARANCIEU,,,https://www.linkedin.com/company/synelyans/,,,Télécoms,2026-09-21
+TALENTIA SOFTWARE FRANCE,software,MEYLAN,,,,,51-1000,Éditeur de logiciels,2026-09-21
+THALES SERVICES NUMERIQUES SAS,software,MONTBONNOT-SAINT-MARTIN,,https://careers.thalesgroup.com/fr/fr/carrieres-france,https://www.linkedin.com/company/thales/,,1000+,ESN,2026-09-21
+TIBCO,software,GRENOBLE,,,https://www.linkedin.com/company/tibco-bienvivrelenumerique/,,51-1000,ESN,2026-09-21
+TOPSOLID,software,SAINT-QUENTIN-FALLAVIER,,https://www.topsolid.com/fr-ch/explorer-topsolid/carrieres,https://www.linkedin.com/company/topsolid-france/,,51-1000,Éditeur de logiciels,2026-09-21
+UNITY TECHNOLOGIES SARL,software,MONTBONNOT-SAINT-MARTIN,,https://unity.com/fr/careers,https://www.linkedin.com/company/unity/,,51-1000,Développement logiciel,2026-09-21
+VISIATIV SOLUTIONS ENTREPRISE,software,MOIRANS,,https://jobs.visiativ.com/jobs,,,51-1000,ESN,2026-09-21
+VOCAZA,software,GRENOBLE,,,,,11-50,Éditeur de logiciels,2026-09-21
+WIZBII,software,GRENOBLE,,,https://www.linkedin.com/company/wizbii/,,51-1000,Développement logiciel,2026-09-21
+ZENIKA,software,GRENOBLE,,https://jobs.zenika.com/jobs,https://www.linkedin.com/company/zenika/,Java|JavaScript|Angular,51-1000,ESN,2026-09-21

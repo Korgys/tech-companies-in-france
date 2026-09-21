@@ -26,7 +26,7 @@ Excel, utiliser l'import « À partir d'un fichier texte/CSV » et sélectionner
 UTF-8 et le séparateur virgule si nécessaire.
 
 Les contributions sont bienvenues : voir [CONTRIBUTING.md](CONTRIBUTING.md).
-Chaque ajout doit être sourcé et daté ; une information incertaine reste vide.
+Chaque ajout doit être vérifié et daté ; une information incertaine reste vide.
 
 Une GitHub Action valide les CSV sur les pull requests et les pushes vers `main`.
 Le projet est distribué sous [licence MIT](LICENSE).

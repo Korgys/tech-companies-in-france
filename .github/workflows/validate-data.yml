@@ -29,7 +29,7 @@ jobs:
           expected = [
               "name", "domain", "city", "website", "careers_url",
               "linkedin_url", "known_stack", "company_size", "notes",
-              "last_verified", "sources",
+              "last_verified",
           ]
           errors = []
           paths = sorted(Path("data").rglob("*.csv"))

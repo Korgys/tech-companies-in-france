@@ -1,1 +1,51 @@
-name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified,sources
+name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
+ACD CONSULTANTS,software,MOULINS,,,,,1-10,ESN,2026-09-21
+AGP-SOLUTIONS,software,NEUILLY-LE-REAL,,,,,,ESN,2026-09-21
+AXO-LAB,software,AVERMES,,,,,,Développement logiciel,2026-09-21
+AYCONIX,software,HURIEL,,,https://www.linkedin.com/company/ayconix/,,1-10,Développement logiciel,2026-09-21
+BDCRAFT,software,VICHY,,,,,1-10,Développement logiciel,2026-09-21
+BOUYGUES TELECOM,telecom,DOMERAT,,https://joining.bouygues.com/global/fr/bytel-jobs,https://www.linkedin.com/company/bouygues-telecom/,,1000+,Télécoms,2026-09-21
+C4J,software,CREUZIER-LE-NEUF,,,,,1-10,Développement logiciel,2026-09-21
+CALAOSOFT,software,CREUZIER-LE-NEUF,,https://www.calaosoft.fr/recrutement/,https://www.linkedin.com/company/calaosoft/,Angular|TypeScript|Ionic|Capacitor|Node.js|NestJS|MongoDB|Docker|Kubernetes,,Développement logiciel,2026-09-21
+CALIS CONSEIL,software,LAPALISSE,,,,,1-10,ESN,2026-09-21
+CEGEDIM,software,VICHY,,https://careers.cegedim.com/fr,https://www.linkedin.com/company/cegedim/,,51-1000,Hébergement et traitement de données,2026-09-21
+CEGEDIM SANTE,software,VICHY,,https://careers.cegedim.com/fr,https://www.linkedin.com/company/cegedim-sante/,,51-1000,Développement logiciel,2026-09-21
+CIRCET,telecom,CHARMEIL,,https://www.circet.fr/offres-demploi,https://www.linkedin.com/company/circet/,,1000+,Télécoms,2026-09-21
+COGINET,software,VICHY,,,,,,ESN,2026-09-21
+CRISISOFT,software,YZEURE,,https://www.crisisoft.com/lequipe-crisisoft/crisisoft-recrute/,https://www.linkedin.com/company/crisisoft/,,1-10,Développement logiciel,2026-09-21
+CYMARIT CONSULTING,software,NERIS-LES-BAINS,,,,,,ESN,2026-09-21
+DEGUILLAUME IT CONSULTING,software,VICHY,,,,,1-10,ESN,2026-09-21
+DPH CONSEIL,software,CREUZIER-LE-NEUF,,,https://www.linkedin.com/company/dph-conseil-03/,,1-10,ESN,2026-09-21
+DREAM7 PRODUCTIONS,software,GANNAT,,,,,1-10,Développement logiciel,2026-09-21
+FASTTUNE,software,LIGNEROLLES,,,,,,Hébergement et traitement de données,2026-09-21
+FORCE INFORMATIQUE 03,software,MONTLUCON,,,,,,ESN,2026-09-21
+HORAMA,software,ABREST,,,,,,Développement logiciel,2026-09-21
+HOSTELIA,software,MONTLUCON,,,,,1-10,ESN,2026-09-21
+ITS-COACHING,software,ESPINASSE-VOZELLE,,,,,1-10,ESN,2026-09-21
+LABELDENT,software,VICHY,,,,,1-10,Hébergement et traitement de données,2026-09-21
+LGX CREATION,software,ARRONNES,,,,,,Développement logiciel,2026-09-21
+NEKIT,software,DOMERAT,,,,,,ESN,2026-09-21
+NETPROCESS,software,TOULON-SUR-ALLIER,,,,,,ESN,2026-09-21
+NEXUS/FRANCE,software,BELLERIVE-SUR-ALLIER,,,https://www.linkedin.com/company/nexus-france/,,,ESN,2026-09-21
+NIKO B,software,VENDAT,,,,,1-10,Développement logiciel,2026-09-21
+OMYDOO,software,CUSSET,,,https://www.linkedin.com/company/omydoo/,Odoo,,Développement logiciel,2026-09-21
+ORANGE,telecom,MOULINS,,https://orange.jobs/fr/fr/europe/france,https://www.linkedin.com/company/orange/,,1000+,Télécoms,2026-09-21
+PERCALL,software,VICHY,,,,,51-1000,ESN,2026-09-21
+PRO'KATEL,telecom,VICHY,,,,,11-50,Télécoms,2026-09-21
+PSL ASSISTANCE,software,DESERTINES,,,,,1-10,Maintenance informatique,2026-09-21
+RESODIA,software,MALICORNE,,,https://www.linkedin.com/company/resodia/,Magento,1-10,Maintenance informatique,2026-09-21
+S.P. INFORMATIQUE,software,MOULINS,,,,,,ESN,2026-09-21
+SAS FEDACTS,software,YZEURE,,,,,,Développement logiciel,2026-09-21
+SIXOSEVEN,software,MOULINS,,,,,,Hébergement et traitement de données,2026-09-21
+SOFTWARE ENTROPIE,software,MONTLUCON,,,,,1-10,ESN,2026-09-21
+SVIJA,software,CUSSET,,,,,1-10,Développement logiciel,2026-09-21
+T D F,telecom,LE VILHAIN,,https://www.tdf.fr/nous-rejoindre/,https://www.linkedin.com/company/tdf/,,,Télécoms,2026-09-21
+TROISPOINTZERO,software,VICHY,,,https://www.linkedin.com/company/troispointzero-agence-digitale/,,1-10,ESN,2026-09-21
+TVP ANALYTICS,software,BELLERIVE-SUR-ALLIER,,,,,,ESN,2026-09-21
+UMIX STUDIOS,software,ABREST,,,https://www.linkedin.com/company/umix-studios/,,1-10,Développement logiciel,2026-09-21
+W3 PLUS,software,CREUZIER-LE-NEUF,,https://www.w3plus.fr/rejoignez-nous/,https://www.linkedin.com/company/w3plus-esn/,,,Développement logiciel,2026-09-21
+WACO TELECOM,telecom,VICHY,,,,,1-10,Télécoms,2026-09-21
+WEB PC,software,SAINT-POURCAIN-SUR-SIOULE,,,,,,Services informatiques,2026-09-21
+WEB.COM,software,LE VERNET,,,,,,Développement logiciel,2026-09-21
+YANSYS,software,VICHY,,,https://www.linkedin.com/company/yansys/,,,Éditeur de logiciels,2026-09-21
+ZAYO INFRASTRUCTURE FRANCE S.A.,telecom,SAINT-MARTIN-DES-LAIS,,,,,,Télécoms,2026-09-21
