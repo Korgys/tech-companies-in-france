@@ -4,7 +4,7 @@ Base de données open source des entreprises disposant d'une activité ou
 d'équipes tech en France, maintenue dans des fichiers CSV simples et réutilisables.
 
 <!-- company-count:start -->
-[![Implantations tech : 980](https://img.shields.io/badge/implantations_tech-980-059669?style=for-the-badge&logo=databricks&logoColor=white)](data/)
+[![Implantations tech : 1040](https://img.shields.io/badge/implantations_tech-1040-059669?style=for-the-badge&logo=databricks&logoColor=white)](data/)
 <!-- company-count:end -->
 
 Les données sont organisées par région puis département :
