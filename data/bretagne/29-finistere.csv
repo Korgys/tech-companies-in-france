@@ -1,46 +1,46 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
-Infotel,software,Brest,https://infotel.com/,https://infotel.com/carrieres/,,,,ESN et éditeur de logiciels,2026-09-21
-Capgemini,software,Brest,https://www.capgemini.com/fr-fr/,https://www.capgemini.com/fr-fr/carrieres/,,,1000+,ESN,2026-09-21
-Norgay,software,Brest,https://www.norgay.com/,https://www.norgay.com/carrieres/,,,,ESN,2026-09-21
+3G COMM,software|saas,Quimper,https://www.3gcomm.fr/,,,,11-50,Éditeur de logiciels,2026-09-21
 Accenture,software,Brest,https://www.accenture.com/fr-fr,https://www.accenture.com/fr-fr/careers,,,1000+,ESN,2026-09-21
-Symag,software,Brest,https://www.symag.com/,,,,,Éditeur de logiciels retail,2026-09-21
-Thales,cybersecurity|industrial,Brest,https://www.thalesgroup.com/fr,https://careers.thalesgroup.com/fr/fr/,https://www.linkedin.com/company/thales/,Python,1000+,Cyberdéfense et systèmes navals,2026-09-21
-ASI,software,Brest,https://www.asi.fr/,https://www.asi.fr/nous-rejoindre/,https://www.linkedin.com/company/asi-informatique/,Java|Spring Boot|JavaScript|Angular|Vue.js|Docker|Kubernetes,51-1000,ESN,2026-09-21
-CGI,software,Brest,https://www.cgi.com/france/fr-fr,https://www.cgi.com/france/fr-fr/carrieres,,,1000+,ESN,2026-09-21
-Sopra Steria,software|cybersecurity,Guipavas,https://www.soprasteria.com/fr,https://careers.soprasteria.fr/,,,1000+,ESN et cybersécurité,2026-09-21
-E-learning Touch',saas|software,Guipavas,https://www.elearningtouch.com/,,,,11-50,Solutions de formation numérique,2026-09-21
-Orange Business,telecom|cybersecurity,Brest,https://www.orange-business.com/fr,https://orange.jobs/,,,1000+,Services numériques et télécoms,2026-09-21
-SPIE ICS,software|cybersecurity,Brest,https://www.spie-ics.com/,https://www.spie-job.com/,,,1000+,ESN et cybersécurité,2026-09-21
-OVHcloud,software|cybersecurity,Brest,https://www.ovhcloud.com/fr/,https://careers.ovhcloud.com/,,,1000+,Cloud et cybersécurité,2026-09-21
-SYD,software,Brest,https://www.syd.fr/,https://www.syd.fr/nous-rejoindre/,,,,ESN,2026-09-21
-Silae,saas|software,Brest,https://www.silae.fr/,https://www.silae.fr/carrieres/,,,1000+,Éditeur de logiciels RH,2026-09-21
-IT Link,software|industrial,Brest,https://www.itlink.fr/,https://www.itlink.fr/carriere/,,,51-1000,Conseil en systèmes connectés,2026-09-21
-Groupe Grenat,software,Brest,https://www.grenat-groupe.fr/,,,,11-50,Éditeur et intégrateur ERP CRM,2026-09-21
-Zenika,software,Brest,https://www.zenika.com/,https://jobs.zenika.com/,,,51-1000,Conseil et développement logiciel,2026-09-21
-Inetum,software|cybersecurity,Brest,https://www.inetum.com/fr,https://www.inetum.com/fr/carrieres,,,1000+,ESN,2026-09-21
-Iliane,software|cybersecurity,Brest,https://www.iliane.fr/,https://www.iliane.fr/recrutement/,,,51-1000,Cloud et cybersécurité,2026-09-21
-Diateam,cybersecurity,Brest,https://www.diateam.net/,,,,,Cyber range et cyberdéfense,2026-09-21
-SourcITEC,cybersecurity,Brest,https://www.sourcitec.com/,,,,1-10,Cybersécurité,2026-09-21
-BZHunt,cybersecurity,Brest,https://www.bzhunt.com/,,,,,Hacking éthique,2026-09-21
-Frogi Secure,cybersecurity,Brest,https://www.frogi-secure.com/,,,,,Filtrage et sécurité réseau,2026-09-21
-WaToo,cybersecurity,Plouzané,https://watoo.tech/,,,,1-10,Protection contre les fuites,2026-09-21
-Aucae,cybersecurity,Brest,https://aucae.com/,,,,,Cybersécurité,2026-09-21
-Groupe Asten,software|cybersecurity,Gouesnou,https://www.groupe-asten.fr/,https://www.groupe-asten.fr/recrutement/,,,51-1000,Cloud et cybersécurité,2026-09-21
 Alcose Développements,software|saas,Brest,https://www.alcose.fr/,,,,11-50,Logiciels pour collectivités,2026-09-21
-iD3i,software,Brest,https://www.id3i.fr/,,,,11-50,Développement logiciel sur mesure,2026-09-21
-Naval Group,industrial|cybersecurity,Brest,https://www.naval-group.com/fr,https://www.naval-group.com/fr/talents,,,1000+,Systèmes navals et équipes SI,2026-09-21
-Dassault Systèmes,software,Plouzané,https://www.3ds.com/fr,https://www.3ds.com/fr/careers/jobs,https://www.linkedin.com/company/dassaultsystemes/,JavaScript|React,1000+,Éditeur de logiciels,2026-09-21
-Entech,energy|industrial,Quimper,https://entech-se.com/,https://entech-se.com/carrieres/,,,51-1000,R&D stockage et conversion énergétique,2026-09-21
-Exail,industrial|software,Brest,https://www.exail.com/,https://www.exail.com/carrieres,,,1000+,Robotique et navigation sous-marine,2026-09-21
-Hytech-imaging,software|industrial,Plouzané,https://hytech-imaging.fr/,,,,,Imagerie hyperspectrale et logiciels,2026-09-21
+ASI,software,Brest,https://www.asi.fr/,https://www.asi.fr/nous-rejoindre/,https://www.linkedin.com/company/asi-informatique/,Java|Spring Boot|JavaScript|Angular|Vue.js|Docker|Kubernetes,51-1000,ESN,2026-09-21
+Aucae,cybersecurity,Brest,https://aucae.com/,,,,,Cybersécurité,2026-09-21
+BZHunt,cybersecurity,Brest,https://www.bzhunt.com/,,,,,Hacking éthique,2026-09-21
+Capgemini,software,Brest,https://www.capgemini.com/fr-fr/,https://www.capgemini.com/fr-fr/carrieres/,,,1000+,ESN,2026-09-21
 Cervval,software|industrial,Plouzané,https://www.cervval.com/,,,,,Simulation et jumeaux numériques,2026-09-21
+CGI,software,Brest,https://www.cgi.com/france/fr-fr,https://www.cgi.com/france/fr-fr/carrieres,,,1000+,ESN,2026-09-21
+Crédit Mutuel Arkéa,banking|fintech,Le Relecq-Kerhuon,https://www.cm-arkea.com/,https://recrutement.arkea.com/,,,1000+,Équipes informatiques du groupe,2026-09-21
+Dassault Systèmes,software,Plouzané,https://www.3ds.com/fr,https://www.3ds.com/fr/careers/jobs,https://www.linkedin.com/company/dassaultsystemes/,JavaScript|React,1000+,Éditeur de logiciels,2026-09-21
+Diateam,cybersecurity,Brest,https://www.diateam.net/,,,,,Cyber range et cyberdéfense,2026-09-21
+E-learning Touch',saas|software,Guipavas,https://www.elearningtouch.com/,,,,11-50,Solutions de formation numérique,2026-09-21
+Entech,energy|industrial,Quimper,https://entech-se.com/,https://entech-se.com/carrieres/,,,51-1000,R&D stockage et conversion énergétique,2026-09-21
 eOdyn,software|industrial,Plouzané,https://www.eodyn.com/,,,,,Données maritimes et océanographie,2026-09-21
 Evosens,industrial,Plouzané,https://www.evosens.fr/,,,,11-50,R&D photonique,2026-09-21
-Crédit Mutuel Arkéa,banking|fintech,Le Relecq-Kerhuon,https://www.cm-arkea.com/,https://recrutement.arkea.com/,,,1000+,Équipes informatiques du groupe,2026-09-21
+Exail,industrial|software,Brest,https://www.exail.com/,https://www.exail.com/carrieres,,,1000+,Robotique et navigation sous-marine,2026-09-21
 Fortuneo,banking|fintech,Guipavas,https://www.fortuneo.fr/,https://www.fortuneo.fr/recrutement,,,51-1000,Banque en ligne,2026-09-21
+Frogi Secure,cybersecurity,Brest,https://www.frogi-secure.com/,,,,,Filtrage et sécurité réseau,2026-09-21
+Groupe Asten,software|cybersecurity,Gouesnou,https://www.groupe-asten.fr/,https://www.groupe-asten.fr/recrutement/,,,51-1000,Cloud et cybersécurité,2026-09-21
+Groupe Grenat,software,Brest,https://www.grenat-groupe.fr/,,,,11-50,Éditeur et intégrateur ERP CRM,2026-09-21
+Hytech-imaging,software|industrial,Plouzané,https://hytech-imaging.fr/,,,,,Imagerie hyperspectrale et logiciels,2026-09-21
+iD3i,software,Brest,https://www.id3i.fr/,,,,11-50,Développement logiciel sur mesure,2026-09-21
+Iliane,software|cybersecurity,Brest,https://www.iliane.fr/,https://www.iliane.fr/recrutement/,,,51-1000,Cloud et cybersécurité,2026-09-21
+Inetum,software|cybersecurity,Brest,https://www.inetum.com/fr,https://www.inetum.com/fr/carrieres,,,1000+,ESN,2026-09-21
+Infotel,software,Brest,https://infotel.com/,https://infotel.com/carrieres/,,,,ESN et éditeur de logiciels,2026-09-21
+IT Link,software|industrial,Brest,https://www.itlink.fr/,https://www.itlink.fr/carriere/,,,51-1000,Conseil en systèmes connectés,2026-09-21
+Naval Group,industrial|cybersecurity,Brest,https://www.naval-group.com/fr,https://www.naval-group.com/fr/talents,,,1000+,Systèmes navals et équipes SI,2026-09-21
+Norgay,software,Brest,https://www.norgay.com/,https://www.norgay.com/carrieres/,,,,ESN,2026-09-21
+Orange Business,telecom|cybersecurity,Brest,https://www.orange-business.com/fr,https://orange.jobs/,,,1000+,Services numériques et télécoms,2026-09-21
 OSO-AI,ai|healthtech,Brest,https://www.oso-ai.com/,https://www.oso-ai.com/carrieres,,,,IA acoustique pour le soin,2026-09-21
+OVHcloud,software|cybersecurity,Brest,https://www.ovhcloud.com/fr/,https://careers.ovhcloud.com/,,,1000+,Cloud et cybersécurité,2026-09-21
 SII,software|industrial,Brest,https://sii-group.com/fr-FR,https://sii-group.com/fr-FR/offres,,,1000+,ESN,2026-09-21
-3G COMM,software|saas,Quimper,https://www.3gcomm.fr/,,,,11-50,Éditeur de logiciels,2026-09-21
-YEZH,cybersecurity|telecom,Quimper,https://www.yezh.fr/,,,,11-50,Informatique cybersécurité et télécoms,2026-09-21
+Silae,saas|software,Brest,https://www.silae.fr/,https://www.silae.fr/carrieres/,,,1000+,Éditeur de logiciels RH,2026-09-21
+Sopra Steria,software|cybersecurity,Guipavas,https://www.soprasteria.com/fr,https://careers.soprasteria.fr/,,,1000+,ESN et cybersécurité,2026-09-21
+SourcITEC,cybersecurity,Brest,https://www.sourcitec.com/,,,,1-10,Cybersécurité,2026-09-21
+SPIE ICS,software|cybersecurity,Brest,https://www.spie-ics.com/,https://www.spie-job.com/,,,1000+,ESN et cybersécurité,2026-09-21
+SYD,software,Brest,https://www.syd.fr/,https://www.syd.fr/nous-rejoindre/,,,,ESN,2026-09-21
+Symag,software,Brest,https://www.symag.com/,,,,,Éditeur de logiciels retail,2026-09-21
+Thales,cybersecurity|industrial,Brest,https://www.thalesgroup.com/fr,https://careers.thalesgroup.com/fr/fr/,https://www.linkedin.com/company/thales/,Python,1000+,Cyberdéfense et systèmes navals,2026-09-21
+WaToo,cybersecurity,Plouzané,https://watoo.tech/,,,,1-10,Protection contre les fuites,2026-09-21
 Weelogic,software|cybersecurity,Landerneau,https://finistere.cerfrance.fr/expertises/expertise-informatique,,,,11-50,Services informatiques et cybersécurité,2026-09-21
 XEFI Quimper,software|cybersecurity,Quimper,https://www.xefi.fr/fr/agence/xefi-quimper/,,,,,Services informatiques et cybersécurité,2026-09-21
+YEZH,cybersecurity|telecom,Quimper,https://www.yezh.fr/,,,,11-50,Informatique cybersécurité et télécoms,2026-09-21
+Zenika,software,Brest,https://www.zenika.com/,https://jobs.zenika.com/,,,51-1000,Conseil et développement logiciel,2026-09-21

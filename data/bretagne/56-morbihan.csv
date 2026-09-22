@@ -1,51 +1,51 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
-CGI,software,Larmor-Plage,https://www.cgi.com/france/fr-fr,https://www.cgi.com/france/fr-fr/carrieres,,,1000+,ESN,2026-09-21
-Orange,telecom,Lanester,https://www.orange.com/fr,https://orange.jobs/,,,1000+,Télécom et assistance technique,2026-09-21
-MGDIS,software|saas,Vannes,https://www.mgdis.fr/,https://www.mgdis.fr/recrutement/,,,51-1000,Logiciels pour services publics,2026-09-21
-Equasens,healthtech|software,Quéven,https://equasens.com/,https://equasens.com/carrieres/,,,51-1000,Logiciels et robotique de santé,2026-09-21
-Isatech,software,Vannes,https://www.isatech.fr/,https://www.isatech.fr/recrutement/,,,51-1000,Intégrateur ERP Microsoft Dynamics,2026-09-21
-Everys - Winpharma,healthtech|software,Arzon,https://www.winpharma.com/,,,,51-1000,Logiciels pour pharmacies,2026-09-21
-Safran Electronics & Defense,industrial|software,Guidel,https://www.safran-group.com/fr/societes/safran-electronics-defense,https://www.safran-group.com/fr/offres,,,1000+,Navigation et positionnement,2026-09-21
-STEF Information et Technologies,software|transport,Theix-Noyalo,https://www.stef.com/france,https://www.stef.jobs/,,,51-1000,Éditeur logiciel logistique,2026-09-21
-Circet,telecom,Vannes,https://www.circet.fr/,https://www.circet.fr/recrutement/,,,1000+,Infrastructure télécom,2026-09-21
-SPIE CityNetworks,telecom|energy,Ploemeur,https://www.spie.com/fr/spie-citynetworks,https://www.spie-job.com/,,,1000+,Réseaux télécom et énergie,2026-09-21
-Fives Syleps,industrial|software,Lorient,https://www.fivesgroup.com/fr/qui-sommes-nous/nos-activites/smart-automation-solutions,https://career.fivesgroup.com/,,,51-1000,Automatisation et robotique logistique,2026-09-21
-Laudren Électronique,industrial,Lanester,https://www.laudren.fr/,,,,51-1000,Conception et production électronique,2026-09-21
-Wavetel,telecom|industrial,Larmor-Plage,https://www.wavetel.fr/,,,,51-1000,Tests réseaux télécom et photonique,2026-09-21
-Netensia,telecom|cybersecurity,Saint-Avé,https://www.netensia.fr/,,,,51-1000,Télécom cloud et cybersécurité,2026-09-21
 AG2L,software,Lorient,https://www.ag2l.fr/,,,,11-50,Éditeur et intégrateur ERP,2026-09-21
-IoT.bzh,software|cybersecurity,Lorient,https://iot.bzh/,https://iot.bzh/en/careers/,,,,Logiciels embarqués et cybersécurité,2026-09-21
-Thalos,telecom|software,Ploemeur,https://www.thalos.fr/,,,,11-50,Solutions numériques maritimes,2026-09-21
-Rom Arrangé,telecom|software,Lorient,https://www.rom-arrange.com/,,,,,Informatique marine et satellite,2026-09-21
-SixFoisSept,ai|software,Larmor-Plage,https://www.sixfoissept.fr/,,,,,IA et data science,2026-09-21
-SEE-D,ai|software,Vannes,https://see-d.fr/,,,,,Conseil IA et data science,2026-09-21
-Optic Performance,ai|saas,Vannes,https://www.optic-performance.com/,,,,,Analyse de données pour opticiens,2026-09-21
-Azimut,software|telecom,Lorient,https://www.azimut.net/,,,,,Solutions de communication numérique,2026-09-21
-Medaviz,healthtech|saas,Vannes,https://www.medaviz.com/,https://www.medaviz.com/recrutement/,,,51-1000,Télémédecine,2026-09-21
-OpenHealth,healthtech|ai,Vannes,https://www.openhealth.fr/,,,,51-1000,Données de santé,2026-09-21
-Efelya,healthtech|software,Vannes,https://efelya.com/,,,,,Suivi numérique de grossesse,2026-09-21
+Aitenders,ai|saas,Vannes,https://aitenders.com/fr/accueil,https://aitenders.com/fr/carrieres,,,,Gestion IA des appels d'offres,2026-09-21
 AVEM,fintech|software,Vannes,https://www.avem-groupe.com/,https://www.avem-groupe.com/recrutement/,,,51-1000,Monétique et informatique bancaire,2026-09-21
-Neotek,industrial|telecom,Hennebont,https://www.neotek.com/,,,,,Instrumentation et transmission de données,2026-09-21
+Azimut,software|telecom,Lorient,https://www.azimut.net/,,,,,Solutions de communication numérique,2026-09-21
+BEAM CUBE,software|industrial,Vannes,https://www.beamcube.fr/,,,,11-50,Jumeaux numériques industriels,2026-09-21
+CGI,software,Larmor-Plage,https://www.cgi.com/france/fr-fr,https://www.cgi.com/france/fr-fr/carrieres,,,1000+,ESN,2026-09-21
+Circet,telecom,Vannes,https://www.circet.fr/,https://www.circet.fr/recrutement/,,,1000+,Infrastructure télécom,2026-09-21
+Codixis,software,Lorient,https://www.codixis.com/,,,,11-50,Développement d'applications industrielles,2026-09-21
 Conscio Technologies,cybersecurity|saas,Plescop,https://www.conscio-technologies.com/,https://www.conscio-technologies.com/recrutement/,,,11-50,Sensibilisation à la cybersécurité,2026-09-21
-Veyan,cybersecurity,Guidel,https://www.veyan.fr/,,,,11-50,Conseil en cybersécurité,2026-09-21
-Lorcyber,cybersecurity,Vannes,https://lorcyber.com/,,,,1-10,Cybersécurité pour PME et collectivités,2026-09-21
-Dawizz,cybersecurity|software,Vannes,https://www.dawizz.fr/,,,,11-50,Gouvernance et cartographie des données,2026-09-21
-Iliane,software|cybersecurity,Vannes,https://www.iliane.fr/,https://www.iliane.fr/recrutement/,,,51-1000,Cloud et cybersécurité,2026-09-21
 Coreo,cybersecurity,Vannes,https://coreo-group.fr/,,,,,Cybersécurité et résilience,2026-09-21
 Cyber Transition,cybersecurity,Vannes,https://cyber-transition.fr/,,,,,Conseil en cybersécurité,2026-09-21
-Intwiti,cybersecurity|software,Vannes,https://www.intwiti.fr/,,,,,Services numériques sécurisés,2026-09-21
-RTSYS,industrial|software,Caudan,https://rtsys.eu/,https://rtsys.eu/carrieres,,,51-1000,Robotique et acoustique sous-marine,2026-09-21
-SEABER,industrial|software,Lorient,https://seaber.fr/,https://seaber.fr/jobs,,,,Drones sous-marins autonomes,2026-09-21
-Naval Group,industrial|cybersecurity,Lorient,https://www.naval-group.com/fr,https://www.naval-group.com/fr/talents,,,1000+,Ingénierie navale et systèmes numériques,2026-09-21
-Herakles,software|saas,Vannes,https://herakles.com/,,,,11-50,Éditeur ERP industriel,2026-09-21
-BEAM CUBE,software|industrial,Vannes,https://www.beamcube.fr/,,,,11-50,Jumeaux numériques industriels,2026-09-21
-Firmain,saas|software,Inzinzac-Lochrist,https://firmain.fr/,,,,1-10,SaaS de gestion des compétences,2026-09-21
-Codixis,software,Lorient,https://www.codixis.com/,,,,11-50,Développement d'applications industrielles,2026-09-21
-Aitenders,ai|saas,Vannes,https://aitenders.com/fr/accueil,https://aitenders.com/fr/carrieres,,,,Gestion IA des appels d'offres,2026-09-21
-Ocean Data System,industrial|software,Lorient,https://www.oceandatasystem.com/,,,,,Électronique et logiciels maritimes,2026-09-21
-NKE Marine Electronics,industrial|software,Hennebont,https://www.nke-marine-electronics.fr/,,,,51-1000,Électronique et logiciels nautiques,2026-09-21
-Marport France,industrial|software,Lorient,https://www.marport.com/,,,,,Électronique et logiciels pour la pêche,2026-09-21
-XEFI Vannes,software|cybersecurity,Vannes,https://www.xefi.fr/fr/agence/xefi-vannes/,,,,,Services informatiques et cybersécurité,2026-09-21
-DIMSI,software|cybersecurity,Lorient,https://www.dimsi.fr/,,,,11-50,Applications métier cloud et cybersécurité,2026-09-21
+Dawizz,cybersecurity|software,Vannes,https://www.dawizz.fr/,,,,11-50,Gouvernance et cartographie des données,2026-09-21
 Decidem,software|cybersecurity,Vannes,https://www.decidem.fr/,,,,,Conseil SI et transformation numérique,2026-09-21
+DIMSI,software|cybersecurity,Lorient,https://www.dimsi.fr/,,,,11-50,Applications métier cloud et cybersécurité,2026-09-21
+Efelya,healthtech|software,Vannes,https://efelya.com/,,,,,Suivi numérique de grossesse,2026-09-21
+Equasens,healthtech|software,Quéven,https://equasens.com/,https://equasens.com/carrieres/,,,51-1000,Logiciels et robotique de santé,2026-09-21
+Everys - Winpharma,healthtech|software,Arzon,https://www.winpharma.com/,,,,51-1000,Logiciels pour pharmacies,2026-09-21
+Firmain,saas|software,Inzinzac-Lochrist,https://firmain.fr/,,,,1-10,SaaS de gestion des compétences,2026-09-21
+Fives Syleps,industrial|software,Lorient,https://www.fivesgroup.com/fr/qui-sommes-nous/nos-activites/smart-automation-solutions,https://career.fivesgroup.com/,,,51-1000,Automatisation et robotique logistique,2026-09-21
+Herakles,software|saas,Vannes,https://herakles.com/,,,,11-50,Éditeur ERP industriel,2026-09-21
+Iliane,software|cybersecurity,Vannes,https://www.iliane.fr/,https://www.iliane.fr/recrutement/,,,51-1000,Cloud et cybersécurité,2026-09-21
+Intwiti,cybersecurity|software,Vannes,https://www.intwiti.fr/,,,,,Services numériques sécurisés,2026-09-21
+IoT.bzh,software|cybersecurity,Lorient,https://iot.bzh/,https://iot.bzh/en/careers/,,,,Logiciels embarqués et cybersécurité,2026-09-21
+Isatech,software,Vannes,https://www.isatech.fr/,https://www.isatech.fr/recrutement/,,,51-1000,Intégrateur ERP Microsoft Dynamics,2026-09-21
+Laudren Électronique,industrial,Lanester,https://www.laudren.fr/,,,,51-1000,Conception et production électronique,2026-09-21
+Lorcyber,cybersecurity,Vannes,https://lorcyber.com/,,,,1-10,Cybersécurité pour PME et collectivités,2026-09-21
+Marport France,industrial|software,Lorient,https://www.marport.com/,,,,,Électronique et logiciels pour la pêche,2026-09-21
+Medaviz,healthtech|saas,Vannes,https://www.medaviz.com/,https://www.medaviz.com/recrutement/,,,51-1000,Télémédecine,2026-09-21
+MGDIS,software|saas,Vannes,https://www.mgdis.fr/,https://www.mgdis.fr/recrutement/,,,51-1000,Logiciels pour services publics,2026-09-21
+Naval Group,industrial|cybersecurity,Lorient,https://www.naval-group.com/fr,https://www.naval-group.com/fr/talents,,,1000+,Ingénierie navale et systèmes numériques,2026-09-21
+Neotek,industrial|telecom,Hennebont,https://www.neotek.com/,,,,,Instrumentation et transmission de données,2026-09-21
+Netensia,telecom|cybersecurity,Saint-Avé,https://www.netensia.fr/,,,,51-1000,Télécom cloud et cybersécurité,2026-09-21
+NKE Marine Electronics,industrial|software,Hennebont,https://www.nke-marine-electronics.fr/,,,,51-1000,Électronique et logiciels nautiques,2026-09-21
+Ocean Data System,industrial|software,Lorient,https://www.oceandatasystem.com/,,,,,Électronique et logiciels maritimes,2026-09-21
+OpenHealth,healthtech|ai,Vannes,https://www.openhealth.fr/,,,,51-1000,Données de santé,2026-09-21
+Optic Performance,ai|saas,Vannes,https://www.optic-performance.com/,,,,,Analyse de données pour opticiens,2026-09-21
+Orange,telecom,Lanester,https://www.orange.com/fr,https://orange.jobs/,,,1000+,Télécom et assistance technique,2026-09-21
+Rom Arrangé,telecom|software,Lorient,https://www.rom-arrange.com/,,,,,Informatique marine et satellite,2026-09-21
+RTSYS,industrial|software,Caudan,https://rtsys.eu/,https://rtsys.eu/carrieres,,,51-1000,Robotique et acoustique sous-marine,2026-09-21
+Safran Electronics & Defense,industrial|software,Guidel,https://www.safran-group.com/fr/societes/safran-electronics-defense,https://www.safran-group.com/fr/offres,,,1000+,Navigation et positionnement,2026-09-21
+SEABER,industrial|software,Lorient,https://seaber.fr/,https://seaber.fr/jobs,,,,Drones sous-marins autonomes,2026-09-21
+SEE-D,ai|software,Vannes,https://see-d.fr/,,,,,Conseil IA et data science,2026-09-21
+SixFoisSept,ai|software,Larmor-Plage,https://www.sixfoissept.fr/,,,,,IA et data science,2026-09-21
+SPIE CityNetworks,telecom|energy,Ploemeur,https://www.spie.com/fr/spie-citynetworks,https://www.spie-job.com/,,,1000+,Réseaux télécom et énergie,2026-09-21
+STEF Information et Technologies,software|transport,Theix-Noyalo,https://www.stef.com/france,https://www.stef.jobs/,,,51-1000,Éditeur logiciel logistique,2026-09-21
+Thalos,telecom|software,Ploemeur,https://www.thalos.fr/,,,,11-50,Solutions numériques maritimes,2026-09-21
+Veyan,cybersecurity,Guidel,https://www.veyan.fr/,,,,11-50,Conseil en cybersécurité,2026-09-21
 VFLIT,software|cybersecurity,Vannes,https://www.vflit.fr/,,,,51-1000,Infogérance cloud et cybersécurité,2026-09-21
+Wavetel,telecom|industrial,Larmor-Plage,https://www.wavetel.fr/,,,,51-1000,Tests réseaux télécom et photonique,2026-09-21
+XEFI Vannes,software|cybersecurity,Vannes,https://www.xefi.fr/fr/agence/xefi-vannes/,,,,,Services informatiques et cybersécurité,2026-09-21

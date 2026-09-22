@@ -1,61 +1,61 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
-Orange,telecom|software,Cesson-Sévigné,https://www.orange.com/fr,https://orange.jobs/,,,1000+,R&D télécom et logiciel,2026-09-21
+6TM,software,Rennes,https://www.6tm.com/,,,,,Éditeur de logiciels,2026-09-21
+Acklio,telecom|software,Cesson-Sévigné,https://www.ackl.io/,,,,11-50,Logiciels réseau IoT,2026-09-21
+Akkodis,software|industrial,Rennes,https://www.akkodis.com/fr,https://www.akkodis.com/fr/careers,,,1000+,Conseil en ingénierie numérique,2026-09-21
+Almond,cybersecurity,Rennes,https://almond.eu/,https://almond.eu/carrieres/,,,51-1000,Cybersécurité,2026-09-21
+ALTEN,software|industrial,Rennes,https://www.alten.fr/,https://www.alten.fr/carrieres/,,,1000+,Conseil en ingénierie,2026-09-21
+Anozr Way,cybersecurity|saas,Rennes,https://anozrway.com/,https://anozrway.com/carrieres/,,,11-50,Cybersécurité du facteur humain,2026-09-21
+ASI,software,Rennes,https://www.asi.fr/,https://www.asi.fr/nous-rejoindre/,,,51-1000,ESN,2026-09-21
+Blacknut,gaming|saas,Cesson-Sévigné,https://www.blacknut.com/fr,https://www.blacknut.com/fr/careers,,,,Cloud gaming,2026-09-21
+BlueKanGo,saas|software,Cesson-Sévigné,https://www.bluekango.com/,https://www.bluekango.com/recrutement/,,,51-1000,Logiciels QHSE et RSE,2026-09-21
+Bretagne Télécom,telecom|cybersecurity,Châteaubourg,https://www.bretagnetecom.com/,https://www.bretagnetecom.com/recrutement/,,,51-1000,Télécom cloud et cybersécurité,2026-09-21
+Broadpeak,software|telecom,Cesson-Sévigné,https://broadpeak.tv/fr/,https://broadpeak.tv/fr/carrieres/,,,51-1000,Solutions de streaming vidéo,2026-09-21
+Cailabs,industrial|telecom,Rennes,https://www.cailabs.com/fr/,https://www.cailabs.com/fr/carrieres/,,,51-1000,R&D photonique,2026-09-21
 Capgemini,software,Cesson-Sévigné,https://www.capgemini.com/fr-fr/,https://www.capgemini.com/fr-fr/carrieres/,,,1000+,ESN,2026-09-21
 CGI,software,Rennes,https://www.cgi.com/france/fr-fr,https://www.cgi.com/france/fr-fr/carrieres,,,1000+,ESN,2026-09-21
-Sopra Steria,software|cybersecurity,Cesson-Sévigné,https://www.soprasteria.com/fr,https://careers.soprasteria.fr/,,,1000+,ESN et cybersécurité,2026-09-21
-SII,software|industrial,Rennes,https://sii-group.com/fr-FR,https://sii-group.com/fr-FR/offres,,,1000+,ESN,2026-09-21
-Inetum,software,Rennes,https://www.inetum.com/fr,https://www.inetum.com/fr/carrieres,,,1000+,ESN,2026-09-21
-Niji,software,Cesson-Sévigné,https://www.niji.fr/,https://www.niji.fr/fr/carrieres,,,51-1000,Conseil et ingénierie numérique,2026-09-21
-Neosoft,software,Rennes,https://www.neo-soft.fr/,https://www.neo-soft.fr/carriere/,,,1000+,ESN,2026-09-21
-Eviden,software|cybersecurity,Rennes,https://eviden.com/fr-fr/,https://jobs.atos.net/eviden/,,,1000+,Numérique et cybersécurité,2026-09-21
-ALTEN,software|industrial,Rennes,https://www.alten.fr/,https://www.alten.fr/carrieres/,,,1000+,Conseil en ingénierie,2026-09-21
-Scalian,software|industrial,Rennes,https://www.scalian.com/,https://careers.scalian.com/,,,1000+,Conseil en ingénierie,2026-09-21
-Akkodis,software|industrial,Rennes,https://www.akkodis.com/fr,https://www.akkodis.com/fr/careers,,,1000+,Conseil en ingénierie numérique,2026-09-21
-OPEN,software,Rennes,https://www.open.global/,https://www.open.global/fr/carriere,,,1000+,ESN,2026-09-21
-ASI,software,Rennes,https://www.asi.fr/,https://www.asi.fr/nous-rejoindre/,,,51-1000,ESN,2026-09-21
-onepoint,software,Rennes,https://www.groupeonepoint.com/fr/,https://www.groupeonepoint.com/fr/nous-rejoindre/,,,1000+,Conseil en transformation numérique,2026-09-21
-Zenika,software,Rennes,https://www.zenika.com/,https://jobs.zenika.com/,,,51-1000,Conseil et développement logiciel,2026-09-21
-Davidson,software|industrial,Rennes,https://www.davidson.fr/,https://www.davidson.fr/recrutement/,,,1000+,Conseil en ingénierie,2026-09-21
-Groupe Créative,software,Rennes,https://www.groupe-creative.fr/,https://www.groupe-creative.fr/recrutement/,,,51-1000,ESN,2026-09-21
-HelloWork,software|saas,Rennes,https://www.hellowork.com/fr-fr/,https://www.hellowork-group.com/fr/carriere/,,,51-1000,Plateformes emploi et formation,2026-09-21
-Digitaleo,saas|software,Rennes,https://www.digitaleo.com/,https://www.digitaleo.com/recrutement/,,,51-1000,SaaS marketing local,2026-09-21
-Klaxoon,saas|software,Rennes,https://klaxoon.com/fr/,https://klaxoon.com/fr/carrieres/,,,51-1000,Plateforme collaborative,2026-09-21
-Steeple,saas|software,Rennes,https://steeple.com/fr/,https://steeple.com/fr/recrutement/,,,51-1000,Communication interne SaaS,2026-09-21
-BlueKanGo,saas|software,Cesson-Sévigné,https://www.bluekango.com/,https://www.bluekango.com/recrutement/,,,51-1000,Logiciels QHSE et RSE,2026-09-21
-6TM,software,Rennes,https://www.6tm.com/,,,,,Éditeur de logiciels,2026-09-21
-Script&Go,software|saas,Rennes,https://www.scriptandgo.com/,,,,,Logiciels métiers mobiles,2026-09-21
-Kereval,software|cybersecurity,Thorigné-Fouillard,https://www.kereval.com/,https://www.kereval.com/recrutement/,,,51-1000,Tests logiciels et cybersécurité,2026-09-21
-Luminess,software,Cesson-Sévigné,https://www.luminess.eu/,https://www.luminess.eu/carrieres/,,,1000+,Services numériques,2026-09-21
-HOPPEN,healthtech|software,Cesson-Sévigné,https://www.hoppen.care/,https://www.hoppen.care/carrieres/,,,51-1000,Santé numérique,2026-09-21
-Blacknut,gaming|saas,Cesson-Sévigné,https://www.blacknut.com/fr,https://www.blacknut.com/fr/careers,,,,Cloud gaming,2026-09-21
-Broadpeak,software|telecom,Cesson-Sévigné,https://broadpeak.tv/fr/,https://broadpeak.tv/fr/carrieres/,,,51-1000,Solutions de streaming vidéo,2026-09-21
-ENENSYS Technologies,telecom|industrial,Cesson-Sévigné,https://www.enensys.com/,https://www.enensys.com/careers/,,,51-1000,Technologies de diffusion vidéo,2026-09-21
-Harmonic,software|telecom,Cesson-Sévigné,https://www.harmonicinc.com/,https://www.harmonicinc.com/company/careers/,,,1000+,Technologies vidéo et télécoms,2026-09-21
-InterDigital,software|telecom,Cesson-Sévigné,https://www.interdigital.com/,https://www.interdigital.com/careers,,,1000+,R&D vidéo et télécoms,2026-09-21
-Dassault Systèmes,software,Cesson-Sévigné,https://www.3ds.com/fr,https://www.3ds.com/fr/careers/jobs,,,1000+,Éditeur de logiciels,2026-09-21
-Ubisoft,gaming,Rennes,https://www.ubisoft.com/fr-fr/,https://www.ubisoft.com/fr-fr/company/careers,,,1000+,Studio de jeux vidéo,2026-09-21
-Cailabs,industrial|telecom,Rennes,https://www.cailabs.com/fr/,https://www.cailabs.com/fr/carrieres/,,,51-1000,R&D photonique,2026-09-21
-Unseenlabs,industrial|telecom,Rennes,https://unseenlabs.com/fr/,https://unseenlabs.com/fr/carrieres/,,,51-1000,Surveillance radiofréquence spatiale,2026-09-21
-Kerlink,telecom|industrial,Thorigné-Fouillard,https://www.kerlink.fr/,https://www.kerlink.fr/carrieres/,,,51-1000,Solutions réseaux IoT,2026-09-21
-Wi6Labs,telecom|industrial,Rennes,https://www.wi6labs.com/,,,,11-50,Solutions IoT,2026-09-21
-Acklio,telecom|software,Cesson-Sévigné,https://www.ackl.io/,,,,11-50,Logiciels réseau IoT,2026-09-21
-WedoLow,software|industrial,Cesson-Sévigné,https://www.wedolow.com/,,,,11-50,Optimisation de logiciels embarqués,2026-09-21
-Secure-IC,cybersecurity|industrial,Cesson-Sévigné,https://www.secure-ic.com/,https://www.secure-ic.com/careers/,,,51-1000,Cybersécurité des systèmes embarqués,2026-09-21
-Almond,cybersecurity,Rennes,https://almond.eu/,https://almond.eu/carrieres/,,,51-1000,Cybersécurité,2026-09-21
-YesWeHack,cybersecurity|saas,Rennes,https://www.yeswehack.com/fr,https://www.yeswehack.com/fr/jobs,,,51-1000,Plateforme de bug bounty,2026-09-21
-Anozr Way,cybersecurity|saas,Rennes,https://anozrway.com/,https://anozrway.com/carrieres/,,,11-50,Cybersécurité du facteur humain,2026-09-21
-Hackuity,cybersecurity|saas,Cesson-Sévigné,https://www.hackuity.io/,,,,11-50,Plateforme de gestion des vulnérabilités,2026-09-21
-Rubycat Labs,cybersecurity|software,Rennes,https://www.rubycat-labs.com/,,,,11-50,Sécurité des accès privilégiés,2026-09-21
-SEKOIA.IO,cybersecurity|saas,Rennes,https://www.sekoia.io/fr/,https://careers.sekoia.io/,,,51-1000,Détection et réponse aux menaces,2026-09-21
-Gatewatcher,cybersecurity|ai,Rennes,https://www.gatewatcher.com/fr/,https://www.gatewatcher.com/fr/carrieres/,,,51-1000,Cybersécurité et analyse de code,2026-09-21
-WaryMe,cybersecurity|software,Cesson-Sévigné,https://www.waryme.com/,,,,11-50,Sécurité des personnes,2026-09-21
-IDnow,cybersecurity|fintech,Cesson-Sévigné,https://www.idnow.io/fr/,https://www.idnow.io/careers/,,,51-1000,Vérification d'identité numérique,2026-09-21
 ContentArmor,cybersecurity|software,Cesson-Sévigné,https://contentarmor.net/,,,,11-50,Protection des contenus numériques,2026-09-21
-Bretagne Télécom,telecom|cybersecurity,Châteaubourg,https://www.bretagnetecom.com/,https://www.bretagnetecom.com/recrutement/,,,51-1000,Télécom cloud et cybersécurité,2026-09-21
-Safran Electronics & Defense,industrial|software,Cesson-Sévigné,https://www.safran-group.com/fr/societes/safran-electronics-defense,https://www.safran-group.com/fr/offres,,,1000+,R&D systèmes embarqués,2026-09-21
-Thales,industrial|cybersecurity,Étrelles,https://www.thalesgroup.com/fr,https://careers.thalesgroup.com/fr/fr/,,,1000+,Microélectronique et cyberdéfense,2026-09-21
-STMicroelectronics,industrial,Rennes,https://www.st.com/,https://www.st.com/content/st_com/en/about/careers.html,,,1000+,R&D microélectronique,2026-09-21
+Dassault Systèmes,software,Cesson-Sévigné,https://www.3ds.com/fr,https://www.3ds.com/fr/careers/jobs,,,1000+,Éditeur de logiciels,2026-09-21
+Davidson,software|industrial,Rennes,https://www.davidson.fr/,https://www.davidson.fr/recrutement/,,,1000+,Conseil en ingénierie,2026-09-21
+Digitaleo,saas|software,Rennes,https://www.digitaleo.com/,https://www.digitaleo.com/recrutement/,,,51-1000,SaaS marketing local,2026-09-21
+ENENSYS Technologies,telecom|industrial,Cesson-Sévigné,https://www.enensys.com/,https://www.enensys.com/careers/,,,51-1000,Technologies de diffusion vidéo,2026-09-21
+Eviden,software|cybersecurity,Rennes,https://eviden.com/fr-fr/,https://jobs.atos.net/eviden/,,,1000+,Numérique et cybersécurité,2026-09-21
+Gatewatcher,cybersecurity|ai,Rennes,https://www.gatewatcher.com/fr/,https://www.gatewatcher.com/fr/carrieres/,,,51-1000,Cybersécurité et analyse de code,2026-09-21
+Groupe Créative,software,Rennes,https://www.groupe-creative.fr/,https://www.groupe-creative.fr/recrutement/,,,51-1000,ESN,2026-09-21
+Hackuity,cybersecurity|saas,Cesson-Sévigné,https://www.hackuity.io/,,,,11-50,Plateforme de gestion des vulnérabilités,2026-09-21
+Harmonic,software|telecom,Cesson-Sévigné,https://www.harmonicinc.com/,https://www.harmonicinc.com/company/careers/,,,1000+,Technologies vidéo et télécoms,2026-09-21
+HelloWork,software|saas,Rennes,https://www.hellowork.com/fr-fr/,https://www.hellowork-group.com/fr/carriere/,,,51-1000,Plateformes emploi et formation,2026-09-21
+HOPPEN,healthtech|software,Cesson-Sévigné,https://www.hoppen.care/,https://www.hoppen.care/carrieres/,,,51-1000,Santé numérique,2026-09-21
+IDnow,cybersecurity|fintech,Cesson-Sévigné,https://www.idnow.io/fr/,https://www.idnow.io/careers/,,,51-1000,Vérification d'identité numérique,2026-09-21
+Inetum,software,Rennes,https://www.inetum.com/fr,https://www.inetum.com/fr/carrieres,,,1000+,ESN,2026-09-21
+InterDigital,software|telecom,Cesson-Sévigné,https://www.interdigital.com/,https://www.interdigital.com/careers,,,1000+,R&D vidéo et télécoms,2026-09-21
+Kereval,software|cybersecurity,Thorigné-Fouillard,https://www.kereval.com/,https://www.kereval.com/recrutement/,,,51-1000,Tests logiciels et cybersécurité,2026-09-21
+Kerlink,telecom|industrial,Thorigné-Fouillard,https://www.kerlink.fr/,https://www.kerlink.fr/carrieres/,,,51-1000,Solutions réseaux IoT,2026-09-21
+Klaxoon,saas|software,Rennes,https://klaxoon.com/fr/,https://klaxoon.com/fr/carrieres/,,,51-1000,Plateforme collaborative,2026-09-21
+Luminess,software,Cesson-Sévigné,https://www.luminess.eu/,https://www.luminess.eu/carrieres/,,,1000+,Services numériques,2026-09-21
 Mitsubishi Electric R&D Centre Europe,ai|industrial,Rennes,https://www.mitsubishielectric-rce.eu/,,,,51-1000,R&D IA et électronique,2026-09-21
-Silicon Labs,industrial|telecom,Rennes,https://www.silabs.com/,https://www.silabs.com/about-us/careers,,,1000+,R&D semi-conducteurs sans fil,2026-09-21
-TDF,telecom,Cesson-Sévigné,https://www.tdf.fr/,https://www.tdf.fr/carrieres/,,,1000+,Réseaux et diffusion,2026-09-21
+Neosoft,software,Rennes,https://www.neo-soft.fr/,https://www.neo-soft.fr/carriere/,,,1000+,ESN,2026-09-21
+Niji,software,Cesson-Sévigné,https://www.niji.fr/,https://www.niji.fr/fr/carrieres,,,51-1000,Conseil et ingénierie numérique,2026-09-21
+onepoint,software,Rennes,https://www.groupeonepoint.com/fr/,https://www.groupeonepoint.com/fr/nous-rejoindre/,,,1000+,Conseil en transformation numérique,2026-09-21
+OPEN,software,Rennes,https://www.open.global/,https://www.open.global/fr/carriere,,,1000+,ESN,2026-09-21
+Orange,telecom|software,Cesson-Sévigné,https://www.orange.com/fr,https://orange.jobs/,,,1000+,R&D télécom et logiciel,2026-09-21
+Rubycat Labs,cybersecurity|software,Rennes,https://www.rubycat-labs.com/,,,,11-50,Sécurité des accès privilégiés,2026-09-21
+Safran Electronics & Defense,industrial|software,Cesson-Sévigné,https://www.safran-group.com/fr/societes/safran-electronics-defense,https://www.safran-group.com/fr/offres,,,1000+,R&D systèmes embarqués,2026-09-21
+Scalian,software|industrial,Rennes,https://www.scalian.com/,https://careers.scalian.com/,,,1000+,Conseil en ingénierie,2026-09-21
+Script&Go,software|saas,Rennes,https://www.scriptandgo.com/,,,,,Logiciels métiers mobiles,2026-09-21
+Secure-IC,cybersecurity|industrial,Cesson-Sévigné,https://www.secure-ic.com/,https://www.secure-ic.com/careers/,,,51-1000,Cybersécurité des systèmes embarqués,2026-09-21
+SEKOIA.IO,cybersecurity|saas,Rennes,https://www.sekoia.io/fr/,https://careers.sekoia.io/,,,51-1000,Détection et réponse aux menaces,2026-09-21
 SIB,healthtech|software,Cesson-Sévigné,https://www.sib.fr/,https://www.sib.fr/recrutement/,,,51-1000,Systèmes d'information de santé,2026-09-21
+SII,software|industrial,Rennes,https://sii-group.com/fr-FR,https://sii-group.com/fr-FR/offres,,,1000+,ESN,2026-09-21
+Silicon Labs,industrial|telecom,Rennes,https://www.silabs.com/,https://www.silabs.com/about-us/careers,,,1000+,R&D semi-conducteurs sans fil,2026-09-21
+Sopra Steria,software|cybersecurity,Cesson-Sévigné,https://www.soprasteria.com/fr,https://careers.soprasteria.fr/,,,1000+,ESN et cybersécurité,2026-09-21
+Steeple,saas|software,Rennes,https://steeple.com/fr/,https://steeple.com/fr/recrutement/,,,51-1000,Communication interne SaaS,2026-09-21
+STMicroelectronics,industrial,Rennes,https://www.st.com/,https://www.st.com/content/st_com/en/about/careers.html,,,1000+,R&D microélectronique,2026-09-21
+TDF,telecom,Cesson-Sévigné,https://www.tdf.fr/,https://www.tdf.fr/carrieres/,,,1000+,Réseaux et diffusion,2026-09-21
+Thales,industrial|cybersecurity,Étrelles,https://www.thalesgroup.com/fr,https://careers.thalesgroup.com/fr/fr/,,,1000+,Microélectronique et cyberdéfense,2026-09-21
+Ubisoft,gaming,Rennes,https://www.ubisoft.com/fr-fr/,https://www.ubisoft.com/fr-fr/company/careers,,,1000+,Studio de jeux vidéo,2026-09-21
+Unseenlabs,industrial|telecom,Rennes,https://unseenlabs.com/fr/,https://unseenlabs.com/fr/carrieres/,,,51-1000,Surveillance radiofréquence spatiale,2026-09-21
+WaryMe,cybersecurity|software,Cesson-Sévigné,https://www.waryme.com/,,,,11-50,Sécurité des personnes,2026-09-21
+WedoLow,software|industrial,Cesson-Sévigné,https://www.wedolow.com/,,,,11-50,Optimisation de logiciels embarqués,2026-09-21
+Wi6Labs,telecom|industrial,Rennes,https://www.wi6labs.com/,,,,11-50,Solutions IoT,2026-09-21
+YesWeHack,cybersecurity|saas,Rennes,https://www.yeswehack.com/fr,https://www.yeswehack.com/fr/jobs,,,51-1000,Plateforme de bug bounty,2026-09-21
+Zenika,software,Rennes,https://www.zenika.com/,https://jobs.zenika.com/,,,51-1000,Conseil et développement logiciel,2026-09-21
