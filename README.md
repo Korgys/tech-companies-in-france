@@ -4,7 +4,9 @@ Base de données open source des entreprises disposant d'une activité ou
 d'équipes tech en France, maintenue dans des fichiers CSV simples et réutilisables.
 
 <!-- company-count:start -->
+
 [![Implantations tech : 1090](https://img.shields.io/badge/implantations_tech-1090-059669?style=for-the-badge&logo=databricks&logoColor=white)](data/)
+
 <!-- company-count:end -->
 
 Les données sont organisées par région puis département :
@@ -30,7 +32,8 @@ Excel, utiliser l'import « À partir d'un fichier texte/CSV » et sélectionner
 UTF-8 et le séparateur virgule si nécessaire.
 
 Les contributions sont bienvenues : voir [CONTRIBUTING.md](CONTRIBUTING.md).
-Chaque ajout doit être vérifié et daté ; une information incertaine reste vide.
+Pensez à mettre à jour la date `last_verified` pour chaque ajout ou modification.
+Merci de ne pas renseigner d'information incertaine.
 
 Une GitHub Action valide les CSV sur les pull requests et les pushes vers `main`.
 Le projet est distribué sous [licence MIT](LICENSE).
