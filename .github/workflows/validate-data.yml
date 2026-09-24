@@ -26,6 +26,7 @@ jobs:
           import os
           import re
           import sys
+          import unicodedata
           from datetime import date
           from pathlib import Path
 
@@ -36,6 +37,11 @@ jobs:
           ]
           errors = []
           total = 0
+
+          def sort_key(value):
+              normalized = unicodedata.normalize("NFKD", value.casefold())
+              return "".join(char for char in normalized if not unicodedata.combining(char))
+
           paths = sorted(Path("data").rglob("*.csv"))
           if not paths:
               errors.append("data/: aucun fichier CSV")
@@ -47,6 +53,7 @@ jobs:
                       if next(reader, None) != expected:
                           errors.append(f"{path}: en-tête incorrect")
                           continue
+                      previous_name = None
                       for row in reader:
                           location = f"{path}:{reader.line_num}"
                           if len(row) != len(expected):
@@ -54,6 +61,12 @@ jobs:
                               continue
                           if any(value.strip() for value in row):
                               total += 1
+                              name = row[expected.index("name")]
+                              if previous_name is not None and sort_key(name) < sort_key(previous_name):
+                                  errors.append(
+                                      f"{location}: nom non trié ({name!r} doit précéder {previous_name!r})"
+                                  )
+                              previous_name = name
                           verified = row[expected.index("last_verified")]
                           if verified:
                               try:
