@@ -1,30 +1,55 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
+Accenture,it-services,Sophia Antipolis,https://www.accenture.com,,,,,Conseil et services numériques,2026-09-25
+Adentis,it-services,Sophia Antipolis,https://www.adentis.fr,,,,,Conseil en ingénierie,2026-09-25
 Akkodis,it-services,Sophia Antipolis,https://www.akkodis.com,,,,1000+,ESN & ingénierie R&D,2026-09-24
 Alpes-Maritimes Département (DSI),public-sector,Nice,https://www.departement06.fr,,,,1000+,Équipe informatique locale,2026-09-24
+Alten,it-services,Sophia Antipolis,https://www.alten.com,,,,,Conseil en ingénierie et IT,2026-09-25
 Amadeus,software,Sophia Antipolis,https://www.amadeus.com,,,,1000+,Éditeur SaaS & tech pour le voyage,2026-09-24
 Apside,it-services,Sophia Antipolis,https://www.apside.com,,,,1000+,ESN & conseil en technologie,2026-09-24
 ARM France,deeptech,Sophia Antipolis,https://www.arm.com,,,,51-1000,Conception microprocesseurs & R&D logicielle,2026-09-24
+Astek,it-services,Sophia Antipolis,https://astekgroup.fr,,,,,Conseil en ingénierie et numérique,2026-09-25
 Atos,it-services,Sophia Antipolis,https://atos.net,,,,1000+,ESN & services numériques,2026-09-24
+AViSTO,software,Sophia Antipolis,https://www.avisto.com,,,,,Ingénierie logicielle,2026-09-25
 Caisse Régionale du Crédit Agricole PCA,banking,Nice,https://www.credit-agricole.fr/ca-pca/,,,,1000+,Équipe informatique locale,2026-09-24
 Capgemini,it-services,Sophia Antipolis,https://www.capgemini.com,,,,1000+,ESN & conseil en technologie,2026-09-24
+CBTW,it-services,Sophia Antipolis,https://www.cb-tw.com,,,,,Conseil et ingénierie numérique,2026-09-25
 CGI France,it-services,Sophia Antipolis,https://www.cgi.com/france,,,,1000+,ESN & conseil IT,2026-09-24
 CHU de Nice (DSI),healthtech,Nice,https://www.chu-nice.fr,,,,1000+,Équipe informatique hospitalière,2026-09-24
 Cisco Systems France,deeptech,Sophia Antipolis,https://www.cisco.com,,,,51-1000,R&D réseaux & cybersécurité,2026-09-24
+Dolby Laboratories,software,Sophia Antipolis,https://www.dolby.com,,,,,R&D audio et logiciels,2026-09-25
 Econocom,it-services,Sophia Antipolis,https://www.econocom.com,,,,1000+,ESN & services numériques,2026-09-24
+Fortinet,cybersecurity,Sophia Antipolis,https://www.fortinet.com,,,,,Cybersécurité,2026-09-25
+Groupe SII,it-services,Sophia Antipolis,https://sii-group.com,,,,,ESN et ingénierie,2026-09-25
+IDEMIA,cybersecurity,Sophia Antipolis,https://www.idemia.com,,,,,R&D identité numérique,2026-09-25
 Inria Centre Université Côte d'Azur,deeptech,Sophia Antipolis,https://www.inria.fr,,,,51-1000,Institut de recherche en numérique & IA,2026-09-24
 Intel Corporation France,deeptech,Sophia Antipolis,https://www.intel.fr,,,,51-1000,R&D semi-conducteurs & logiciels embarqués,2026-09-24
+Janua,cybersecurity,Sophia Antipolis,https://www.janua.fr,,,,,Gestion des identités,2026-09-25
 Kandis,software,Sophia Antipolis,https://www.kandis.fr,,,,11-50,Éditeur logiciels SIG & télécoms,2026-09-24
 Koesio PACA,it-services,Nice,https://koesio.com,,,,51-1000,ESN & services numériques,2026-09-24
+Kyndryl,it-services,Sophia Antipolis,https://www.kyndryl.com,,,,,Infogérance et cloud,2026-09-25
+Median Technologies,healthtech,Valbonne,https://www.mediantechnologies.com,,,,,IA et imagerie médicale,2026-09-25
 Metropole Nice Côte d'Azur (DSI),public-sector,Nice,https://www.nicecotedazur.org,,,,1000+,Équipe informatique locale,2026-09-24
+MyDataModels,ai,Biot,https://www.mydatamodels.com,,,,,Logiciels d'intelligence artificielle,2026-09-25
+Noeva,it-services,Antibes,https://www.noeva.com,,,,,Intégrateur cloud et cybersécurité,2026-09-25
 NXP Semiconductors,deeptech,Sophia Antipolis,https://www.nxp.com,,,,51-1000,Semi-conducteurs & cybersécurité embarquée,2026-09-24
+Onepoint,it-services,Sophia Antipolis,https://www.groupeonepoint.com,,,,,Conseil en transformation numérique,2026-09-25
 Orange (Centre R&D & Direction Régionale),telecom,Sophia Antipolis,https://www.orange.fr,,,,1000+,"R&D réseaux, 5G & IT",2026-09-24
+Orange Cyberdefense,cybersecurity,Sophia Antipolis,https://www.orangecyberdefense.com,,,,,Centre de cybersécurité,2026-09-25
+Prove & Run,cybersecurity,Sophia Antipolis,https://www.provenrun.com,,,,,Logiciels embarqués sécurisés,2026-09-25
 Qualcomm France,deeptech,Sophia Antipolis,https://www.qualcomm.com,,,,51-1000,"R&D télécoms, IoT & puces mobiles",2026-09-24
+Renault Software Labs,software,Sophia Antipolis,https://www.renaultgroup.com,,,,,R&D logicielle automobile,2026-09-25
 SAP Labs France,software,MOUGINS,https://www.sap.com,,,,51-1000,Centre R&D éditeur SaaS,2026-09-24
+Silicon Mobility,industrial,Sophia Antipolis,https://www.silicon-mobility.com,,,,,Semi-conducteurs et logiciels automobiles,2026-09-25
 Sogetrel Alpes-Maritimes,telecom,Nice,https://www.sogetrel.fr,,,,1000+,Infrastructures réseaux & télécoms,2026-09-24
 Sopra Steria,it-services,Sophia Antipolis,https://www.soprasteria.com,,,,1000+,ESN & conseil du numérique,2026-09-24
+Squad,cybersecurity,Sophia Antipolis,https://www.squad.fr,,,,,Conseil en cybersécurité,2026-09-25
 Symantec (Broadcom),software,Sophia Antipolis,https://www.broadcom.com,,,,51-1000,Centre R&D cybersécurité,2026-09-24
+Teach on Mars,edtech,Sophia Antipolis,https://www.teachonmars.com,,,,,Plateforme de formation mobile,2026-09-25
 Thales Alenia Space,deeptech,Cannes,https://www.thalesgroup.com,,,,1000+,"Spatial, logiciels embarqués & R&D",2026-09-24
 Thales DIS,deeptech,Sophia Antipolis,https://www.thalesgroup.com,,,,51-1000,Cybersécurité & cartes à puce,2026-09-24
+Therapixel,healthtech,Sophia Antipolis,https://www.therapixel.com,,,,,IA pour l'imagerie médicale,2026-09-25
 Université Côte d'Azur (3IA / DSI),deeptech,Nice,https://univ-cotedazur.fr,,,,1000+,"Institut IA, recherche informatique & DSI",2026-09-24
+Videtics,ai,Sophia Antipolis,https://videtics.com,,,,,Analyse vidéo par IA,2026-09-25
 Ville de Cannes (DSI),public-sector,Cannes,https://www.cannes.com,,,,51-1000,Équipe informatique locale,2026-09-24
+WIT,software,Sophia Antipolis,https://www.wit-software.com,,,,,Logiciels pour télécommunications,2026-09-25
 Xefi Nice,it-services,Nice,https://www.xefi.fr,,,,11-50,Services informatiques & cloud,2026-09-24

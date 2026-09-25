@@ -1,10 +1,14 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
+Airbus Helicopters,industrial,Marignane,https://www.airbus.com,,,,,R&D aéronautique et logiciels embarqués,2026-09-25
 Aix-Marseille Université (LIS / DSI),deeptech,Marseille,https://www.univ-amu.fr,,,,1000+,"R&D informatique, IA & DSI",2026-09-24
 Aix-Marseille-Provence Métropole (DSI),public-sector,Marseille,https://ampmetropole.fr,,,,1000+,Équipe informatique locale,2026-09-24
 Akkodis,it-services,Marseille,https://www.akkodis.com,,,,1000+,ESN & ingénierie R&D,2026-09-24
+Alten,it-services,Aix-en-Provence,https://www.alten.com,,,,,Conseil en ingénierie et IT,2026-09-25
 Apside,it-services,Aix-en-Provence,https://www.apside.com,,,,1000+,ESN & conseil en technologie,2026-09-24
+Astek,it-services,Aix-en-Provence,https://astekgroup.fr,,,,,Conseil en ingénierie et numérique,2026-09-25
 Atos,it-services,Aix-en-Provence,https://atos.net,,,,1000+,ESN & services numériques,2026-09-24
 Avenir Telecom,telecom,Marseille,https://www.avenir-telecom.com,,,,51-1000,Télécoms & distribution mobile,2026-09-24
+AViSTO,software,Aix-en-Provence,https://www.avisto.com,,,,,Ingénierie logicielle,2026-09-25
 Bouches-du-Rhône Département (DSI),public-sector,Marseille,https://www.departement13.fr,,,,1000+,Équipe informatique locale,2026-09-24
 Caisse Régionale du Crédit Agricole Alpes Provence (Siège),banking,Aix-en-Provence,https://www.credit-agricole.fr/ca-alpesprovence/,,,,1000+,Équipe informatique locale,2026-09-24
 Capgemini,it-services,Aix-en-Provence,https://www.capgemini.com,,,,1000+,ESN & conseil en technologie,2026-09-24
@@ -13,22 +17,38 @@ CGI France,it-services,Marseille,https://www.cgi.com/france,,,,1000+,ESN & conse
 CH humanis / AP-HM (DSI),healthtech,Marseille,https://www.ap-hm.fr,,,,1000+,Équipe informatique hospitalière,2026-09-24
 CMA CGM (DSI Groupe),industrial,Marseille,https://www.cmacgm-group.com,,,,1000+,DSI groupe & transformation digitale,2026-09-24
 Crosscall,software,Aix-en-Provence,https://www.crosscall.com,,,,51-1000,Mobile & solutions logicielles professionnelles,2026-09-24
+CS Group,it-services,Aix-en-Provence,https://www.csgroup.eu,,,,,Systèmes critiques et cybersécurité,2026-09-25
 Digital Virgo,software,Marseille,https://www.digitalvirgo.com,,,,51-1000,Solutions de paiement mobile & SaaS,2026-09-24
 Econocom,it-services,Marseille,https://www.econocom.com,,,,1000+,ESN & services numériques,2026-09-24
+Enovacom,healthtech,Marseille,https://www.enovacom.com,,,,,Éditeur de logiciels de santé,2026-09-25
+Exakis Nelite,it-services,Aix-en-Provence,https://www.exakis-nelite.com,,,,,Conseil cloud et numérique,2026-09-25
 GIE Carte Bancaire CB,banking,Aix-en-Provence,https://www.cartes-bancaires.com,,,,51-1000,R&D & sécurité monétique,2026-09-24
+Gojob,ai|software,Aix-en-Provence,https://www.gojob.com,,,,,Plateforme RH et intelligence artificielle,2026-09-25
+Groupe SII,it-services,Aix-en-Provence,https://sii-group.com,,,,,ESN et ingénierie,2026-09-25
 HighCo,software,Aix-en-Provence,https://www.highco.com,,,,51-1000,Solutions SaaS marketing & data,2026-09-24
+Infotel,it-services,Aix-en-Provence,https://www.infotel.com,,,,,ESN et édition logicielle,2026-09-25
+Innate Pharma,healthtech,Marseille,https://www.innate-pharma.com,,,,,Biotech et plateforme de données,2026-09-25
 Inria Centre AIX-Marseille,deeptech,Marseille,https://www.inria.fr,,,,51-1000,Institut de recherche en numérique,2026-09-24
+Interway,it-services,Vitrolles,https://www.interway.fr,,,,,Services numériques et infogérance,2026-09-25
 ITER Organization (DSI & IT Infrastructure),deeptech,Saint-Paul-lès-Durance,https://www.iter.org,,,,1000+,Systèmes d'information & supercalculateurs,2026-09-24
 Jaguar Network (Free Pro),it-services,Marseille,https://www.freepro.com,,,,51-1000,"Opérateur cloud, data center & télécom",2026-09-24
 Koesio PACA,it-services,Aix-en-Provence,https://koesio.com,,,,51-1000,ESN & services numériques,2026-09-24
+Mailinblack,cybersecurity,Marseille,https://www.mailinblack.com,,,,,Éditeur de cybersécurité,2026-09-25
+Monext,fintech,Aix-en-Provence,https://www.monext.fr,,,,,Technologies de paiement,2026-09-25
 Niji,it-services,Aix-en-Provence,https://www.niji.fr,,,,51-1000,ESN & conseil numérique,2026-09-24
 Orange (Direction Régionale Grand Sud-Est),telecom,Marseille,https://www.orange.fr,,,,1000+,Infrastructures réseaux & IT,2026-09-24
+Skeepers,saas,Marseille,https://skeepers.io,,,,,SaaS d'engagement client,2026-09-25
 Smarteo / Voyageurs du Monde,software,Marseille,https://www.voyageursdumonde.fr,,,,51-1000,Équipe SI & solutions traveltech,2026-09-24
+smartTrade Technologies,fintech,Aix-en-Provence,https://www.smart-trade.net,,,,,Logiciels de trading électronique,2026-09-25
+Softway Medical,healthtech,Fuveau,https://www.softwaymedical.fr,,,,,Éditeur de logiciels de santé,2026-09-25
 Sogetrel Bouches-du-Rhône,telecom,Marseille,https://www.sogetrel.fr,,,,1000+,Infrastructures réseaux & télécoms,2026-09-24
 Sopra Steria,it-services,Aix-en-Provence,https://www.soprasteria.com,,,,1000+,ESN & conseil du numérique,2026-09-24
 STMicroelectronics,deeptech,Rousset,https://www.st.com,,,,1000+,Semi-conducteurs & logiciels embarqués,2026-09-24
 SuperSonic Imagine,healthtech,Aix-en-Provence,https://www.supersonicimagine.fr,,,,51-1000,Imagerie médicale & développement logiciel,2026-09-24
+Synchrone,it-services,Aix-en-Provence,https://www.synchrone.fr,,,,,Conseil et services numériques,2026-09-25
 Thales DIS (ex-Gemalto),deeptech,Gémenos,https://www.thalesgroup.com,,,,1000+,"IoT, cartes à puce & cybersécurité",2026-09-24
+Verimatrix,cybersecurity,Meyreuil,https://www.verimatrix.com,,,,,Cybersécurité des contenus,2026-09-25
+Volta Medical,healthtech,Marseille,https://www.volta-medical.com,,,,,IA pour la cardiologie,2026-09-25
 Voyageprive.com,ecommerce,Aix-en-Provence,https://www.voyage-prive.com,,,,51-1000,Plateforme e-commerce & traveltech,2026-09-24
 Wiko,software,Marseille,https://fr.wikomobile.com,,,,51-1000,Mobile & développement applicatif,2026-09-24
 Xefi Marseille,it-services,Marseille,https://www.xefi.fr,,,,11-50,Services informatiques & cloud,2026-09-24

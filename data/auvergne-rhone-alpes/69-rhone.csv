@@ -1,5 +1,7 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
 ACCENTURE,software,LYON,,https://www.accenture.com/fr-fr/careers,https://www.linkedin.com/company/accenture/,,1000+,ESN,2026-09-21
+Agicap,fintech,Lyon,https://agicap.com,,,,,SaaS de gestion de trésorerie,2026-09-25
+APRIL,insurance,Lyon,https://www.april.com,,,,,Équipes numériques assurance,2026-09-25
 ATOS FRANCE,software,VILLEURBANNE,,https://www.atosgroup.com/fr/carrieres,https://www.linkedin.com/company/atos/,,1000+,ESN,2026-09-21
 AXIONE,telecom,TOUSSIEU,,https://www.axione.com/rejoignez-nous/postuler/,https://www.linkedin.com/company/axione/,,1000+,Télécoms,2026-09-21
 BERGER LEVRAULT,software,LIMONEST,,https://recrute.berger-levrault.com/accueil.aspx,https://www.linkedin.com/company/berger-levrault/,,,Éditeur de logiciels,2026-09-21
@@ -8,16 +10,19 @@ BPCE SOLUTIONS INFORMATIQUES,software,VILLEURBANNE,,,https://www.linkedin.com/co
 CAPGEMINI TECHNOLOGY SERVICES,software,LYON,,https://www.capgemini.com/fr-fr/jobs/,https://www.linkedin.com/company/capgemini/,,1000+,ESN,2026-09-21
 CATAMANIA,software,LYON,,https://www.catamania.com/recrutement/,https://www.linkedin.com/company/catamania/,,51-1000,ESN,2026-09-21
 CEGEDIM,software,LYON,,https://careers.cegedim.com/fr,https://www.linkedin.com/company/cegedim/,,51-1000,Hébergement et traitement de données,2026-09-21
+Cegid,software,Lyon,https://www.cegid.com,,,,,Éditeur de logiciels de gestion,2026-09-25
 CGI FRANCE,software,LYON,,https://www.cgi.com/france/fr-fr/recrute,https://www.linkedin.com/company/cgi/,,1000+,ESN,2026-09-21
 CHEOPS TECHNOLOGY FRANCE,software,BRIGNAIS,,https://www.cheops-technology.com/carriere,https://www.linkedin.com/company/cheops-technology_2/,,51-1000,ESN,2026-09-21
 CIRCET,telecom,CHASSIEU,,https://www.circet.fr/offres-demploi,https://www.linkedin.com/company/circet/,,1000+,Télécoms,2026-09-21
 CIRIL GROUP,software,VILLEURBANNE,,https://cirilgroup.com/recrutement/,https://www.linkedin.com/company/ciril-group/,,51-1000,ESN,2026-09-21
 CLUB EMPLOYES,software,SAINTE-FOY-LES-LYON,,,https://www.linkedin.com/company/clubemployes/,,51-1000,Développement logiciel,2026-09-21
+Cosmo Tech,ai,Lyon,https://cosmotech.com,,,,,Logiciels de simulation prédictive,2026-09-25
 DASSAULT SYSTEMES,software,LIMONEST,,https://www.3ds.com/fr/careers/jobs,https://www.linkedin.com/company/dassaultsystemes/,,1000+,Éditeur de logiciels,2026-09-21
 DEDALUS HEALTHCARE FRANCE,software,VILLEURBANNE,,https://www.dedalus.com/fr/fr/carrieres-et-emplois/,https://www.linkedin.com/company/dedalus-group/,,51-1000,Maintenance informatique,2026-09-21
 DOCAPOSTE BPO,software,LYON,,,,,,Hébergement et traitement de données,2026-09-21
 ECONOCOM SERVICES & SOLUTIONS,software,VILLEURBANNE,,https://carrieres.econocom.com/,https://www.linkedin.com/company/econocom/,,1000+,Infogérance,2026-09-21
 EQUASENS,software,LIMAS,,,https://www.linkedin.com/company/equasens/,,51-1000,Maintenance informatique,2026-09-21
+Esker,software,Villeurbanne,https://www.esker.fr,,,,,Éditeur SaaS de dématérialisation,2026-09-25
 EURO INFORMATION DEVELOPPEMENTS,software,TASSIN-LA-DEMI-LUNE,,,,,1000+,Maintenance informatique,2026-09-21
 EURO.TVS - TRAITEMENT VALEURS SERVICES,software,TASSIN-LA-DEMI-LUNE,,,https://www.linkedin.com/company/euro-tvs---traitement-valeurs-services/,,51-1000,Hébergement et traitement de données,2026-09-21
 EVERWIN,software,VILLEURBANNE,,,https://www.linkedin.com/company/everwin/,,51-1000,Éditeur de logiciels,2026-09-21
@@ -33,6 +38,7 @@ IT LINK FRANCE,software,LYON,,,,,51-1000,ESN,2026-09-21
 ITS GROUP,software,LYON,,https://www.itsgroup.com/rejoindre-its-group/,https://www.linkedin.com/company/its-group-s-a-/,,51-1000,ESN,2026-09-21
 KYNDRYL FRANCE,software,LIMONEST,,https://www.kyndryl.com/fr/fr/careers,https://www.linkedin.com/company/kyndryl/,,,Infogérance,2026-09-21
 LOCAL.FR,software,ARNAS,,https://recrutement.local.fr/,https://www.linkedin.com/company/local.fr/,,51-1000,Développement logiciel,2026-09-21
+LumApps,saas,Lyon,https://www.lumapps.com,,,,,SaaS d'expérience collaborateur,2026-09-25
 MAGELLAN STRATEGIC SOLUTIONS & SERVICES FRANCE,software,VILLEURBANNE,,https://careers.smartrecruiters.com/Magellan,,,1000+,ESN,2026-09-21
 MICROSOFT FRANCE,software,LYON,,https://careers.microsoft.com/,https://www.linkedin.com/company/microsoft/,,1000+,Maintenance informatique,2026-09-21
 NIJI,software,LYON,,,https://www.linkedin.com/company/niji/,,,ESN,2026-09-21
@@ -43,9 +49,13 @@ ORANGE CYBERDEFENSE FRANCE,software,LYON,,https://jobs.orangecyberdefense.com/?l
 PRODWARE SA,software,LYON,,https://www.prodwaregroup.com/fr-fr/rejoindre-prodware/,https://www.linkedin.com/company/prodware/,,51-1000,ESN,2026-09-21
 SIEMENS INDUSTRY SOFTWARE SAS,software,LYON,,https://www.siemens.com/fr-fr/company/jobs/,https://www.linkedin.com/company/siemens/,,51-1000,Éditeur de logiciels,2026-09-21
 SOCIETE FRANCAISE DU RADIOTELEPHONE - S.F.R,telecom,SAINT-PRIEST,,https://recrutement.sfr.com/,https://www.linkedin.com/company/sfr/,,1000+,Télécoms,2026-09-21
+Sogelink,software,Caluire-et-Cuire,https://www.sogelink.com,,,,,Éditeur de logiciels construction,2026-09-25
 SOPRA HR SOFTWARE,software,LIMONEST,,https://www.soprahr.com/nous-connaitre/carrieres,https://www.linkedin.com/company/soprahr/,,51-1000,Éditeur de logiciels,2026-09-21
 SOPRA STERIA GROUP,software,LIMONEST,,https://careers.soprasteria.fr/,https://www.linkedin.com/company/soprasteria/,Java,1000+,ESN,2026-09-21
 SPIE ICS,software,BRON,,,https://www.linkedin.com/company/spie-ics/,,1000+,ESN,2026-09-21
 SULLY GROUP,software,SAINT-PRIEST,,https://www.sully-group.com/en/careers,https://www.linkedin.com/company/sully-group/,Java|Angular|PostgreSQL|Kubernetes,51-1000,ESN,2026-09-21
 THALES SERVICES NUMERIQUES SAS,software,LYON,,https://careers.thalesgroup.com/fr/fr/carrieres-france,https://www.linkedin.com/company/thales/,,1000+,ESN,2026-09-21
+Visiativ,software,Charbonnières-les-Bains,https://www.visiativ.com,,,,,Logiciels pour l'industrie,2026-09-25
+Witekio,software,Lyon,https://witekio.com,,,,,Logiciels embarqués et IoT,2026-09-25
 WORLDLINE,software,VILLEURBANNE,,https://jobs.worldline.com/?locale=fr_FR,https://www.linkedin.com/company/worldlineglobal/,,51-1000,ESN,2026-09-21
+Zenika,it-services,Lyon,https://www.zenika.com,,,,,Conseil et ingénierie logicielle,2026-09-25

@@ -1,18 +1,28 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
+AFNIC,telecom,Guyancourt,https://www.afnic.fr,,,,,Infrastructure et services internet,2026-09-25
 Air Liquide,energy|industrial,Les Loges-en-Josas,https://www.airliquide.com/fr,https://www.airliquide.com/fr/carrieres,,,1000+,Campus innovation Paris-Saclay,2026-09-23
 Airbus Defence and Space,industrial|software,Élancourt,https://www.airbus.com/en/products-services/defence,https://www.airbus.com/en/careers,,,1000+,Systèmes spatiaux et logiciels,2026-09-23
+Ansys,software,Montigny-le-Bretonneux,https://www.ansys.com,,,,,Éditeur de logiciels de simulation,2026-09-25
 Ardans,saas|software,Montigny-le-Bretonneux,https://www.ardans.fr/,https://www.ardans.fr/recrutement/,,Java|TypeScript|React|Angular|SQL Server,11-50,Éditeur de logiciels,2026-09-23
 ArianeGroup,industrial|software,Les Mureaux,https://www.ariane.group/,https://www.ariane.group/carrieres/,,,1000+,R&D aérospatiale,2026-09-23
 Arquus,industrial|software,Versailles,https://www.arquus-defense.com/,https://www.arquus-defense.com/fr/carrieres,,,1000+,R&D véhicules de défense,2026-09-23
 Assystem,energy|industrial|software,Montigny-le-Bretonneux,https://www.assystem.com/fr/,https://www.assystem.com/fr/carrieres/,,,1000+,Ingénierie et solutions digitales,2026-09-23
 ATERMES,industrial|software,Montigny-le-Bretonneux,https://www.atermes.fr/,https://www.atermes.fr/en/jobs/,,,51-1000,Systèmes et logiciels embarqués,2026-09-23
 Bertin Technologies,industrial|software,Montigny-le-Bretonneux,https://www.bertin-technologies.com/,https://www.bertin-technologies.com/carrieres/,,,51-1000,Instrumentation et logiciels scientifiques,2026-09-23
+BMW France,industrial,Montigny-le-Bretonneux,https://www.bmw.fr,,,,,Équipes numériques automobiles,2026-09-25
 Bouygues Construction,industrial|software,Guyancourt,https://www.bouygues-construction.com/,https://carrieres.bouygues-construction.com/,,,1000+,Équipes numériques locales,2026-09-23
+Bouygues Telecom,telecom,Vélizy-Villacoublay,https://www.bouyguestelecom.fr,,,,,Télécom et équipes logicielles,2026-09-25
+Bureau Veritas,industrial,Montigny-le-Bretonneux,https://group.bureauveritas.com,,,,,Équipes data et numérique,2026-09-25
 Capgemini Engineering,industrial|software,Montigny-le-Bretonneux,https://www.capgemini.com/fr-fr/about-us/who-we-are/our-brands/capgemini-engineering/,https://www.capgemini.com/fr-fr/carrieres/,,,1000+,Ingénierie et R&D,2026-09-23
 Colas Digital Solutions,software,Vélizy-Villacoublay,https://www.colas.com/fr,https://careers.colasjobs.com/,,,51-1000,Solutions digitales pour le BTP,2026-09-23
+Continental,industrial,Rambouillet,https://www.continental.com,,,,,R&D automobile et logiciels embarqués,2026-09-25
 Crédit Agricole Payment Services,banking|fintech|software,Guyancourt,https://www.ca-paymentservices.com/,https://groupecreditagricole.jobs/,,,1000+,Technologies de paiement,2026-09-23
 Dassault Systèmes,industrial|saas|software,Vélizy-Villacoublay,https://www.3ds.com/fr,https://www.3ds.com/fr/careers,,,1000+,Éditeur de logiciels industriels,2026-09-23
+EBP,software,Rambouillet,https://www.ebp.com,,,,,Éditeur de logiciels de gestion,2026-09-25
 Egis,industrial|software,Guyancourt,https://www.egis-group.com/fr,https://jobs.egis-group.com/,,,1000+,Ingénierie et solutions numériques,2026-09-23
+Eiffage,industrial,Vélizy-Villacoublay,https://www.eiffage.com,,,,,DSI et innovation numérique,2026-09-25
+Ekinops,telecom,Vélizy-Villacoublay,https://www.ekinops.com,,,,,Équipements et logiciels télécom,2026-09-25
+Equans Digital,it-services,Vélizy-Villacoublay,https://www.equans-digital.com,,,,,Intégration et services numériques,2026-09-25
 Eviden,ai|cybersecurity|software,Les Clayes-sous-Bois,https://eviden.com/fr-fr/,https://jobs.atos.net/eviden/,,,1000+,R&D calcul avancé et sécurité,2026-09-23
 Exail,industrial|software,Saint-Germain-en-Laye,https://www.exail.com/,https://www.exail.com/careers,,,1000+,Robotique et systèmes autonomes,2026-09-23
 Expleo,industrial|software,Montigny-le-Bretonneux,https://expleo.com/global/fr/,https://careers.expleo.com/,,,1000+,Ingénierie et logiciels embarqués,2026-09-23
@@ -23,12 +33,16 @@ JCDecaux,software,Plaisir,https://www.jcdecaux.fr/,https://www.jcdecaux.fr/talen
 Kerlog,saas|software,Le Pecq,https://www.kerlog.com/,https://www.kerlog.com/nous-rejoindre/,,Java|SQL,11-50,Logiciels de gestion des déchets,2026-09-23
 KNDS France,industrial|software,Versailles,https://www.knds.fr/,https://www.knds.fr/carrieres,,,1000+,Systèmes de défense et logiciels,2026-09-23
 Médiane Système,industrial|software,Le Pecq,https://www.medianesysteme.com/,https://www.medianesysteme.com/recrutement/,,,51-1000,Systèmes embarqués et logiciels,2026-09-23
+Nokia France,telecom,Vélizy-Villacoublay,https://www.nokia.com,,,,,R&D réseaux et télécommunications,2026-09-25
+Oracle France,software,Vélizy-Villacoublay,https://www.oracle.com/fr/,,,,,Éditeur de logiciels,2026-09-25
 Orano Projets,energy|industrial|software,Montigny-le-Bretonneux,https://www.orano.group/fr,https://www.orano.group/jobs/fr,,,1000+,Ingénierie nucléaire et numérique,2026-09-23
 PTC,industrial|saas|software,Vélizy-Villacoublay,https://www.ptc.com/fr,https://www.ptc.com/fr/careers,,,1000+,Éditeur de logiciels industriels,2026-09-23
 Renault Group,industrial|software,Guyancourt,https://www.renaultgroup.com/,https://www.renaultgroup.com/talents/,,,1000+,Technocentre automobile et logiciel,2026-09-23
 Safran Aerosystems,industrial|software,Plaisir,https://www.safran-group.com/fr/societes/safran-aerosystems,https://www.safran-group.com/fr/emplois,,,1000+,Systèmes aéronautiques embarqués,2026-09-23
 Safran Electronics & Defense,industrial|software,Mantes-la-Ville,https://www.safran-group.com/fr/societes/safran-electronics-defense,https://www.safran-group.com/fr/emplois,,,1000+,Systèmes avioniques et logiciels,2026-09-23
+Safran Tech,industrial,Magny-les-Hameaux,https://www.safran-group.com,,,,,Centre de R&D du groupe,2026-09-25
 Siemens Smart Infrastructure,energy|industrial|software,Vélizy-Villacoublay,https://www.siemens.com/fr/fr/entreprise/themes/smart-infrastructure.html,https://jobs.siemens.com/careers,,,1000+,Solutions numériques pour bâtiments,2026-09-23
+Sodexo,enterprise,Guyancourt,https://www.sodexo.com,,,,,Équipes numériques groupe,2026-09-25
 Stellantis,industrial|software,Poissy,https://www.stellantis.com/fr,https://careers.stellantis.com/,,,1000+,Logiciels et ingénierie automobile,2026-09-23
 SYSGO,cybersecurity|software,Saint-Germain-en-Laye,https://www.sysgo.com/,https://www.sysgo.com/careers,,,51-1000,Logiciels embarqués sécurisés,2026-09-23
 Thales AVS France,industrial|software,Vélizy-Villacoublay,https://www.thalesgroup.com/fr,https://careers.thalesgroup.com/,,,1000+,Systèmes avioniques et logiciels,2026-09-23

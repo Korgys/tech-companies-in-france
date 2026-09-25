@@ -1,4 +1,5 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
+Airbus Atlantic,industrial,Mérignac,https://www.airbus.com,,,,,R&D et production aéronautique,2026-09-25
 Akkodis,it-services,Bordeaux,,,,,1000+,Ingénierie R&D,2026-09-23
 Alten,it-services,Bordeaux,,,,,1000+,ESN ingénierie,2026-09-23
 Altospam,cybersecurity,Bordeaux,https://www.altospam.com/,,,,11-50,Cybersécurité messagerie,2026-09-23
@@ -9,10 +10,13 @@ Astek,it-services,Bordeaux,,,,,1000+,ESN ingénierie,2026-09-23
 Atos,it-services,Bordeaux,https://atos.net/,,,,1000+,ESN transformation digitale,2026-09-23
 Betclic,gaming,Bordeaux,https://www.betclicgroup.com/,,,,1000+,Groupe paris en ligne,2026-09-23
 BeTomorrow,software,Bordeaux,https://www.betomorrow.com/,,,,51-1000,Agence services numériques,2026-09-23
+Bordeaux Métropole (DSI),public-sector,Bordeaux,https://www.bordeaux-metropole.fr,,,,,Équipe informatique locale,2026-09-25
 Capgemini,it-services,Bordeaux,https://www.capgemini.com/,,,,1000+,ESN conseil digital,2026-09-23
 Cdiscount,software,Bordeaux,https://www.cdiscount.com/,,,,1000+,E-commerce tech,2026-09-23
 CGI,it-services,Bordeaux,https://www.cgi.com/,,,,1000+,ESN services IT,2026-09-23
 Cheops Technology,it-services,Bordeaux,,,,,51-1000,ESN infrastructure,2026-09-23
+Conserto,it-services,Bordeaux,https://conserto.pro,,,,,ESN et conseil numérique,2026-09-25
+Dassault Aviation,industrial,Mérignac,https://www.dassault-aviation.com,,,,,R&D aéronautique et logiciels,2026-09-25
 Definima,software,Gradignan,,,,,11-50,Intégration développement,2026-09-23
 Displayce,adtech,Bordeaux,,,,,11-50,Adtech digital,2026-09-23
 Dolist,saas,Bordeaux,,,,,51-1000,SaaS email marketing,2026-09-23
@@ -22,20 +26,28 @@ Escape,cybersecurity,Bordeaux,,,,,11-50,SaaS cybersécurité,2026-09-23
 eShard,cybersecurity,Pessac,https://www.eshard.com/,,,,11-50,Sécurité logiciels embarqués,2026-09-23
 Everping,it-services,Bordeaux,,,,,11-50,Services informatiques,2026-09-23
 Exodata,it-services,Bordeaux,,,,,51-1000,ESN cloud cybersécurité,2026-09-23
+Fasst,insurance,Bordeaux,https://www.fasst.io,,,,,SaaS pour assurances,2026-09-25
 Feed Manager,saas,Bordeaux,,,,,11-50,SaaS e-commerce,2026-09-23
 FieldBox.ai,ai,Bordeaux,https://www.fieldbox.ai/,,,,51-1000,IA industrielle,2026-09-23
+HelloAsso,fintech,Bordeaux,https://www.helloasso.com,,,,,Plateforme de paiement associative,2026-09-25
 Kaizen Agency,digital,Bordeaux,,,,,11-50,Agence digitale,2026-09-23
 Lectra,software,Bordeaux,https://www.lectra.com/,,,,1000+,Logiciels industrie mode,2026-09-23
+Maincare,healthtech,Cestas,https://www.maincare.com,,,,,Éditeur de logiciels de santé,2026-09-25
 Metsys,cybersecurity,Bordeaux,,,,,51-1000,Intégrateur cybersécurité,2026-09-23
 Mink,digital,Bordeaux,,,,,11-50,Agence développement,2026-09-23
 Mirakl,saas,Bordeaux,https://www.mirakl.com/,,,,1000+,SaaS marketplace,2026-09-23
 Néosoft,it-services,Bordeaux,https://www.neosoft.fr/,,,,51-1000,ESN digital,2026-09-23
 OnCrawl,saas,Mérignac,https://www.oncrawl.com/,,,,11-50,SaaS SEO data,2026-09-23
 Onepoint,it-services,Bordeaux,,,,,1000+,ESN conseil,2026-09-23
+Orange,telecom,Bordeaux,https://www.orange.com,,,,,Équipes télécom et numériques,2026-09-25
+OVHcloud,it-services,Bordeaux,https://www.ovhcloud.com,,,,,Cloud et infrastructures numériques,2026-09-25
 PayLead,fintech,Bordeaux,,,,,11-50,Fintech data bancaire,2026-09-23
 Protego,cybersecurity,Bordeaux,,,,,11-50,Sécurité informatique,2026-09-23
+Qucit,ai,Bordeaux,https://www.qucit.com,,,,,IA pour la mobilité urbaine,2026-09-25
 Scalian,it-services,Bordeaux,,,,,1000+,ESN digital,2026-09-23
+Shiro Games,gaming,Bordeaux,https://www.shiro-games.com,,,,,Studio de jeux vidéo,2026-09-25
 SII,it-services,Bordeaux,,,,,1000+,ESN services IT,2026-09-23
+Smile,it-services,Bordeaux,https://www.smile.eu,,,,,Intégrateur open source,2026-09-25
 Sopra Steria,it-services,Bordeaux,https://www.soprasteria.com/,,,,1000+,ESN services numériques,2026-09-23
 SQLI,it-services,Bordeaux,,,,,1000+,ESN digital,2026-09-23
 Synapse Medicine,healthtech,Bordeaux,https://www.synapse-medicine.com/,,,,51-1000,Healthtech médicaments,2026-09-23
@@ -44,4 +56,6 @@ Temesis,software,Bordeaux,,,,,11-50,Accessibilité numérique,2026-09-23
 Tessi,software,Le Haillan,,,,,1000+,Traitement documentaire,2026-09-23
 Thelio,it-services,Bordeaux,,,,,51-1000,Services numériques,2026-09-23
 TurnK,software,Bordeaux,,,,,1-10,Automatisation intégration,2026-09-23
+Ubisoft Bordeaux,gaming,Bordeaux,https://www.ubisoft.com,,,,,Studio de jeux vidéo,2026-09-25
+WorldCast Systems,telecom,Mérignac,https://www.worldcastsystems.com,,,,,Technologies de diffusion numérique,2026-09-25
 Younup,it-services,Bordeaux,https://www.younup.fr/,,,,11-50,ESN web devops IA,2026-09-23

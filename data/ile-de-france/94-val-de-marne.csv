@@ -1,28 +1,38 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
 Abbott,healthtech|industrial,Rungis,https://www.abbott.fr/,https://www.jobs.abbott/,https://www.linkedin.com/company/abbott-/,,1000+,Diagnostic médical et technologies,2026-09-23
 Adler Technologies,software|saas,Créteil,https://www.adlertechnologies.eu/,,https://www.linkedin.com/company/adlertechnologies/,,1-10,Éditeur de logiciels RH,2026-09-23
+Air France Industries,industrial,Orly,https://www.afiklmem.com,,,,,Maintenance aéronautique et ingénierie,2026-09-25
+Air Liquide Healthcare,healthtech,Gentilly,https://www.airliquidehealthcare.fr,,,,,Technologies de santé,2026-09-25
 AISI,cybersecurity,Saint-Mandé,https://www.aisi.fr/,https://www.aisi.fr/recrutement/,https://www.linkedin.com/company/aisifr/,,51-1000,Cybersécurité et infrastructures,2026-09-23
+AP-HP Hôpital Bicêtre (DSI),healthtech,Le Kremlin-Bicêtre,https://www.aphp.fr,,,,,Équipe informatique hospitalière,2026-09-25
 BPCE Infogérance & Technologies,banking|software|cybersecurity,Charenton-le-Pont,https://www.bpce-it.fr/,https://recrutement.bpce.fr/,https://www.linkedin.com/company/bpce-infog%C3%A9rance-%26-technologies/,,1000+,Informatique bancaire,2026-09-23
+BRED Banque Populaire,banking,Joinville-le-Pont,https://www.bred.fr,,,,,Équipes informatiques bancaires,2026-09-25
 Castelis,software|ai|cybersecurity,Ivry-sur-Seine,https://www.castelis.com/,https://www.castelis.com/recrutement/,https://www.linkedin.com/company/castelis/,.NET|Java|AWS|Azure,51-1000,Logiciels et services numériques,2026-09-23
+Docaposte,software,Ivry-sur-Seine,https://www.docaposte.com,,,,,Solutions numériques de confiance,2026-09-25
 Eleven Soft,software|saas,Saint-Maur-des-Fossés,http://www.elevensoft.fr/,,https://www.linkedin.com/company/eleven-soft-paris/,,1-10,Éditeur ERP SaaS,2026-09-23
 ERIS,industrial,Ivry-sur-Seine,https://www.eris-di.com/,https://www.eris-di.com/recrutement/,https://www.linkedin.com/company/eris-etude-et-r%C3%A9alisation-d-installations-de-s%C3%A9curit%C3%A9/,,51-1000,Systèmes de sécurité électronique,2026-09-23
 ESI Group,software|industrial,Rungis,https://www.esi-group.com/,https://www.esi-group.com/company/careers,https://www.linkedin.com/company/esi-group/,,51-1000,Logiciels de simulation industrielle,2026-09-23
 ESII,software,Créteil,https://www.esii.com/,https://www.esii.com/fr/recrutement,https://www.linkedin.com/company/esii-media-accueil/,,51-1000,Logiciels de gestion d'accueil,2026-09-23
+EssilorLuxottica,healthtech,Créteil,https://www.essilorluxottica.com,,,,,R&D optique et numérique,2026-09-25
 Fnac Darty,ecommerce|software,Ivry-sur-Seine,https://www.fnacdarty.com/,https://carrieres.fnacdarty.com/,https://www.linkedin.com/company/fnac-darty/,,1000+,Équipes IT et e-commerce,2026-09-23
 Foliateam,telecom|cybersecurity,Saint-Maur-des-Fossés,https://www.foliateam.com/,https://www.foliateam.com/recrutement/,https://www.linkedin.com/company/foliateamoperateurcloud/,,51-1000,Cloud télécom et cybersécurité,2026-09-23
 France Billet,ecommerce|software,Ivry-sur-Seine,https://www.francebillet.com/,https://www.francebillet.com/recrutement/,https://www.linkedin.com/company/france-billet/,,51-1000,Billetterie numérique,2026-09-23
 Groupe BPCE,banking|fintech|software,Charenton-le-Pont,https://www.groupebpce.com/,https://recrutement.bpce.fr/,https://www.linkedin.com/company/groupe-bpce/,,1000+,Équipes numériques bancaires,2026-09-23
+Gustave Roussy,healthtech,Villejuif,https://www.gustaveroussy.fr,,,,,Data et informatique médicale,2026-09-25
 Hexagon Safety Infrastructure & Geospatial,software,Rungis,https://hexagon.com/company/divisions/safety-infrastructure-geospatial,https://hexagon.com/company/careers,https://www.linkedin.com/company/hexagon-safety-infrastructure-geospatial/,,51-1000,Logiciels géospatiaux,2026-09-23
 HN Services,software,Charenton-le-Pont,https://www.hn-services.com/,https://www.hn-services.com/recrutement/,https://www.linkedin.com/company/hn-services/,,1000+,ESN,2026-09-23
+IGN,public-sector,Saint-Mandé,https://www.ign.fr,,,,,Données et services géographiques,2026-09-25
 L-Commerce,ecommerce|software,Ivry-sur-Seine,https://www.e-leclerc.com/,https://www.recrutement.leclerc/societes/l-commerce/,https://www.linkedin.com/company/mouvement-e-leclerc/,,51-1000,Plateformes e-commerce E.Leclerc,2026-09-23
 Lebel Technologies,software|fintech,Fontenay-sous-Bois,https://lebel.tech/,,https://www.linkedin.com/company/lebel-technologies/,,11-50,Transformation numérique finance,2026-09-23
 Logiciel Service Entreprise,software,Saint-Maur-des-Fossés,https://www.lse.fr/,https://www.lse.fr/recrutement/,https://www.linkedin.com/company/logiciel-service-entreprise/,,51-1000,Éditeur ERP,2026-09-23
 Logitas,software|cybersecurity,Rungis,https://www.logitas.com/,,https://www.linkedin.com/company/logitas-sas/,,1-10,Dépôt de logiciels sécurisé,2026-09-23
 Logiways,software|telecom,Rungis,http://www.logiways.com/,,https://www.linkedin.com/company/logiways/,,11-50,Logiciels de télévision numérique,2026-09-23
+Météo-France,public-sector,Saint-Mandé,https://meteofrance.fr,,,,,Calcul et systèmes numériques,2026-09-25
 MGI Digital Technology,industrial|software,Fresnes,https://www.mgi-fr.com/,https://www.mgi-fr.com/carrieres/,https://www.linkedin.com/company/mgi-digital-technology/,,51-1000,Technologies d'impression numérique,2026-09-23
 Natixis,banking|fintech|software,Charenton-le-Pont,https://natixis.groupebpce.com/,https://recrutement.bpce.fr/,https://www.linkedin.com/company/natixis/,,1000+,Équipes IT finance,2026-09-23
 Orange,telecom|software|cybersecurity,Arcueil,https://www.orange.com/fr,https://orange.jobs/,https://www.linkedin.com/company/orange/,,1000+,Équipes télécom et numériques,2026-09-23
 QBS Software France,software|cybersecurity,Ivry-sur-Seine,https://www.qbssoftware.com/fr/,https://www.qbssoftware.com/careers/,https://www.linkedin.com/company/qbsfrance/,,1-10,Distribution de logiciels,2026-09-23
+RATP,transport,Fontenay-sous-Bois,https://www.ratp.fr,,,,,Équipes systèmes d'information,2026-09-25
 Ricoh France,software,Rungis,https://www.ricoh.fr/,https://www.ricoh.fr/a-propos/carrieres,https://www.linkedin.com/company/ricoh-france/,,1000+,Solutions et services numériques,2026-09-23
 Safesanté,healthtech|saas,Saint-Maur-des-Fossés,https://safesante.fr/,,https://www.linkedin.com/company/safesante-teleconsultation/,,11-50,Plateforme de téléconsultation,2026-09-23
 Sanofi,healthtech|industrial,Vitry-sur-Seine,https://www.sanofi.com/fr/france,https://jobs.sanofi.com/fr,https://www.linkedin.com/company/sanofi/,,1000+,R&D biotechnologies,2026-09-23
