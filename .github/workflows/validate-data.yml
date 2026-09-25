@@ -1,117 +1,119 @@
 name: Validate data
 
 on:
-  pull_request:
-  push:
-    branches: [main]
+    pull_request:
+    push:
+        branches: [main]
 
 permissions:
-  contents: read
+    contents: read
 
 jobs:
-  validate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v5
-      - uses: actions/setup-python@v6
-        with:
-          python-version: '3.12'
-      - name: Validate CSV files
-        shell: bash
-        run: |
-          python - <<'PY'
-          import csv
-          import os
-          import re
-          import sys
-          import unicodedata
-          from datetime import date
-          from pathlib import Path
+    validate:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - uses: actions/checkout@v5
+              with:
+                  token: ${{ secrets.BOT_PUSH_TOKEN }}
+            - uses: actions/setup-python@v6
+              with:
+                  python-version: "3.12"
+            - name: Validate CSV files
+              shell: bash
+              run: |
+                  python - <<'PY'
+                  import csv
+                  import os
+                  import re
+                  import sys
+                  import unicodedata
+                  from datetime import date
+                  from pathlib import Path
 
-          expected = [
-              "name", "domain", "city", "website", "careers_url",
-              "linkedin_url", "known_stack", "company_size", "notes",
-              "last_verified",
-          ]
-          errors = []
-          total = 0
+                  expected = [
+                      "name", "domain", "city", "website", "careers_url",
+                      "linkedin_url", "known_stack", "company_size", "notes",
+                      "last_verified",
+                  ]
+                  errors = []
+                  total = 0
 
-          def sort_key(value):
-              normalized = unicodedata.normalize("NFKD", value.casefold())
-              return "".join(char for char in normalized if not unicodedata.combining(char))
+                  def sort_key(value):
+                      normalized = unicodedata.normalize("NFKD", value.casefold())
+                      return "".join(char for char in normalized if not unicodedata.combining(char))
 
-          paths = sorted(Path("data").rglob("*.csv"))
-          if not paths:
-              errors.append("data/: aucun fichier CSV")
+                  paths = sorted(Path("data").rglob("*.csv"))
+                  if not paths:
+                      errors.append("data/: aucun fichier CSV")
 
-          for path in paths:
-              try:
-                  with path.open(encoding="utf-8-sig", newline="") as stream:
-                      reader = csv.reader(stream, strict=True)
-                      if next(reader, None) != expected:
-                          errors.append(f"{path}: en-tête incorrect")
-                          continue
-                      previous_name = None
-                      for row in reader:
-                          location = f"{path}:{reader.line_num}"
-                          if len(row) != len(expected):
-                              errors.append(f"{location}: {len(row)} colonnes au lieu de {len(expected)}")
-                              continue
-                          if any(value.strip() for value in row):
-                              total += 1
-                              name = row[expected.index("name")]
-                              if previous_name is not None and sort_key(name) < sort_key(previous_name):
-                                  errors.append(
-                                      f"{location}: nom non trié ({name!r} doit précéder {previous_name!r})"
-                                  )
-                              previous_name = name
-                          verified = row[expected.index("last_verified")]
-                          if verified:
-                              try:
-                                  if not re.fullmatch(r"[0-9]{4}-[0-9]{2}-[0-9]{2}", verified):
-                                      raise ValueError
-                                  date.fromisoformat(verified)
-                              except ValueError:
-                                  errors.append(f"{location}: last_verified doit être une date YYYY-MM-DD valide")
-              except (OSError, UnicodeError, csv.Error) as exc:
-                  errors.append(f"{path}: CSV illisible : {exc}")
+                  for path in paths:
+                      try:
+                          with path.open(encoding="utf-8-sig", newline="") as stream:
+                              reader = csv.reader(stream, strict=True)
+                              if next(reader, None) != expected:
+                                  errors.append(f"{path}: en-tête incorrect")
+                                  continue
+                              previous_name = None
+                              for row in reader:
+                                  location = f"{path}:{reader.line_num}"
+                                  if len(row) != len(expected):
+                                      errors.append(f"{location}: {len(row)} colonnes au lieu de {len(expected)}")
+                                      continue
+                                  if any(value.strip() for value in row):
+                                      total += 1
+                                      name = row[expected.index("name")]
+                                      if previous_name is not None and sort_key(name) < sort_key(previous_name):
+                                          errors.append(
+                                              f"{location}: nom non trié ({name!r} doit précéder {previous_name!r})"
+                                          )
+                                      previous_name = name
+                                  verified = row[expected.index("last_verified")]
+                                  if verified:
+                                      try:
+                                          if not re.fullmatch(r"[0-9]{4}-[0-9]{2}-[0-9]{2}", verified):
+                                              raise ValueError
+                                          date.fromisoformat(verified)
+                                      except ValueError:
+                                          errors.append(f"{location}: last_verified doit être une date YYYY-MM-DD valide")
+                      except (OSError, UnicodeError, csv.Error) as exc:
+                          errors.append(f"{path}: CSV illisible : {exc}")
 
-          if errors:
-              print("\n".join(errors), file=sys.stderr)
-              sys.exit(1)
-          print(f"Validation réussie : {len(paths)} fichier(s) CSV.")
-          print(f"Implantations tech renseignées : {total}.")
-          with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as summary:
-              summary.write(f"### {total} implantations tech renseignées\n\n{len(paths)} fichiers CSV validés.\n")
+                  if errors:
+                      print("\n".join(errors), file=sys.stderr)
+                      sys.exit(1)
+                  print(f"Validation réussie : {len(paths)} fichier(s) CSV.")
+                  print(f"Implantations tech renseignées : {total}.")
+                  with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as summary:
+                      summary.write(f"### {total} implantations tech renseignées\n\n{len(paths)} fichiers CSV validés.\n")
 
-          readme = Path("README.md")
-          content = readme.read_text(encoding="utf-8")
-          badge = (
-              "<!-- company-count:start -->\n"
-              f"[![Implantations tech : {total}](https://img.shields.io/badge/"
-              f"implantations_tech-{total}-059669?style=for-the-badge&logo=databricks&logoColor=white)](data/)\n"
-              "<!-- company-count:end -->"
-          )
-          content, replacements = re.subn(
-              r"<!-- company-count:start -->.*?<!-- company-count:end -->",
-              lambda match: badge,
-              content,
-              flags=re.DOTALL,
-          )
-          if replacements != 1:
-              sys.exit("README.md : bloc company-count absent ou dupliqué")
-          readme.write_text(content, encoding="utf-8")
-          PY
-      - name: Update README count
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-        run: |
-          if git diff --quiet -- README.md; then
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "docs: Update tech location count"
-          git push origin HEAD:main
+                  readme = Path("README.md")
+                  content = readme.read_text(encoding="utf-8")
+                  badge = (
+                      "<!-- company-count:start -->\n"
+                      f"[![Implantations tech : {total}](https://img.shields.io/badge/"
+                      f"implantations_tech-{total}-059669?style=for-the-badge&logo=databricks&logoColor=white)](data/)\n"
+                      "<!-- company-count:end -->"
+                  )
+                  content, replacements = re.subn(
+                      r"<!-- company-count:start -->.*?<!-- company-count:end -->",
+                      lambda match: badge,
+                      content,
+                      flags=re.DOTALL,
+                  )
+                  if replacements != 1:
+                      sys.exit("README.md : bloc company-count absent ou dupliqué")
+                  readme.write_text(content, encoding="utf-8")
+                  PY
+            - name: Update README count
+              if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+              run: |
+                  if git diff --quiet -- README.md; then
+                    exit 0
+                  fi
+                  git config user.name "github-actions[bot]"
+                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                  git add README.md
+                  git commit -m "docs: Update tech location count"
+                  git push origin HEAD:main
