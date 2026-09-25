@@ -36,6 +36,11 @@ name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes
 Entourer de guillemets les champs contenant une virgule, un guillemet ou un
 saut de ligne. Doubler les guillemets présents dans un champ entre guillemets.
 Séparer les valeurs multiples par `|`, sans espaces autour du séparateur.
+Supprimer les espaces en début et fin de chaque champ ; un champ sans contenu
+doit être vide, sans espaces. Dans chaque fichier, trier les lignes par `name`,
+puis par `city`, en ignorant la casse et les accents. En cas d'égalité après
+normalisation, utiliser les valeurs originales de `name`, puis de `city`, puis
+la ligne complète comme critères de départage afin de garantir un ordre stable.
 
 ## Renseigner les champs
 

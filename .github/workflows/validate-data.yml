@@ -48,9 +48,18 @@ jobs:
                   errors = []
                   total = 0
 
-                  def sort_key(value):
+                  multi_value_fields = {"domain", "known_stack"}
+
+                  def sort_value(value):
                       normalized = unicodedata.normalize("NFKD", value.casefold())
                       return "".join(char for char in normalized if not unicodedata.combining(char))
+
+                  def row_sort_key(row):
+                      name = row[expected.index("name")]
+                      city = row[expected.index("city")]
+                      return (
+                          sort_value(name), sort_value(city), name, city, tuple(row)
+                      )
 
                   paths = sorted(Path("data").rglob("*.csv"))
                   if not paths:
@@ -63,7 +72,7 @@ jobs:
                               if next(reader, None) != expected:
                                   errors.append(f"{path}: en-tête incorrect")
                                   continue
-                              previous_name = None
+                              previous_row = None
                               for row in reader:
                                   location = f"{path}:{reader.line_num}"
                                   if len(row) != len(expected):
@@ -72,15 +81,31 @@ jobs:
                                   if any(value.strip() for value in row):
                                       total += 1
                                       name = row[expected.index("name")]
-                                      if previous_name is not None and sort_key(name) < sort_key(previous_name):
+                                      city = row[expected.index("city")]
+                                      if previous_row is not None and row_sort_key(row) < row_sort_key(previous_row):
                                           errors.append(
-                                              f"{location}: nom non trié ({name!r} doit précéder {previous_name!r})"
+                                              f"{location}: ligne non triée ({name!r}, {city!r})"
                                           )
-                                      previous_name = name
+                                      previous_row = row
+                                  for field, value in zip(expected, row):
+                                      if value != value.strip():
+                                          errors.append(f"{location}: {field} contient des espaces superflus")
+                                      if field in multi_value_fields and value:
+                                          if "," in value or ";" in value:
+                                              errors.append(
+                                                  f"{location}: {field} doit utiliser | comme séparateur"
+                                              )
+                                          values = value.split("|")
+                                          if any(not item or item != item.strip() for item in values):
+                                              errors.append(
+                                                  f"{location}: {field} contient un séparateur ou des espaces invalides"
+                                              )
+                                          if len(values) != len(set(values)):
+                                              errors.append(f"{location}: {field} contient une valeur dupliquée")
                                   domain = row[expected.index("domain")]
                                   domains = domain.split("|") if domain else []
-                                  if not domains or any(not value for value in domains) or len(domains) != len(set(domains)):
-                                      errors.append(f"{location}: domain est vide ou contient une valeur dupliquée")
+                                  if not domains:
+                                      errors.append(f"{location}: domain est vide")
                                   invalid_domains = sorted(set(domains) - allowed_domains)
                                   if invalid_domains:
                                       errors.append(

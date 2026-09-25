@@ -1,30 +1,30 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
-Accenture France (Centre de Services Reims),it-services,Reims,https://www.accenture.com,,, ,51-1000,ESN & centre de delivery,2026-09-24
-Ardans,software,Reims,https://www.ardans.com,,, ,11-50,Éditeur KM & gestion des connaissances,2026-09-24
-Arjo,healthtech,Reims,https://www.arjo.com,,, ,51-1000,Dispositifs médicaux & systèmes santé,2026-09-24
-Axians (Groupe VINCI Energies),telecom,Châlons-en-Champagne,https://www.axians.fr,,, ,51-1000,Infrastructures réseaux & cloud,2026-09-24
-Caisse d'Epargne Grand Est Europe (Siège Reims),banking,Reims,https://www.caisse-epargne.fr,,, ,1000+,Équipe informatique locale,2026-09-24
-Caisse Régionale du Crédit Agricole du Nord Est (Siège),banking,Reims,https://www.credit-agricole.fr/ca-nordest/,,, ,1000+,Équipe informatique locale,2026-09-24
-Charbonneaux-Brabant,industrial,Reims,https://www.charbonneaux.com,,, ,51-1000,Équipe SI industrielle locale,2026-09-24
-Citésport / Webreathe,software,Reims,https://webreathe.fr,,, ,11-50,SaaS & IoT analyse flux transport,2026-09-24
-Communauté Urbaine Grand Reims (DSI),public-sector,Reims,https://www.grandreims.fr,,, ,1000+,Équipe informatique locale,2026-09-24
-Econocom France,it-services,Reims,https://www.econocom.com,,, ,1000+,ESN & transformation numérique,2026-09-24
-Innelec Multimedia (Siège social),ecommerce,Reims,https://www.innelec.com,,, ,51-1000,Distribution produits tech & gaming,2026-09-24
-Innovact,public-sector,Reims,https://www.innovact.com,,, ,1-10,Incubateur & écosystème tech,2026-09-24
-Kandis,software,Reims,https://www.kandis.fr,,, ,11-50,Éditeur logiciels SIG & réseaux,2026-09-24
-Koesio Grand Est,it-services,Reims,https://koesio.com,,, ,51-1000,ESN & services numériques,2026-09-24
-LVMH / Moët & Chandon (DSI Vins & Spiritueux),industrial,Épernay,https://www.lvmh.fr,,, ,1000+,DSI & digital groupe,2026-09-24
-Magnus (Groupe Berger-Levrault),software,Châlons-en-Champagne,https://www.berger-levrault.com,,, ,1000+,Éditeur logiciels secteur public,2026-09-24
-Marne Département (DSI),public-sector,Châlons-en-Champagne,https://www.marne.fr,,, ,1000+,Équipe informatique locale,2026-09-24
-MGI Coutier / Akwel,industrial,Champigny,https://akwel-automotive.com,,, ,1000+,Équipe SI industrielle locale,2026-09-24
-Myre,software,Reims,https://www.getmyre.com,,, ,11-50,SaaS proptech & asset management,2026-09-24
-Net communications,it-services,Châlons-en-Champagne,https://www.netcom-group.fr,,, ,11-50,Opérateur télécom & intégrateur IT,2026-09-24
-Orange (Direction Régionale Champagne-Ardenne),telecom,Reims,https://www.orange.fr,,, ,1000+,Réseaux & IT régional,2026-09-24
-Piveteau,ecommerce,Sainte-Menehould,https://www.piveteau.com,,, ,51-1000,Équipe SI & logistique,2026-09-24
-Prima Luce,software,Reims,https://primaluce.fr,,, ,1-10,Éditeur SaaS & solutions web,2026-09-24
-Sogetrel Champagne,telecom,Reims,https://www.sogetrel.fr,,, ,1000+,Infrastructures télécoms & sûreté,2026-09-24
-Sparkow,software,Reims,https://www.sparkow.com,,, ,11-50,SaaS e-commerce & personnalisation,2026-09-24
-Telenco distribution,telecom,Reims,https://www.telenco-distribution.com,,, ,51-1000,Matériel & solutions télécoms,2026-09-24
-Université de Reims Champagne-Ardenne (CReSTIC / DSI),deeptech,Reims,https://www.univ-reims.fr,,, ,1000+,"R&D informatique, IA & DSI",2026-09-24
-Vivescia (Siège groupe),agtech,Reims,https://www.vivescia.com,,, ,1000+,DSI groupe & agtech,2026-09-24
-Xefi Reims,it-services,Reims,https://www.xefi.fr,,, ,11-50,Services informatiques & cloud,2026-09-24
+Accenture France (Centre de Services Reims),it-services,Reims,https://www.accenture.com,,,,51-1000,ESN & centre de delivery,2026-09-24
+Ardans,software,Reims,https://www.ardans.com,,,,11-50,Éditeur KM & gestion des connaissances,2026-09-24
+Arjo,healthtech,Reims,https://www.arjo.com,,,,51-1000,Dispositifs médicaux & systèmes santé,2026-09-24
+Axians (Groupe VINCI Energies),telecom,Châlons-en-Champagne,https://www.axians.fr,,,,51-1000,Infrastructures réseaux & cloud,2026-09-24
+Caisse d'Epargne Grand Est Europe (Siège Reims),banking,Reims,https://www.caisse-epargne.fr,,,,1000+,Équipe informatique locale,2026-09-24
+Caisse Régionale du Crédit Agricole du Nord Est (Siège),banking,Reims,https://www.credit-agricole.fr/ca-nordest/,,,,1000+,Équipe informatique locale,2026-09-24
+Charbonneaux-Brabant,industrial,Reims,https://www.charbonneaux.com,,,,51-1000,Équipe SI industrielle locale,2026-09-24
+Citésport / Webreathe,software,Reims,https://webreathe.fr,,,,11-50,SaaS & IoT analyse flux transport,2026-09-24
+Communauté Urbaine Grand Reims (DSI),public-sector,Reims,https://www.grandreims.fr,,,,1000+,Équipe informatique locale,2026-09-24
+Econocom France,it-services,Reims,https://www.econocom.com,,,,1000+,ESN & transformation numérique,2026-09-24
+Innelec Multimedia (Siège social),ecommerce,Reims,https://www.innelec.com,,,,51-1000,Distribution produits tech & gaming,2026-09-24
+Innovact,public-sector,Reims,https://www.innovact.com,,,,1-10,Incubateur & écosystème tech,2026-09-24
+Kandis,software,Reims,https://www.kandis.fr,,,,11-50,Éditeur logiciels SIG & réseaux,2026-09-24
+Koesio Grand Est,it-services,Reims,https://koesio.com,,,,51-1000,ESN & services numériques,2026-09-24
+LVMH / Moët & Chandon (DSI Vins & Spiritueux),industrial,Épernay,https://www.lvmh.fr,,,,1000+,DSI & digital groupe,2026-09-24
+Magnus (Groupe Berger-Levrault),software,Châlons-en-Champagne,https://www.berger-levrault.com,,,,1000+,Éditeur logiciels secteur public,2026-09-24
+Marne Département (DSI),public-sector,Châlons-en-Champagne,https://www.marne.fr,,,,1000+,Équipe informatique locale,2026-09-24
+MGI Coutier / Akwel,industrial,Champigny,https://akwel-automotive.com,,,,1000+,Équipe SI industrielle locale,2026-09-24
+Myre,software,Reims,https://www.getmyre.com,,,,11-50,SaaS proptech & asset management,2026-09-24
+Net communications,it-services,Châlons-en-Champagne,https://www.netcom-group.fr,,,,11-50,Opérateur télécom & intégrateur IT,2026-09-24
+Orange (Direction Régionale Champagne-Ardenne),telecom,Reims,https://www.orange.fr,,,,1000+,Réseaux & IT régional,2026-09-24
+Piveteau,ecommerce,Sainte-Menehould,https://www.piveteau.com,,,,51-1000,Équipe SI & logistique,2026-09-24
+Prima Luce,software,Reims,https://primaluce.fr,,,,1-10,Éditeur SaaS & solutions web,2026-09-24
+Sogetrel Champagne,telecom,Reims,https://www.sogetrel.fr,,,,1000+,Infrastructures télécoms & sûreté,2026-09-24
+Sparkow,software,Reims,https://www.sparkow.com,,,,11-50,SaaS e-commerce & personnalisation,2026-09-24
+Telenco distribution,telecom,Reims,https://www.telenco-distribution.com,,,,51-1000,Matériel & solutions télécoms,2026-09-24
+Université de Reims Champagne-Ardenne (CReSTIC / DSI),deeptech,Reims,https://www.univ-reims.fr,,,,1000+,"R&D informatique, IA & DSI",2026-09-24
+Vivescia (Siège groupe),agtech,Reims,https://www.vivescia.com,,,,1000+,DSI groupe & agtech,2026-09-24
+Xefi Reims,it-services,Reims,https://www.xefi.fr,,,,11-50,Services informatiques & cloud,2026-09-24
