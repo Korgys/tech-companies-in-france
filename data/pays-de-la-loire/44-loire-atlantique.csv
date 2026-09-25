@@ -1,40 +1,40 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
-Acapela Group,Software,Nantes,https://www.acapela-group.com,,,,51-1000,Éditeur de logiciels de synthèse vocale,2026-09-24
-Akeneo,Software,Nantes,https://www.akeneo.com,,,,51-1000,Éditeur SaaS PIM,2026-09-24
-Akkodis,IT Services,Nantes,https://www.akkodis.com,,,,1000+,ESN & ingénierie R&D,2026-09-24
-Algo-Scribe,Software,Nantes,https://www.algo-scribe.fr,,,,1-10,Éditeur de logiciels,2026-09-24
-Amarris Groupe,Fintech / Insurtech,Saint-Herblain,https://www.amarris.fr,,,,51-1000,Équipe SI & logiciels comptables,2026-09-24
-Apside,IT Services,Nantes,https://www.apside.com,,,,1000+,ESN & conseil en technologies,2026-09-24
-Arribas,IT Services,Nantes,https://www.arribas.fr,,,,11-50,ESN & développement sur-mesure,2026-09-24
-Atos,IT Services,Nantes,https://atos.net,,,,1000+,ESN & services numériques,2026-09-24
-Capgemini,IT Services,Nantes,https://www.capgemini.com,,,,1000+,ESN & conseil en technologie,2026-09-24
-CGI France,IT Services,Nantes,https://www.cgi.com/france,,,,1000+,ESN & conseil IT,2026-09-24
-Chantiers de l'Atlantique,Industry,Saint-Nazaire,https://chantiers-atlantique.com,,,,1000+,R&D & ingénierie logicielle industrielle,2026-09-24
-CHRU de Nantes (DSI),Healthtech,Nantes,https://www.chu-nantes.fr,,,,1000+,Équipe informatique hospitalière,2026-09-24
-Claranet,IT Services,Nantes,https://www.claranet.fr,,,,51-1000,Infogérance & services cloud,2026-09-24
-Clever Cloud,Software,Nantes,https://www.clever-cloud.com,,,,11-50,Plateforme PaaS & cloud computing,2026-09-24
-Diatly,Software,Nantes,https://www.diatly.com,,,,11-50,SaaS gestion de marketplaces,2026-09-24
-Docaposte,Software,Nantes,https://www.docaposte.com,,,,1000+,Solutions numériques & confiance digitale,2026-09-24
-Econocom,IT Services,Nantes,https://www.econocom.com,,,,1000+,ESN & services numériques,2026-09-24
-EDF Lab,Energy,Nantes,https://www.edf.fr,,,,1000+,R&D & ingénierie logicielle,2026-09-24
-GIE Iris (Groupe BPCE),Fintech / Insurtech,Nantes,https://www.bpce.fr,,,,1000+,GIE informatique bancaire,2026-09-24
-Iadvize,Software,Nantes,https://www.iadvize.com,,,,51-1000,SaaS IA générative & relation client,2026-09-24
-Inria Centre Nantes Université,Deeptech,Nantes,https://www.inria.fr,,,,51-1000,Institut de recherche en numérique,2026-09-24
-Inserm / Laboratoire LS2N,Deeptech,Nantes,https://www.ls2n.fr,,,,51-1000,Recherche informatique & robotique,2026-09-24
-Keolis Nantes,IT Services,Nantes,https://www.tan.fr,,,,1000+,Systèmes d'information transport,2026-09-24
-Kipet,Software,Nantes,https://www.kipet.fr,,,,1-10,SaaS & solutions numériques,2026-09-24
-Lengow,Software,Nantes,https://www.lengow.com,,,,51-1000,SaaS e-commerce & automatisation,2026-09-24
-Lucca,Software,Nantes,https://www.lucca.fr,,,,51-1000,Éditeur SaaS de gestion RH,2026-09-24
-Nantes Métropole (DSI),Public Sector,Nantes,https://metropole.nantes.fr,,,,1000+,Équipe informatique locale,2026-09-24
-Nantes Université (Direction du Numérique),Public Sector,Nantes,https://www.univ-nantes.fr,,,,1000+,Équipe informatique & R&D,2026-09-24
-Naval Group,Industry,Indre,https://www.naval-group.com,,,,1000+,R&D & ingénierie navale numérique,2026-09-24
-Niji,IT Services,Nantes,https://www.niji.fr,,,,51-1000,ESN & conseil numérique,2026-09-24
-Obeo,Software,Nantes,https://www.obeosoft.com,,,,11-50,Éditeur de logiciels d'ingénierie système,2026-09-24
-Open,IT Services,Nantes,https://www.open.global,,,,1000+,ESN & services du numérique,2026-09-24
-Orange (Direction Régionale Grand Ouest),Telecom,Nantes,https://www.orange.fr,,,,1000+,Infrastructures réseaux & IT,2026-09-24
-Proginov,Software,La Chevrolière,https://www.proginov.com,,,,51-1000,Éditeur ERP & hébergeur cloud,2026-09-24
-Sopra Steria,IT Services,Nantes,https://www.soprasteria.com,,,,1000+,ESN & conseil informatique,2026-09-24
-Symphony RetailAI,Software,Nantes,https://www.symphonyai.com,,,,51-1000,SaaS & IA pour la grande distribution,2026-09-24
-Système U (GIE U-IRIS),E-commerce / Retail,Carquefou,https://www.magasins-u.com,,,,1000+,DSI & informatique groupe,2026-09-24
-Vianavigo / Kisio,Software,Nantes,https://www.kisio.com,,,,51-1000,Solutions digitales & data transport,2026-09-24
-Visionic,Industry,Nantes,https://www.visionic.fr,,,,11-50,Vision industrielle & IA,2026-09-24
+Acapela Group,software,Nantes,https://www.acapela-group.com,,,,51-1000,Éditeur de logiciels de synthèse vocale,2026-09-24
+Akeneo,software,Nantes,https://www.akeneo.com,,,,51-1000,Éditeur SaaS PIM,2026-09-24
+Akkodis,it-services,Nantes,https://www.akkodis.com,,,,1000+,ESN & ingénierie R&D,2026-09-24
+Algo-Scribe,software,Nantes,https://www.algo-scribe.fr,,,,1-10,Éditeur de logiciels,2026-09-24
+Amarris Groupe,fintech,Saint-Herblain,https://www.amarris.fr,,,,51-1000,Équipe SI & logiciels comptables,2026-09-24
+Apside,it-services,Nantes,https://www.apside.com,,,,1000+,ESN & conseil en technologies,2026-09-24
+Arribas,it-services,Nantes,https://www.arribas.fr,,,,11-50,ESN & développement sur-mesure,2026-09-24
+Atos,it-services,Nantes,https://atos.net,,,,1000+,ESN & services numériques,2026-09-24
+Capgemini,it-services,Nantes,https://www.capgemini.com,,,,1000+,ESN & conseil en technologie,2026-09-24
+CGI France,it-services,Nantes,https://www.cgi.com/france,,,,1000+,ESN & conseil IT,2026-09-24
+Chantiers de l'Atlantique,industrial,Saint-Nazaire,https://chantiers-atlantique.com,,,,1000+,R&D & ingénierie logicielle industrielle,2026-09-24
+CHRU de Nantes (DSI),healthtech,Nantes,https://www.chu-nantes.fr,,,,1000+,Équipe informatique hospitalière,2026-09-24
+Claranet,it-services,Nantes,https://www.claranet.fr,,,,51-1000,Infogérance & services cloud,2026-09-24
+Clever Cloud,software,Nantes,https://www.clever-cloud.com,,,,11-50,Plateforme PaaS & cloud computing,2026-09-24
+Diatly,software,Nantes,https://www.diatly.com,,,,11-50,SaaS gestion de marketplaces,2026-09-24
+Docaposte,software,Nantes,https://www.docaposte.com,,,,1000+,Solutions numériques & confiance digitale,2026-09-24
+Econocom,it-services,Nantes,https://www.econocom.com,,,,1000+,ESN & services numériques,2026-09-24
+EDF Lab,energy,Nantes,https://www.edf.fr,,,,1000+,R&D & ingénierie logicielle,2026-09-24
+GIE Iris (Groupe BPCE),banking,Nantes,https://www.bpce.fr,,,,1000+,GIE informatique bancaire,2026-09-24
+Iadvize,software,Nantes,https://www.iadvize.com,,,,51-1000,SaaS IA générative & relation client,2026-09-24
+Inria Centre Nantes Université,deeptech,Nantes,https://www.inria.fr,,,,51-1000,Institut de recherche en numérique,2026-09-24
+Inserm / Laboratoire LS2N,deeptech,Nantes,https://www.ls2n.fr,,,,51-1000,Recherche informatique & robotique,2026-09-24
+Keolis Nantes,it-services,Nantes,https://www.tan.fr,,,,1000+,Systèmes d'information transport,2026-09-24
+Kipet,software,Nantes,https://www.kipet.fr,,,,1-10,SaaS & solutions numériques,2026-09-24
+Lengow,software,Nantes,https://www.lengow.com,,,,51-1000,SaaS e-commerce & automatisation,2026-09-24
+Lucca,software,Nantes,https://www.lucca.fr,,,,51-1000,Éditeur SaaS de gestion RH,2026-09-24
+Nantes Métropole (DSI),public-sector,Nantes,https://metropole.nantes.fr,,,,1000+,Équipe informatique locale,2026-09-24
+Nantes Université (Direction du Numérique),public-sector,Nantes,https://www.univ-nantes.fr,,,,1000+,Équipe informatique & R&D,2026-09-24
+Naval Group,industrial,Indre,https://www.naval-group.com,,,,1000+,R&D & ingénierie navale numérique,2026-09-24
+Niji,it-services,Nantes,https://www.niji.fr,,,,51-1000,ESN & conseil numérique,2026-09-24
+Obeo,software,Nantes,https://www.obeosoft.com,,,,11-50,Éditeur de logiciels d'ingénierie système,2026-09-24
+Open,it-services,Nantes,https://www.open.global,,,,1000+,ESN & services du numérique,2026-09-24
+Orange (Direction Régionale Grand Ouest),telecom,Nantes,https://www.orange.fr,,,,1000+,Infrastructures réseaux & IT,2026-09-24
+Proginov,software,La Chevrolière,https://www.proginov.com,,,,51-1000,Éditeur ERP & hébergeur cloud,2026-09-24
+Sopra Steria,it-services,Nantes,https://www.soprasteria.com,,,,1000+,ESN & conseil informatique,2026-09-24
+Symphony RetailAI,software,Nantes,https://www.symphonyai.com,,,,51-1000,SaaS & IA pour la grande distribution,2026-09-24
+Système U (GIE U-IRIS),ecommerce,Carquefou,https://www.magasins-u.com,,,,1000+,DSI & informatique groupe,2026-09-24
+Vianavigo / Kisio,software,Nantes,https://www.kisio.com,,,,51-1000,Solutions digitales & data transport,2026-09-24
+Visionic,industrial,Nantes,https://www.visionic.fr,,,,11-50,Vision industrielle & IA,2026-09-24

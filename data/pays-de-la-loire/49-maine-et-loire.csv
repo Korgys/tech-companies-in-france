@@ -1,34 +1,34 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
-Abeille Assurances (Centre informatique),Fintech / Insurtech,Angers,https://www.abeille-assurances.fr,,,,1000+,Équipe informatique locale,2026-09-24
-Akkodis,IT Services,Angers,https://www.akkodis.com,,,,1000+,ESN & ingénierie R&D,2026-09-24
-Angers Loire Métropole (DSI),Public Sector,Angers,https://www.angersloiremetropole.fr,,,,1000+,Équipe informatique locale,2026-09-24
-Atos,IT Services,Angers,https://atos.net,,,,1000+,ESN & services numériques,2026-09-24
-Bodet Software (Kelio),Software,Cholet,https://www.kelio.com,,,,51-1000,Éditeur de logiciels RH & SIRH,2026-09-24
-Caisse Régionale du Crédit Agricole Anjou Maine,Fintech / Insurtech,Angers,https://www.credit-agricole.fr/ca-anjoumaine/,,,,1000+,Équipe informatique locale,2026-09-24
-Capgemini,IT Services,Angers,https://www.capgemini.com,,,,1000+,ESN & conseil en technologie,2026-09-24
-CGI France,IT Services,Angers,https://www.cgi.com/france,,,,1000+,ESN & conseil IT,2026-09-24
-CHU d'Angers (DSI),Healthtech,Angers,https://www.chu-angers.fr,,,,1000+,Équipe informatique hospitalière,2026-09-24
-Duralex / Maison Briottet,Industry,Angers,https://www.duralex.com,,,,51-1000,Équipe SI industrielle locale,2026-09-24
-Econocom,IT Services,Angers,https://www.econocom.com,,,,1000+,ESN & services numériques,2026-09-24
-Eolane,Industry,Angers,https://www.eolane.com,,,,1000+,IoT industriel & électronique embarquée,2026-09-24
-Evolis,Software,Beaucouzé,https://www.evolis.com,,,,51-1000,Solutions d'identification & systèmes d'impression,2026-09-24
-GIE Sesam-Vitale,Healthtech,Angers,https://www.sesam-vitale.fr,,,,51-1000,Systèmes d'information de santé,2026-09-24
-Innelec,E-commerce / Retail,Angers,https://www.innelec.com,,,,51-1000,Distribution produits tech & logistique,2026-09-24
-Inserm / Université d'Angers (LERIA),Deeptech,Angers,https://leria.univ-angers.fr,,,,51-1000,Laboratoire de recherche en IA & informatique,2026-09-24
-Keria,E-commerce / Retail,Angers,https://www.keria.com,,,,51-1000,Équipe SI & e-commerce,2026-09-24
-Koesio Ouest,IT Services,Angers,https://koesio.com,,,,51-1000,ESN & services informatiques,2026-09-24
-Lactalis (Site de Saumur),Industry,Saumur,https://www.lactalis.fr,,,,1000+,Équipe SI industrielle locale,2026-09-24
-Maine-et-Loire Département (DSI),Public Sector,Angers,https://www.maine-et-loire.fr,,,,1000+,Équipe informatique locale,2026-09-24
-Mécène / Groupe Polylogis,Software,Angers,https://www.polylogis.immo,,,,51-1000,Équipe informatique & SaaS immobilier,2026-09-24
-Mediaclip,Software,Angers,https://www.mediaclip.ca,,,,11-50,Éditeur SaaS de personnalisation d'images,2026-09-24
-Netsize (Gemalto / Thales),Telecom,Angers,https://www.thalesgroup.com,,,,1000+,Services télécoms & paiement mobile,2026-09-24
-Octave,Software,Angers,https://www.octave.biz,,,,51-1000,Éditeur ERP & solutions e-commerce,2026-09-24
-Orange (Direction Régionale),Telecom,Angers,https://www.orange.fr,,,,1000+,Infrastructures réseaux & IT,2026-09-24
-Scania France,Industry,Angers,https://www.scania.com/fr/,,,,1000+,Équipe SI industrielle locale,2026-09-24
-Sogetrel,Telecom,Angers,https://www.sogetrel.fr,,,,1000+,Infrastructures réseaux & télécoms,2026-09-24
-Sopra Steria,IT Services,Angers,https://www.soprasteria.com,,,,1000+,ESN & services du numérique,2026-09-24
-Speedy / Groupe Bridgestone,IT Services,Angers,https://www.speedy.fr,,,,1000+,Équipe SI & systèmes d'information,2026-09-24
-Thales (Site d'Angers),Deeptech,Cholet,https://www.thalesgroup.com,,,,1000+,Cybersécurité & radiocommunications tactiques,2026-09-24
-Université d'Angers (Direction du Numérique),Public Sector,Angers,https://www.univ-angers.fr,,,,1000+,Équipe informatique & R&D,2026-09-24
-Xefi Angers,IT Services,Angers,https://www.xefi.fr,,,,11-50,Services informatiques & cloud,2026-09-24
-Xefi Cholet,IT Services,Cholet,https://www.xefi.fr,,,,1-10,Services informatiques & cloud,2026-09-24
+Abeille Assurances (Centre informatique),insurance,Angers,https://www.abeille-assurances.fr,,,,1000+,Équipe informatique locale,2026-09-24
+Akkodis,it-services,Angers,https://www.akkodis.com,,,,1000+,ESN & ingénierie R&D,2026-09-24
+Angers Loire Métropole (DSI),public-sector,Angers,https://www.angersloiremetropole.fr,,,,1000+,Équipe informatique locale,2026-09-24
+Atos,it-services,Angers,https://atos.net,,,,1000+,ESN & services numériques,2026-09-24
+Bodet Software (Kelio),software,Cholet,https://www.kelio.com,,,,51-1000,Éditeur de logiciels RH & SIRH,2026-09-24
+Caisse Régionale du Crédit Agricole Anjou Maine,banking,Angers,https://www.credit-agricole.fr/ca-anjoumaine/,,,,1000+,Équipe informatique locale,2026-09-24
+Capgemini,it-services,Angers,https://www.capgemini.com,,,,1000+,ESN & conseil en technologie,2026-09-24
+CGI France,it-services,Angers,https://www.cgi.com/france,,,,1000+,ESN & conseil IT,2026-09-24
+CHU d'Angers (DSI),healthtech,Angers,https://www.chu-angers.fr,,,,1000+,Équipe informatique hospitalière,2026-09-24
+Duralex / Maison Briottet,industrial,Angers,https://www.duralex.com,,,,51-1000,Équipe SI industrielle locale,2026-09-24
+Econocom,it-services,Angers,https://www.econocom.com,,,,1000+,ESN & services numériques,2026-09-24
+Eolane,industrial,Angers,https://www.eolane.com,,,,1000+,IoT industriel & électronique embarquée,2026-09-24
+Evolis,software,Beaucouzé,https://www.evolis.com,,,,51-1000,Solutions d'identification & systèmes d'impression,2026-09-24
+GIE Sesam-Vitale,healthtech,Angers,https://www.sesam-vitale.fr,,,,51-1000,Systèmes d'information de santé,2026-09-24
+Innelec,ecommerce,Angers,https://www.innelec.com,,,,51-1000,Distribution produits tech & logistique,2026-09-24
+Inserm / Université d'Angers (LERIA),deeptech,Angers,https://leria.univ-angers.fr,,,,51-1000,Laboratoire de recherche en IA & informatique,2026-09-24
+Keria,ecommerce,Angers,https://www.keria.com,,,,51-1000,Équipe SI & e-commerce,2026-09-24
+Koesio Ouest,it-services,Angers,https://koesio.com,,,,51-1000,ESN & services informatiques,2026-09-24
+Lactalis (Site de Saumur),industrial,Saumur,https://www.lactalis.fr,,,,1000+,Équipe SI industrielle locale,2026-09-24
+Maine-et-Loire Département (DSI),public-sector,Angers,https://www.maine-et-loire.fr,,,,1000+,Équipe informatique locale,2026-09-24
+Mécène / Groupe Polylogis,software,Angers,https://www.polylogis.immo,,,,51-1000,Équipe informatique & SaaS immobilier,2026-09-24
+Mediaclip,software,Angers,https://www.mediaclip.ca,,,,11-50,Éditeur SaaS de personnalisation d'images,2026-09-24
+Netsize (Gemalto / Thales),telecom,Angers,https://www.thalesgroup.com,,,,1000+,Services télécoms & paiement mobile,2026-09-24
+Octave,software,Angers,https://www.octave.biz,,,,51-1000,Éditeur ERP & solutions e-commerce,2026-09-24
+Orange (Direction Régionale),telecom,Angers,https://www.orange.fr,,,,1000+,Infrastructures réseaux & IT,2026-09-24
+Scania France,industrial,Angers,https://www.scania.com/fr/,,,,1000+,Équipe SI industrielle locale,2026-09-24
+Sogetrel,telecom,Angers,https://www.sogetrel.fr,,,,1000+,Infrastructures réseaux & télécoms,2026-09-24
+Sopra Steria,it-services,Angers,https://www.soprasteria.com,,,,1000+,ESN & services du numérique,2026-09-24
+Speedy / Groupe Bridgestone,it-services,Angers,https://www.speedy.fr,,,,1000+,Équipe SI & systèmes d'information,2026-09-24
+Thales (Site d'Angers),deeptech,Cholet,https://www.thalesgroup.com,,,,1000+,Cybersécurité & radiocommunications tactiques,2026-09-24
+Université d'Angers (Direction du Numérique),public-sector,Angers,https://www.univ-angers.fr,,,,1000+,Équipe informatique & R&D,2026-09-24
+Xefi Angers,it-services,Angers,https://www.xefi.fr,,,,11-50,Services informatiques & cloud,2026-09-24
+Xefi Cholet,it-services,Cholet,https://www.xefi.fr,,,,1-10,Services informatiques & cloud,2026-09-24

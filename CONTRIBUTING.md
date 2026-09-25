@@ -52,10 +52,21 @@ Séparer les valeurs multiples par `|`, sans espaces autour du séparateur.
 | `notes`         | Notes très courtes et pertinentes : `ESN`, `Éditeur de logiciels`, spécialité ou particularité utile. Pas de SIRET, code APE ni détails de vérification.                                                                                       |
 | `last_verified` | Obligatoire pour chaque contribution : date de vérification réelle au format `YYYY-MM-DD`.                                                                  |
 
-Pour `domain`, réutiliser les catégories courtes et cohérentes : `ai`,
-`banking`, `cybersecurity`, `ecommerce`, `energy`, `fintech`, `gaming`,
-`healthtech`, `industrial`, `insurance`, `saas`, `software`, `telecom`, `transport`.
-Exemple : `energy|industrial`.
+Pour `domain`, utiliser exclusivement les catégories suivantes, en minuscules :
+`adtech`, `agency`, `agtech`, `ai`, `banking`, `cybersecurity`, `data`,
+`deeptech`, `digital`, `ecommerce`, `edtech`, `energy`, `enterprise`, `fintech`,
+`gaming`, `healthtech`, `industrial`, `insurance`, `it-services`,
+`public-sector`, `robotics`, `saas`, `software`, `studio`, `telecom`,
+`transport`. Exemple : `energy|industrial`.
+
+Choisir l'activité principale de l'implantation. Une ESN, un intégrateur ou
+un prestataire informatique est classé `it-services` (et non `esn`). Une
+administration, une collectivité, un établissement public ou son équipe SI est
+classé `public-sector`. Une entreprise de fabrication, de production ou de R&D
+industrielle est classée `industrial`, y compris lorsque l'implantation est une
+DSI. Utiliser `enterprise` uniquement pour une organisation privée avec une
+équipe numérique interne qui ne relève d'aucune autre catégorie ; ajouter une
+seconde catégorie seulement si elle est réellement applicable.
 
 Pour `known_stack`, conserver les noms normalisés : `C#`, `.NET`, `Java`,
 `Spring Boot`, `Go`, `Python`, `JavaScript`, `TypeScript`, `React`, `Angular`,

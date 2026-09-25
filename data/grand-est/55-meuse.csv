@@ -1,24 +1,24 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
-A.G.I.R. Informatique,IT Services,Bar-le-Duc,https://www.agir-informatique.fr,,,,1-10,ESN & services informatiques,2026-09-24
-Andra (Centre de Meuse/Haute-Marne),Public Sector,Bure,https://www.andra.fr,,,,51-1000,SI & ingénierie de données,2026-09-24
-Ansamble (Siège régional),IT Services,Verdun,https://www.ansamble.fr,,,,51-1000,Équipe SI locale,2026-09-24
-Bergère de France,E-commerce / Retail,Bar-le-Duc,https://www.bergeredefrance.fr,,,,51-1000,Équipe e-commerce & SI local,2026-09-24
-Caisse Régionale du Crédit Agricole de Lorraine,Fintech / Insurtech,Bar-le-Duc,https://www.credit-agricole.fr/ca-lorraine/,,,,1000+,Équipe informatique locale,2026-09-24
-Codexam,Software,Verdun,https://www.codexam.fr,,,,1-10,Éditeur SaaS & solutions web,2026-09-24
-Commercy Robotique,Industry,Commercy,https://www.commercy-robotique.com,,,,11-50,Intégrateur robotique & automatisme,2026-09-24
-EBRC France,IT Services,Verdun,https://www.ebrc.com,,,,51-1000,Services cloud & cybersécurité,2026-09-24
-GHT Unisanté (DSI Verdun),Healthtech,Verdun,https://www.ch-verdun.fr,,,,1000+,Équipe informatique hospitalière,2026-09-24
-Groupama Grand Est (Agence Bar-le-Duc),Fintech / Insurtech,Bar-le-Duc,https://www.groupama.fr,,,,1000+,Équipe informatique locale,2026-09-24
-Koesio Est (Agence Bar-le-Duc),IT Services,Bar-le-Duc,https://koesio.com,,,,11-50,ESN & services numériques,2026-09-24
-Lactalis (Site de Cléry-le-Petit),Industry,Cléry-le-Petit,https://www.lactalis.fr,,,,1000+,Équipe SI industrielle locale,2026-09-24
-Meuse Département (DSI),Public Sector,Bar-le-Duc,https://www.meuse.fr,,,,1000+,Équipe informatique locale,2026-09-24
-Meuse Grand Sud (DSI),Public Sector,Bar-le-Duc,https://www.meusegrandsud.fr,,,,51-1000,Équipe informatique locale,2026-09-24
-Orange (Antenne Réseau Meuse),Telecom,Bar-le-Duc,https://www.orange.fr,,,,1000+,Infrastructures réseaux & IT,2026-09-24
-Safran Aero Boosters France,Industry,Commercy,https://www.safran-group.com,,,,1000+,Aéronautique & SI industriel,2026-09-24
-Sodetal,Industry,Ligny-en-Barrois,https://www.sodetal.com,,,,51-1000,Équipe SI industrielle locale,2026-09-24
-Sogetrel Meuse,Telecom,Verdun,https://www.sogetrel.fr,,,,1000+,Infrastructures télécoms & réseaux,2026-09-24
-Syndicat Mixte Somme-Suippe Numérique,Telecom,Bar-le-Duc,https://www.lafibre-meuse.fr,,,,1-10,Infrastructures très haut débit,2026-09-24
-Ville de Bar-le-Duc (DSI),Public Sector,Bar-le-Duc,https://www.barleduc.fr,,,,51-1000,Équipe informatique locale,2026-09-24
-Ville de Verdun (DSI),Public Sector,Verdun,https://www.verdun.fr,,,,51-1000,Équipe informatique locale,2026-09-24
-Xefi Bar-le-Duc,IT Services,Bar-le-Duc,https://www.xefi.fr,,,,1-10,Services informatiques & cloud,2026-09-24
-Xefi Verdun,IT Services,Verdun,https://www.xefi.fr,,,,1-10,Services informatiques & cloud,2026-09-24
+A.G.I.R. Informatique,it-services,Bar-le-Duc,https://www.agir-informatique.fr,,,,1-10,ESN & services informatiques,2026-09-24
+Andra (Centre de Meuse/Haute-Marne),public-sector,Bure,https://www.andra.fr,,,,51-1000,SI & ingénierie de données,2026-09-24
+Ansamble (Siège régional),it-services,Verdun,https://www.ansamble.fr,,,,51-1000,Équipe SI locale,2026-09-24
+Bergère de France,ecommerce,Bar-le-Duc,https://www.bergeredefrance.fr,,,,51-1000,Équipe e-commerce & SI local,2026-09-24
+Caisse Régionale du Crédit Agricole de Lorraine,banking,Bar-le-Duc,https://www.credit-agricole.fr/ca-lorraine/,,,,1000+,Équipe informatique locale,2026-09-24
+Codexam,software,Verdun,https://www.codexam.fr,,,,1-10,Éditeur SaaS & solutions web,2026-09-24
+Commercy Robotique,industrial,Commercy,https://www.commercy-robotique.com,,,,11-50,Intégrateur robotique & automatisme,2026-09-24
+EBRC France,it-services,Verdun,https://www.ebrc.com,,,,51-1000,Services cloud & cybersécurité,2026-09-24
+GHT Unisanté (DSI Verdun),healthtech,Verdun,https://www.ch-verdun.fr,,,,1000+,Équipe informatique hospitalière,2026-09-24
+Groupama Grand Est (Agence Bar-le-Duc),insurance,Bar-le-Duc,https://www.groupama.fr,,,,1000+,Équipe informatique locale,2026-09-24
+Koesio Est (Agence Bar-le-Duc),it-services,Bar-le-Duc,https://koesio.com,,,,11-50,ESN & services numériques,2026-09-24
+Lactalis (Site de Cléry-le-Petit),industrial,Cléry-le-Petit,https://www.lactalis.fr,,,,1000+,Équipe SI industrielle locale,2026-09-24
+Meuse Département (DSI),public-sector,Bar-le-Duc,https://www.meuse.fr,,,,1000+,Équipe informatique locale,2026-09-24
+Meuse Grand Sud (DSI),public-sector,Bar-le-Duc,https://www.meusegrandsud.fr,,,,51-1000,Équipe informatique locale,2026-09-24
+Orange (Antenne Réseau Meuse),telecom,Bar-le-Duc,https://www.orange.fr,,,,1000+,Infrastructures réseaux & IT,2026-09-24
+Safran Aero Boosters France,industrial,Commercy,https://www.safran-group.com,,,,1000+,Aéronautique & SI industriel,2026-09-24
+Sodetal,industrial,Ligny-en-Barrois,https://www.sodetal.com,,,,51-1000,Équipe SI industrielle locale,2026-09-24
+Sogetrel Meuse,telecom,Verdun,https://www.sogetrel.fr,,,,1000+,Infrastructures télécoms & réseaux,2026-09-24
+Syndicat Mixte Somme-Suippe Numérique,telecom,Bar-le-Duc,https://www.lafibre-meuse.fr,,,,1-10,Infrastructures très haut débit,2026-09-24
+Ville de Bar-le-Duc (DSI),public-sector,Bar-le-Duc,https://www.barleduc.fr,,,,51-1000,Équipe informatique locale,2026-09-24
+Ville de Verdun (DSI),public-sector,Verdun,https://www.verdun.fr,,,,51-1000,Équipe informatique locale,2026-09-24
+Xefi Bar-le-Duc,it-services,Bar-le-Duc,https://www.xefi.fr,,,,1-10,Services informatiques & cloud,2026-09-24
+Xefi Verdun,it-services,Verdun,https://www.xefi.fr,,,,1-10,Services informatiques & cloud,2026-09-24

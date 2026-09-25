@@ -1,24 +1,24 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
-Acolad,IT Services,Laval,https://www.acolad.com,,,,51-1000,Services numériques & ingénierie linguistique,2026-09-24
-Apis-Dev,Software,Laval,https://www.apis-dev.com,,,,1-10,Éditeur de logiciels sur-mesure,2026-09-24
-Caisse Régionale du Crédit Agricole Anjou Maine,Fintech / Insurtech,Laval,https://www.credit-agricole.fr/ca-anjoumaine/,,,,1000+,Équipe informatique locale,2026-09-24
-Cerenis,Software,Laval,https://www.cerenis.fr,,,,11-50,Éditeur de logiciels de gestion,2026-09-24
-CGI France,IT Services,Laval,https://www.cgi.com/france,,,,1000+,ESN & centre de services IT,2026-09-24
-Clarté,Deeptech,Laval,https://www.clarte-lab.com,,,,11-50,Centre de ressource & R&D Réalité Virtuelle,2026-09-24
-Econocom,IT Services,Laval,https://www.econocom.com,,,,1000+,ESN & services numériques,2026-09-24
-Espace Conseil Informatique (ECI),IT Services,Laval,https://www.eci-informatique.fr,,,,1-10,ESN & conseil systèmes réseaux,2026-09-24
-Gruau (Groupe),Industry,Saint-Berthevin,https://www.gruau.com,,,,51-1000,Équipe SI industrielle locale,2026-09-24
-Jouve (L Luminess),Software,Mayenne,https://www.luminess.eu,,,,1000+,Traitement de données & solutions numériques,2026-09-24
-Koesio Ouest (Agence Laval),IT Services,Laval,https://koesio.com,,,,11-50,ESN & services numériques,2026-09-24
-Lactalis (Siège mondial & DSI Groupe),Agtech,Laval,https://www.lactalis.fr,,,,1000+,DSI groupe & agtech,2026-09-24
-Laval Agglomération (DSI),Public Sector,Laval,https://www.laval-agglomeration.fr,,,,51-1000,Équipe informatique locale,2026-09-24
-Mayenne Département (DSI),Public Sector,Laval,https://www.lamayenne.fr,,,,1000+,Équipe informatique locale,2026-09-24
-MDS,Software,Laval,https://www.mds.fr,,,,11-50,Éditeur de logiciels RH,2026-09-24
-Medtech / Zimmer Biomet Robotics,Healthtech,Laval,https://www.zimmerbiomet.com,,,,51-1000,Robotique médicale & développement logiciel,2026-09-24
-ONET (Secteur Technologies),IT Services,Laval,https://www.onet.fr,,,,1000+,Ingénierie & services SI,2026-09-24
-Orange (Direction Réseau Mayenne),Telecom,Laval,https://www.orange.fr,,,,1000+,Infrastructures réseaux & IT,2026-09-24
-Sogetrel Mayenne,Telecom,Laval,https://www.sogetrel.fr,,,,1000+,Infrastructures réseaux & télécoms,2026-09-24
-Soregor (TGS France IT),IT Services,Laval,https://www.tgs-france.fr,,,,51-1000,Conseil & intégration de solutions SI,2026-09-24
-Symphony,Software,Laval,https://www.symphony-informatique.fr,,,,1-10,Éditeur de logiciels de gestion,2026-09-24
-Tendron,E-commerce / Retail,Laval,https://www.transports-tendron.com,,,,51-1000,Systèmes d'information logistiques,2026-09-24
-Xefi Laval,IT Services,Château-Gontier-sur-Mayenne,https://www.xefi.fr,,,,1-10,Services informatiques & cloud,2026-09-24
+Acolad,it-services,Laval,https://www.acolad.com,,,,51-1000,Services numériques & ingénierie linguistique,2026-09-24
+Apis-Dev,software,Laval,https://www.apis-dev.com,,,,1-10,Éditeur de logiciels sur-mesure,2026-09-24
+Caisse Régionale du Crédit Agricole Anjou Maine,banking,Laval,https://www.credit-agricole.fr/ca-anjoumaine/,,,,1000+,Équipe informatique locale,2026-09-24
+Cerenis,software,Laval,https://www.cerenis.fr,,,,11-50,Éditeur de logiciels de gestion,2026-09-24
+CGI France,it-services,Laval,https://www.cgi.com/france,,,,1000+,ESN & centre de services IT,2026-09-24
+Clarté,deeptech,Laval,https://www.clarte-lab.com,,,,11-50,Centre de ressource & R&D Réalité Virtuelle,2026-09-24
+Econocom,it-services,Laval,https://www.econocom.com,,,,1000+,ESN & services numériques,2026-09-24
+Espace Conseil Informatique (ECI),it-services,Laval,https://www.eci-informatique.fr,,,,1-10,ESN & conseil systèmes réseaux,2026-09-24
+Gruau (Groupe),industrial,Saint-Berthevin,https://www.gruau.com,,,,51-1000,Équipe SI industrielle locale,2026-09-24
+Jouve (L Luminess),software,Mayenne,https://www.luminess.eu,,,,1000+,Traitement de données & solutions numériques,2026-09-24
+Koesio Ouest (Agence Laval),it-services,Laval,https://koesio.com,,,,11-50,ESN & services numériques,2026-09-24
+Lactalis (Siège mondial & DSI Groupe),agtech,Laval,https://www.lactalis.fr,,,,1000+,DSI groupe & agtech,2026-09-24
+Laval Agglomération (DSI),public-sector,Laval,https://www.laval-agglomeration.fr,,,,51-1000,Équipe informatique locale,2026-09-24
+Mayenne Département (DSI),public-sector,Laval,https://www.lamayenne.fr,,,,1000+,Équipe informatique locale,2026-09-24
+MDS,software,Laval,https://www.mds.fr,,,,11-50,Éditeur de logiciels RH,2026-09-24
+Medtech / Zimmer Biomet Robotics,healthtech,Laval,https://www.zimmerbiomet.com,,,,51-1000,Robotique médicale & développement logiciel,2026-09-24
+ONET (Secteur Technologies),it-services,Laval,https://www.onet.fr,,,,1000+,Ingénierie & services SI,2026-09-24
+Orange (Direction Réseau Mayenne),telecom,Laval,https://www.orange.fr,,,,1000+,Infrastructures réseaux & IT,2026-09-24
+Sogetrel Mayenne,telecom,Laval,https://www.sogetrel.fr,,,,1000+,Infrastructures réseaux & télécoms,2026-09-24
+Soregor (TGS France IT),it-services,Laval,https://www.tgs-france.fr,,,,51-1000,Conseil & intégration de solutions SI,2026-09-24
+Symphony,software,Laval,https://www.symphony-informatique.fr,,,,1-10,Éditeur de logiciels de gestion,2026-09-24
+Tendron,ecommerce,Laval,https://www.transports-tendron.com,,,,51-1000,Systèmes d'information logistiques,2026-09-24
+Xefi Laval,it-services,Château-Gontier-sur-Mayenne,https://www.xefi.fr,,,,1-10,Services informatiques & cloud,2026-09-24

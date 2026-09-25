@@ -1,34 +1,34 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
-Aix-Marseille Université (LIS / DSI),Deeptech,Marseille,https://www.univ-amu.fr,,,,1000+,"R&D informatique, IA & DSI",2026-09-24
-Aix-Marseille-Provence Métropole (DSI),Public Sector,Marseille,https://ampmetropole.fr,,,,1000+,Équipe informatique locale,2026-09-24
-Akkodis,IT Services,Marseille,https://www.akkodis.com,,,,1000+,ESN & ingénierie R&D,2026-09-24
-Apside,IT Services,Aix-en-Provence,https://www.apside.com,,,,1000+,ESN & conseil en technologie,2026-09-24
-Atos,IT Services,Aix-en-Provence,https://atos.net,,,,1000+,ESN & services numériques,2026-09-24
-Avenir Telecom,Telecom,Marseille,https://www.avenir-telecom.com,,,,51-1000,Télécoms & distribution mobile,2026-09-24
-Bouches-du-Rhône Département (DSI),Public Sector,Marseille,https://www.departement13.fr,,,,1000+,Équipe informatique locale,2026-09-24
-Caisse Régionale du Crédit Agricole Alpes Provence (Siège),Fintech / Insurtech,Aix-en-Provence,https://www.credit-agricole.fr/ca-alpesprovence/,,,,1000+,Équipe informatique locale,2026-09-24
-Capgemini,IT Services,Aix-en-Provence,https://www.capgemini.com,,,,1000+,ESN & conseil en technologie,2026-09-24
-CEA Cadarache (DSI & R&D Numérique),Deeptech,Saint-Paul-lès-Durance,https://www.cea.fr,,,,1000+,"R&D, calcul intensif & simulation",2026-09-24
-CGI France,IT Services,Marseille,https://www.cgi.com/france,,,,1000+,ESN & conseil IT,2026-09-24
-CH humanis / AP-HM (DSI),Healthtech,Marseille,https://www.ap-hm.fr,,,,1000+,Équipe informatique hospitalière,2026-09-24
-CMA CGM (DSI Groupe),Industry,Marseille,https://www.cmacgm-group.com,,,,1000+,DSI groupe & transformation digitale,2026-09-24
-Crosscall,Software,Aix-en-Provence,https://www.crosscall.com,,,,51-1000,Mobile & solutions logicielles professionnelles,2026-09-24
-Digital Virgo,Software,Marseille,https://www.digitalvirgo.com,,,,51-1000,Solutions de paiement mobile & SaaS,2026-09-24
-Econocom,IT Services,Marseille,https://www.econocom.com,,,,1000+,ESN & services numériques,2026-09-24
-GIE Carte Bancaire CB,Fintech / Insurtech,Aix-en-Provence,https://www.cartes-bancaires.com,,,,51-1000,R&D & sécurité monétique,2026-09-24
-HighCo,Software,Aix-en-Provence,https://www.highco.com,,,,51-1000,Solutions SaaS marketing & data,2026-09-24
-Inria Centre AIX-Marseille,Deeptech,Marseille,https://www.inria.fr,,,,51-1000,Institut de recherche en numérique,2026-09-24
-ITER Organization (DSI & IT Infrastructure),Deeptech,Saint-Paul-lès-Durance,https://www.iter.org,,,,1000+,Systèmes d'information & supercalculateurs,2026-09-24
-Jaguar Network (Free Pro),IT Services,Marseille,https://www.freepro.com,,,,51-1000,"Opérateur cloud, data center & télécom",2026-09-24
-Koesio PACA,IT Services,Aix-en-Provence,https://koesio.com,,,,51-1000,ESN & services numériques,2026-09-24
-Niji,IT Services,Aix-en-Provence,https://www.niji.fr,,,,51-1000,ESN & conseil numérique,2026-09-24
-Orange (Direction Régionale Grand Sud-Est),Telecom,Marseille,https://www.orange.fr,,,,1000+,Infrastructures réseaux & IT,2026-09-24
-Smarteo / Voyageurs du Monde,Software,Marseille,https://www.voyageursdumonde.fr,,,,51-1000,Équipe SI & solutions traveltech,2026-09-24
-Sogetrel Bouches-du-Rhône,Telecom,Marseille,https://www.sogetrel.fr,,,,1000+,Infrastructures réseaux & télécoms,2026-09-24
-Sopra Steria,IT Services,Aix-en-Provence,https://www.soprasteria.com,,,,1000+,ESN & conseil du numérique,2026-09-24
-STMicroelectronics,Deeptech,Rousset,https://www.st.com,,,,1000+,Semi-conducteurs & logiciels embarqués,2026-09-24
-SuperSonic Imagine,Healthtech,Aix-en-Provence,https://www.supersonicimagine.fr,,,,51-1000,Imagerie médicale & développement logiciel,2026-09-24
-Thales DIS (ex-Gemalto),Deeptech,Gémenos,https://www.thalesgroup.com,,,,1000+,"IoT, cartes à puce & cybersécurité",2026-09-24
-Voyageprive.com,E-commerce / Retail,Aix-en-Provence,https://www.voyage-prive.com,,,,51-1000,Plateforme e-commerce & traveltech,2026-09-24
-Wiko,Software,Marseille,https://fr.wikomobile.com,,,,51-1000,Mobile & développement applicatif,2026-09-24
-Xefi Marseille,IT Services,Marseille,https://www.xefi.fr,,,,11-50,Services informatiques & cloud,2026-09-24
+Aix-Marseille Université (LIS / DSI),deeptech,Marseille,https://www.univ-amu.fr,,,,1000+,"R&D informatique, IA & DSI",2026-09-24
+Aix-Marseille-Provence Métropole (DSI),public-sector,Marseille,https://ampmetropole.fr,,,,1000+,Équipe informatique locale,2026-09-24
+Akkodis,it-services,Marseille,https://www.akkodis.com,,,,1000+,ESN & ingénierie R&D,2026-09-24
+Apside,it-services,Aix-en-Provence,https://www.apside.com,,,,1000+,ESN & conseil en technologie,2026-09-24
+Atos,it-services,Aix-en-Provence,https://atos.net,,,,1000+,ESN & services numériques,2026-09-24
+Avenir Telecom,telecom,Marseille,https://www.avenir-telecom.com,,,,51-1000,Télécoms & distribution mobile,2026-09-24
+Bouches-du-Rhône Département (DSI),public-sector,Marseille,https://www.departement13.fr,,,,1000+,Équipe informatique locale,2026-09-24
+Caisse Régionale du Crédit Agricole Alpes Provence (Siège),banking,Aix-en-Provence,https://www.credit-agricole.fr/ca-alpesprovence/,,,,1000+,Équipe informatique locale,2026-09-24
+Capgemini,it-services,Aix-en-Provence,https://www.capgemini.com,,,,1000+,ESN & conseil en technologie,2026-09-24
+CEA Cadarache (DSI & R&D Numérique),deeptech,Saint-Paul-lès-Durance,https://www.cea.fr,,,,1000+,"R&D, calcul intensif & simulation",2026-09-24
+CGI France,it-services,Marseille,https://www.cgi.com/france,,,,1000+,ESN & conseil IT,2026-09-24
+CH humanis / AP-HM (DSI),healthtech,Marseille,https://www.ap-hm.fr,,,,1000+,Équipe informatique hospitalière,2026-09-24
+CMA CGM (DSI Groupe),industrial,Marseille,https://www.cmacgm-group.com,,,,1000+,DSI groupe & transformation digitale,2026-09-24
+Crosscall,software,Aix-en-Provence,https://www.crosscall.com,,,,51-1000,Mobile & solutions logicielles professionnelles,2026-09-24
+Digital Virgo,software,Marseille,https://www.digitalvirgo.com,,,,51-1000,Solutions de paiement mobile & SaaS,2026-09-24
+Econocom,it-services,Marseille,https://www.econocom.com,,,,1000+,ESN & services numériques,2026-09-24
+GIE Carte Bancaire CB,banking,Aix-en-Provence,https://www.cartes-bancaires.com,,,,51-1000,R&D & sécurité monétique,2026-09-24
+HighCo,software,Aix-en-Provence,https://www.highco.com,,,,51-1000,Solutions SaaS marketing & data,2026-09-24
+Inria Centre AIX-Marseille,deeptech,Marseille,https://www.inria.fr,,,,51-1000,Institut de recherche en numérique,2026-09-24
+ITER Organization (DSI & IT Infrastructure),deeptech,Saint-Paul-lès-Durance,https://www.iter.org,,,,1000+,Systèmes d'information & supercalculateurs,2026-09-24
+Jaguar Network (Free Pro),it-services,Marseille,https://www.freepro.com,,,,51-1000,"Opérateur cloud, data center & télécom",2026-09-24
+Koesio PACA,it-services,Aix-en-Provence,https://koesio.com,,,,51-1000,ESN & services numériques,2026-09-24
+Niji,it-services,Aix-en-Provence,https://www.niji.fr,,,,51-1000,ESN & conseil numérique,2026-09-24
+Orange (Direction Régionale Grand Sud-Est),telecom,Marseille,https://www.orange.fr,,,,1000+,Infrastructures réseaux & IT,2026-09-24
+Smarteo / Voyageurs du Monde,software,Marseille,https://www.voyageursdumonde.fr,,,,51-1000,Équipe SI & solutions traveltech,2026-09-24
+Sogetrel Bouches-du-Rhône,telecom,Marseille,https://www.sogetrel.fr,,,,1000+,Infrastructures réseaux & télécoms,2026-09-24
+Sopra Steria,it-services,Aix-en-Provence,https://www.soprasteria.com,,,,1000+,ESN & conseil du numérique,2026-09-24
+STMicroelectronics,deeptech,Rousset,https://www.st.com,,,,1000+,Semi-conducteurs & logiciels embarqués,2026-09-24
+SuperSonic Imagine,healthtech,Aix-en-Provence,https://www.supersonicimagine.fr,,,,51-1000,Imagerie médicale & développement logiciel,2026-09-24
+Thales DIS (ex-Gemalto),deeptech,Gémenos,https://www.thalesgroup.com,,,,1000+,"IoT, cartes à puce & cybersécurité",2026-09-24
+Voyageprive.com,ecommerce,Aix-en-Provence,https://www.voyage-prive.com,,,,51-1000,Plateforme e-commerce & traveltech,2026-09-24
+Wiko,software,Marseille,https://fr.wikomobile.com,,,,51-1000,Mobile & développement applicatif,2026-09-24
+Xefi Marseille,it-services,Marseille,https://www.xefi.fr,,,,11-50,Services informatiques & cloud,2026-09-24

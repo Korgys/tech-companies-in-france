@@ -37,6 +37,14 @@ jobs:
                       "linkedin_url", "known_stack", "company_size", "notes",
                       "last_verified",
                   ]
+                  allowed_domains = {
+                      "adtech", "agency", "agtech", "ai", "banking",
+                      "cybersecurity", "data", "deeptech", "digital",
+                      "ecommerce", "edtech", "energy", "enterprise", "fintech",
+                      "gaming", "healthtech", "industrial", "insurance",
+                      "it-services", "public-sector", "robotics", "saas",
+                      "software", "studio", "telecom", "transport",
+                  }
                   errors = []
                   total = 0
 
@@ -69,6 +77,15 @@ jobs:
                                               f"{location}: nom non trié ({name!r} doit précéder {previous_name!r})"
                                           )
                                       previous_name = name
+                                  domain = row[expected.index("domain")]
+                                  domains = domain.split("|") if domain else []
+                                  if not domains or any(not value for value in domains) or len(domains) != len(set(domains)):
+                                      errors.append(f"{location}: domain est vide ou contient une valeur dupliquée")
+                                  invalid_domains = sorted(set(domains) - allowed_domains)
+                                  if invalid_domains:
+                                      errors.append(
+                                          f"{location}: domain non autorisé : {', '.join(invalid_domains)}"
+                                      )
                                   verified = row[expected.index("last_verified")]
                                   if verified:
                                       try:

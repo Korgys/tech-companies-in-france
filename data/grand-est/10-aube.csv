@@ -1,29 +1,29 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
-3D Morpho,Software,Rosières-près-Troyes,https://www.3dmorpho.fr,,, ,1-10,Éditeur de logiciels 3D & imagerie,2026-09-24
-Adista Troyes,IT Services,Rosieres-près-Troyes,https://www.adista.fr,,, ,1000+,ESN & opérateur cloud/télécom,2026-09-24
-Andys EA Solutions,IT Services,Rosières-près-Troyes,https://www.andys-ea.fr,,, ,11-50,Entreprise adaptée services informatiques,2026-09-24
-API Medical,Software,Rosières-près-Troyes,https://www.api-medical.fr,,, ,1-10,Logiciels de gestion médicale,2026-09-24
-Aube Département (DSI),Public Sector,Troyes,https://www.aube.fr,,, ,1000+,Équipe informatique locale,2026-09-24
-Banque Populaire Alsace Lorraine Champagne (Siège régional),Fintech / Insurtech,Troyes,https://www.banquepopulaire.fr/bpalc/,,, ,1000+,Équipe informatique locale,2026-09-24
-Caisse Régionale du Crédit Agricole de Champagne-Bourgogne,Fintech / Insurtech,Troyes,https://www.credit-agricole.fr/ca-cb/,,, ,1000+,Équipe informatique locale,2026-09-24
-Comarch France,Software,Troyes,https://www.comarch.fr,,, ,51-1000,Éditeur de logiciels & intégrateur IT,2026-09-24
-Disaronno Ingredients (SI France),Industry,Nogent-sur-Seine,https://www.disaronnoingredients.com,,, ,51-1000,Équipe SI industrielle locale,2026-09-24
-Enocia,IT Services,Troyes,https://enocia.net,,, ,1-10,ESN & infrastructures informatiques,2026-09-24
-Groupama Grand Est (Centre de Gestion),Fintech / Insurtech,Troyes,https://www.groupama.fr,,, ,1000+,Équipe informatique locale,2026-09-24
-Hicones Ingénierie,IT Services,Troyes,https://www.hicones.fr,,, ,1-10,ESN & développement sur-mesure,2026-09-24
-Infflux (Groupe Scallog),Software,Rosières-près-Troyes,https://www.infflux.com,,, ,11-50,Éditeur de logiciels WMS / Supply Chain,2026-09-24
-Jestimo,Software,Rosières-près-Troyes,https://www.jestimo.fr,,, ,1-10,SaaS & proptech,2026-09-24
-Kersia Group,Industry,Sainte-Maure,https://www.kersia-group.com,,, ,1000+,Équipe SI industrielle locale,2026-09-24
-Koesio Est,IT Services,Troyes,https://koesio.com,,, ,51-1000,ESN & services informatiques,2026-09-24
-La Champagne Picarde,Agtech,Bar-sur-Aube,https://www.champagne-picarde.fr,,, ,51-1000,SI & solutions agro-industrielles,2026-09-24
-Matra Electronics,Industry,Romilly-sur-Seine,https://www.matra-electronics.com,,, ,51-1000,Équipe logicielle embarqué & R&D,2026-09-24
-Namkin,Software,Rosières-près-Troyes,https://www.namkin.fr,,, ,11-50,SaaS & MarTech IA BtoB,2026-09-24
-Norelem France,Industry,Fontvannes,https://www.norelem.fr,,, ,51-1000,Équipe SI & e-commerce technique,2026-09-24
-Omedys,Healthtech,Rosières-près-Troyes,https://www.omedys.fr,,, ,11-50,Plateforme SaaS de télémédecine,2026-09-24
-Petit Bateau (Groupe Rocher),E-commerce / Retail,Troyes,https://www.petit-bateau.fr,,, ,1000+,Équipe SI & e-commerce,2026-09-24
-Sogetrel,Telecom,Rosières-près-Troyes,https://www.sogetrel.fr,,, ,1000+,Infrastructures réseaux & numérique,2026-09-24
-Soufflet / InVivo,Agtech,Nogent-sur-Seine,https://www.soufflet.com,,, ,1000+,Équipe SI & agtech locale,2026-09-24
-Technopole de l'Aube en Champagne,Public Sector,Rosières-près-Troyes,https://technopole-aube.fr,,, ,11-50,Écosystème & pépinière tech,2026-09-24
-Troyes Champagne Métropole (DSI),Public Sector,Troyes,https://www.troyeschampagnemetropole.fr,,, ,1000+,Équipe informatique locale,2026-09-24
-UTT - Université de Technologie de Troyes,Deeptech,Troyes,https://www.utt.fr,,, ,51-1000,"R&D logicielle, cybersécurité & IA",2026-09-24
-Xefi Troyes,IT Services,Saint-Julien-les-Villas,https://www.xefi.fr,,, ,1-10,Services informatiques & cloud,2026-09-24
+3D Morpho,software,Rosières-près-Troyes,https://www.3dmorpho.fr,,, ,1-10,Éditeur de logiciels 3D & imagerie,2026-09-24
+Adista Troyes,it-services,Rosieres-près-Troyes,https://www.adista.fr,,, ,1000+,ESN & opérateur cloud/télécom,2026-09-24
+Andys EA Solutions,it-services,Rosières-près-Troyes,https://www.andys-ea.fr,,, ,11-50,Entreprise adaptée services informatiques,2026-09-24
+API Medical,software,Rosières-près-Troyes,https://www.api-medical.fr,,, ,1-10,Logiciels de gestion médicale,2026-09-24
+Aube Département (DSI),public-sector,Troyes,https://www.aube.fr,,, ,1000+,Équipe informatique locale,2026-09-24
+Banque Populaire Alsace Lorraine Champagne (Siège régional),banking,Troyes,https://www.banquepopulaire.fr/bpalc/,,, ,1000+,Équipe informatique locale,2026-09-24
+Caisse Régionale du Crédit Agricole de Champagne-Bourgogne,banking,Troyes,https://www.credit-agricole.fr/ca-cb/,,, ,1000+,Équipe informatique locale,2026-09-24
+Comarch France,software,Troyes,https://www.comarch.fr,,, ,51-1000,Éditeur de logiciels & intégrateur IT,2026-09-24
+Disaronno Ingredients (SI France),industrial,Nogent-sur-Seine,https://www.disaronnoingredients.com,,, ,51-1000,Équipe SI industrielle locale,2026-09-24
+Enocia,it-services,Troyes,https://enocia.net,,, ,1-10,ESN & infrastructures informatiques,2026-09-24
+Groupama Grand Est (Centre de Gestion),insurance,Troyes,https://www.groupama.fr,,, ,1000+,Équipe informatique locale,2026-09-24
+Hicones Ingénierie,it-services,Troyes,https://www.hicones.fr,,, ,1-10,ESN & développement sur-mesure,2026-09-24
+Infflux (Groupe Scallog),software,Rosières-près-Troyes,https://www.infflux.com,,, ,11-50,Éditeur de logiciels WMS / Supply Chain,2026-09-24
+Jestimo,software,Rosières-près-Troyes,https://www.jestimo.fr,,, ,1-10,SaaS & proptech,2026-09-24
+Kersia Group,industrial,Sainte-Maure,https://www.kersia-group.com,,, ,1000+,Équipe SI industrielle locale,2026-09-24
+Koesio Est,it-services,Troyes,https://koesio.com,,, ,51-1000,ESN & services informatiques,2026-09-24
+La Champagne Picarde,agtech,Bar-sur-Aube,https://www.champagne-picarde.fr,,, ,51-1000,SI & solutions agro-industrielles,2026-09-24
+Matra Electronics,industrial,Romilly-sur-Seine,https://www.matra-electronics.com,,, ,51-1000,Équipe logicielle embarqué & R&D,2026-09-24
+Namkin,software,Rosières-près-Troyes,https://www.namkin.fr,,, ,11-50,SaaS & MarTech IA BtoB,2026-09-24
+Norelem France,industrial,Fontvannes,https://www.norelem.fr,,, ,51-1000,Équipe SI & e-commerce technique,2026-09-24
+Omedys,healthtech,Rosières-près-Troyes,https://www.omedys.fr,,, ,11-50,Plateforme SaaS de télémédecine,2026-09-24
+Petit Bateau (Groupe Rocher),ecommerce,Troyes,https://www.petit-bateau.fr,,, ,1000+,Équipe SI & e-commerce,2026-09-24
+Sogetrel,telecom,Rosières-près-Troyes,https://www.sogetrel.fr,,, ,1000+,Infrastructures réseaux & numérique,2026-09-24
+Soufflet / InVivo,agtech,Nogent-sur-Seine,https://www.soufflet.com,,, ,1000+,Équipe SI & agtech locale,2026-09-24
+Technopole de l'Aube en Champagne,public-sector,Rosières-près-Troyes,https://technopole-aube.fr,,, ,11-50,Écosystème & pépinière tech,2026-09-24
+Troyes Champagne Métropole (DSI),public-sector,Troyes,https://www.troyeschampagnemetropole.fr,,, ,1000+,Équipe informatique locale,2026-09-24
+UTT - Université de Technologie de Troyes,deeptech,Troyes,https://www.utt.fr,,, ,51-1000,"R&D logicielle, cybersécurité & IA",2026-09-24
+Xefi Troyes,it-services,Saint-Julien-les-Villas,https://www.xefi.fr,,, ,1-10,Services informatiques & cloud,2026-09-24

@@ -1,30 +1,30 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
-Akkodis,IT Services,Sophia Antipolis,https://www.akkodis.com,,,,1000+,ESN & ingénierie R&D,2026-09-24
-Alpes-Maritimes Département (DSI),Public Sector,Nice,https://www.departement06.fr,,,,1000+,Équipe informatique locale,2026-09-24
-Amadeus,Software,Sophia Antipolis,https://www.amadeus.com,,,,1000+,Éditeur SaaS & tech pour le voyage,2026-09-24
-Apside,IT Services,Sophia Antipolis,https://www.apside.com,,,,1000+,ESN & conseil en technologie,2026-09-24
-ARM France,Deeptech,Sophia Antipolis,https://www.arm.com,,,,51-1000,Conception microprocesseurs & R&D logicielle,2026-09-24
-Atos,IT Services,Sophia Antipolis,https://atos.net,,,,1000+,ESN & services numériques,2026-09-24
-Caisse Régionale du Crédit Agricole PCA,Fintech / Insurtech,Nice,https://www.credit-agricole.fr/ca-pca/,,,,1000+,Équipe informatique locale,2026-09-24
-Capgemini,IT Services,Sophia Antipolis,https://www.capgemini.com,,,,1000+,ESN & conseil en technologie,2026-09-24
-CGI France,IT Services,Sophia Antipolis,https://www.cgi.com/france,,,,1000+,ESN & conseil IT,2026-09-24
-CHU de Nice (DSI),Healthtech,Nice,https://www.chu-nice.fr,,,,1000+,Équipe informatique hospitalière,2026-09-24
-Cisco Systems France,Deeptech,Sophia Antipolis,https://www.cisco.com,,,,51-1000,R&D réseaux & cybersécurité,2026-09-24
-Econocom,IT Services,Sophia Antipolis,https://www.econocom.com,,,,1000+,ESN & services numériques,2026-09-24
-Inria Centre Université Côte d'Azur,Deeptech,Sophia Antipolis,https://www.inria.fr,,,,51-1000,Institut de recherche en numérique & IA,2026-09-24
-Intel Corporation France,Deeptech,Sophia Antipolis,https://www.intel.fr,,,,51-1000,R&D semi-conducteurs & logiciels embarqués,2026-09-24
-Kandis,Software,Sophia Antipolis,https://www.kandis.fr,,,,11-50,Éditeur logiciels SIG & télécoms,2026-09-24
-Koesio PACA,IT Services,Nice,https://koesio.com,,,,51-1000,ESN & services numériques,2026-09-24
-Metropole Nice Côte d'Azur (DSI),Public Sector,Nice,https://www.nicecotedazur.org,,,,1000+,Équipe informatique locale,2026-09-24
-NXP Semiconductors,Deeptech,Sophia Antipolis,https://www.nxp.com,,,,51-1000,Semi-conducteurs & cybersécurité embarquée,2026-09-24
-Orange (Centre R&D & Direction Régionale),Telecom,Sophia Antipolis,https://www.orange.fr,,,,1000+,"R&D réseaux, 5G & IT",2026-09-24
-Qualcomm France,Deeptech,Sophia Antipolis,https://www.qualcomm.com,,,,51-1000,"R&D télécoms, IoT & puces mobiles",2026-09-24
-SAP Labs France,Software,MOUGINS,https://www.sap.com,,,,51-1000,Centre R&D éditeur SaaS,2026-09-24
-Sogetrel Alpes-Maritimes,Telecom,Nice,https://www.sogetrel.fr,,,,1000+,Infrastructures réseaux & télécoms,2026-09-24
-Sopra Steria,IT Services,Sophia Antipolis,https://www.soprasteria.com,,,,1000+,ESN & conseil du numérique,2026-09-24
-Symantec (Broadcom),Software,Sophia Antipolis,https://www.broadcom.com,,,,51-1000,Centre R&D cybersécurité,2026-09-24
-Thales Alenia Space,Deeptech,Cannes,https://www.thalesgroup.com,,,,1000+,"Spatial, logiciels embarqués & R&D",2026-09-24
-Thales DIS,Deeptech,Sophia Antipolis,https://www.thalesgroup.com,,,,51-1000,Cybersécurité & cartes à puce,2026-09-24
-Université Côte d'Azur (3IA / DSI),Deeptech,Nice,https://univ-cotedazur.fr,,,,1000+,"Institut IA, recherche informatique & DSI",2026-09-24
-Ville de Cannes (DSI),Public Sector,Cannes,https://www.cannes.com,,,,51-1000,Équipe informatique locale,2026-09-24
-Xefi Nice,IT Services,Nice,https://www.xefi.fr,,,,11-50,Services informatiques & cloud,2026-09-24
+Akkodis,it-services,Sophia Antipolis,https://www.akkodis.com,,,,1000+,ESN & ingénierie R&D,2026-09-24
+Alpes-Maritimes Département (DSI),public-sector,Nice,https://www.departement06.fr,,,,1000+,Équipe informatique locale,2026-09-24
+Amadeus,software,Sophia Antipolis,https://www.amadeus.com,,,,1000+,Éditeur SaaS & tech pour le voyage,2026-09-24
+Apside,it-services,Sophia Antipolis,https://www.apside.com,,,,1000+,ESN & conseil en technologie,2026-09-24
+ARM France,deeptech,Sophia Antipolis,https://www.arm.com,,,,51-1000,Conception microprocesseurs & R&D logicielle,2026-09-24
+Atos,it-services,Sophia Antipolis,https://atos.net,,,,1000+,ESN & services numériques,2026-09-24
+Caisse Régionale du Crédit Agricole PCA,banking,Nice,https://www.credit-agricole.fr/ca-pca/,,,,1000+,Équipe informatique locale,2026-09-24
+Capgemini,it-services,Sophia Antipolis,https://www.capgemini.com,,,,1000+,ESN & conseil en technologie,2026-09-24
+CGI France,it-services,Sophia Antipolis,https://www.cgi.com/france,,,,1000+,ESN & conseil IT,2026-09-24
+CHU de Nice (DSI),healthtech,Nice,https://www.chu-nice.fr,,,,1000+,Équipe informatique hospitalière,2026-09-24
+Cisco Systems France,deeptech,Sophia Antipolis,https://www.cisco.com,,,,51-1000,R&D réseaux & cybersécurité,2026-09-24
+Econocom,it-services,Sophia Antipolis,https://www.econocom.com,,,,1000+,ESN & services numériques,2026-09-24
+Inria Centre Université Côte d'Azur,deeptech,Sophia Antipolis,https://www.inria.fr,,,,51-1000,Institut de recherche en numérique & IA,2026-09-24
+Intel Corporation France,deeptech,Sophia Antipolis,https://www.intel.fr,,,,51-1000,R&D semi-conducteurs & logiciels embarqués,2026-09-24
+Kandis,software,Sophia Antipolis,https://www.kandis.fr,,,,11-50,Éditeur logiciels SIG & télécoms,2026-09-24
+Koesio PACA,it-services,Nice,https://koesio.com,,,,51-1000,ESN & services numériques,2026-09-24
+Metropole Nice Côte d'Azur (DSI),public-sector,Nice,https://www.nicecotedazur.org,,,,1000+,Équipe informatique locale,2026-09-24
+NXP Semiconductors,deeptech,Sophia Antipolis,https://www.nxp.com,,,,51-1000,Semi-conducteurs & cybersécurité embarquée,2026-09-24
+Orange (Centre R&D & Direction Régionale),telecom,Sophia Antipolis,https://www.orange.fr,,,,1000+,"R&D réseaux, 5G & IT",2026-09-24
+Qualcomm France,deeptech,Sophia Antipolis,https://www.qualcomm.com,,,,51-1000,"R&D télécoms, IoT & puces mobiles",2026-09-24
+SAP Labs France,software,MOUGINS,https://www.sap.com,,,,51-1000,Centre R&D éditeur SaaS,2026-09-24
+Sogetrel Alpes-Maritimes,telecom,Nice,https://www.sogetrel.fr,,,,1000+,Infrastructures réseaux & télécoms,2026-09-24
+Sopra Steria,it-services,Sophia Antipolis,https://www.soprasteria.com,,,,1000+,ESN & conseil du numérique,2026-09-24
+Symantec (Broadcom),software,Sophia Antipolis,https://www.broadcom.com,,,,51-1000,Centre R&D cybersécurité,2026-09-24
+Thales Alenia Space,deeptech,Cannes,https://www.thalesgroup.com,,,,1000+,"Spatial, logiciels embarqués & R&D",2026-09-24
+Thales DIS,deeptech,Sophia Antipolis,https://www.thalesgroup.com,,,,51-1000,Cybersécurité & cartes à puce,2026-09-24
+Université Côte d'Azur (3IA / DSI),deeptech,Nice,https://univ-cotedazur.fr,,,,1000+,"Institut IA, recherche informatique & DSI",2026-09-24
+Ville de Cannes (DSI),public-sector,Cannes,https://www.cannes.com,,,,51-1000,Équipe informatique locale,2026-09-24
+Xefi Nice,it-services,Nice,https://www.xefi.fr,,,,11-50,Services informatiques & cloud,2026-09-24
