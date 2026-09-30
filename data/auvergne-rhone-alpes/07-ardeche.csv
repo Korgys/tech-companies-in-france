@@ -1,13 +1,13 @@
 name,domain,city,website,careers_url,linkedin_url,known_stack,company_size,notes,last_verified
 AD'VALOREM,software,ANNONAY,,,,,1-10,Éditeur de logiciels,2026-09-21
 ADRESY,software,LES OLLIERES-SUR-EYRIEUX,,,,,1-10,ESN,2026-09-21
-AKKODIS I&S SAS,software,GUILHERAND-GRANGES,,https://www.akkodis.com/fr/emplois,,,,ESN,2026-09-21
+AKKODIS I&S SAS,software,GUILHERAND-GRANGES,https://www.akkodis.com/fr/,https://www.akkodis.com/fr/emplois,,,,ESN,2026-09-30
 ALOHIA,software,TALENCIEUX,,,https://www.linkedin.com/company/alohiafr/,,,Développement logiciel,2026-09-21
 ARDCODE,software,SAINT-DIDIER-SOUS-AUBENAS,,,,,,ESN,2026-09-21
 ASSAPAN,software,LUSSAS,,,,,1-10,Développement logiciel,2026-09-21
 BFICHTER,software,SAINT-PERAY,,,,,1-10,Développement logiciel,2026-09-21
 BLITZ BUSINESS SERVICES PAR ABREVIATION BLITZ BS,software,GUILHERAND-GRANGES,,,,,1-10,Développement logiciel,2026-09-21
-CAPGEMINI TECHNOLOGY SERVICES,software,RUOMS,,https://www.capgemini.com/fr-fr/jobs/,https://www.linkedin.com/company/capgemini/,,1000+,ESN,2026-09-21
+CAPGEMINI TECHNOLOGY SERVICES,software,RUOMS,https://www.capgemini.com/fr-fr/,https://www.capgemini.com/fr-fr/jobs/,https://www.linkedin.com/company/capgemini/,,1000+,ESN,2026-09-30
 CEVENNES SERVICES INFORMATIQUE,software,ROSIERES,,,,,1-10,Services informatiques,2026-09-21
 COMPILONS,software,LES VANS,,,,,1-10,Développement logiciel,2026-09-21
 CONDUENT BUSINESS PROCESS SOLUTIONS,software,GUILHERAND-GRANGES,,,,,51-1000,Développement logiciel,2026-09-21
@@ -30,7 +30,7 @@ KAYOUSOFT,software,SOYONS,,,https://www.linkedin.com/company/kayousoft/,,1-10,É
 KIWI NETWORKS,software,MONESTIER,,,,,,Développement logiciel,2026-09-21
 LMI7,software,SAINT-MARTIN-DE-VALAMAS,,,,,1-10,Développement logiciel,2026-09-21
 MILL,software,PRIVAS,,,,,1-10,Développement logiciel,2026-09-21
-MOVE SOLUTIONS,software,SAINT-ETIENNE-DE-FONTBELLON,,https://movesol.com/emploi-candidature/,https://www.linkedin.com/company/move-solutions_2/,,11-50,Développement logiciel,2026-09-21
+MOVE SOLUTIONS,software,SAINT-ETIENNE-DE-FONTBELLON,https://movesol.com/,https://movesol.com/emploi-candidature/,https://www.linkedin.com/company/move-solutions_2/,,11-50,Développement logiciel,2026-09-30
 MTCOM,software,SAINT-DIDIER-SOUS-AUBENAS,,,,,1-10,Développement logiciel,2026-09-21
 NOMANA-IT,software,GRAS,,,https://www.linkedin.com/company/nomana-it/,Node.js|React|FastAPI|PHP|Java,1-10,ESN,2026-09-21
 OQOOL,software,PRIVAS,,,,,1-10,ESN,2026-09-21
@@ -41,11 +41,11 @@ PRO ' INFORMATIQUE,software,SAINT-PERAY,,,,,1-10,ESN,2026-09-21
 QUADRA,software,SAINT-DIDIER-SOUS-AUBENAS,,,,,,Éditeur de logiciels,2026-09-21
 SARL CREATIVE COMPUTER SOLUTIONS,software,PRUNET,,,,,1-10,ESN,2026-09-21
 SELKO,software,BOURG-SAINT-ANDEOL,,,,,,ESN,2026-09-21
-SKIPPER TECHNOLOGIES,software,LE POUZIN,,https://www.skipper-logistique.com/nous-rejoindre/,https://www.linkedin.com/company/skipper-technologies/,,,Hébergement et traitement de données,2026-09-21
+SKIPPER TECHNOLOGIES,software,LE POUZIN,https://www.skipper-logistique.com/,https://www.skipper-logistique.com/nous-rejoindre/,https://www.linkedin.com/company/skipper-technologies/,,,Hébergement et traitement de données,2026-09-30
 SYNELIENCE,software,GUILHERAND-GRANGES,,,,,,ESN,2026-09-21
 TDR-IT CONSULTING,software,GRAS,,,,,,ESN,2026-09-21
 TRDEV07,software,PRIVAS,,,,,,ESN,2026-09-21
 VEMAD INFORMATIQUE,software,VERNOSC-LES-ANNONAY,,,https://www.linkedin.com/company/vemad-informatique/,,1-10,Développement logiciel,2026-09-21
-VISIATIV SOFTWARE,software,GUILHERAND-GRANGES,,https://jobs.visiativ.com/jobs,,,51-1000,Éditeur de logiciels,2026-09-21
+VISIATIV SOFTWARE,software,GUILHERAND-GRANGES,https://www.visiativ.com/,https://jobs.visiativ.com/jobs,,,51-1000,Éditeur de logiciels,2026-09-30
 WXC,software,SAINT-GENEST-DE-BEAUZON,,,,,1-10,ESN,2026-09-21
 ZEFYX,software,LACHAPELLE-SOUS-AUBENAS,,,https://www.linkedin.com/company/z%C3%A9fyx/,,1-10,Développement logiciel,2026-09-21
